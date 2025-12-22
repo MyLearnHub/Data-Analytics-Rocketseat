@@ -40,3 +40,9 @@ Garantir que os dados certos estejam disponíveis para consumo.
 ### A/B Testing
 
 ![Diagrama do A/B Testing](assets/attachment_9.png)
+
+## Base conceitual de dados
+
+### Tipos de análises
+
+![Diagrama de tipos de análises](assets/attachment_10.png)
