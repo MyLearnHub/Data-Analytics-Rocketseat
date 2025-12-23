@@ -39,3 +39,23 @@
 ### Perguntas para refinar
 
 ![Resumo de questões](assets/attachment_19.png)
+
+## Stakeholders da análise
+
+### R.A.C.I
+
+![Acrônimo R.A.C.I](assets/attachment_20.png)
+
+![Diagrama R.A.CI](assets/attachment_21.png)
+
+![Como usar o R.A.C.I](assets/attachment_22.png)
+
+## Priorização de demandas
+
+### Classificação de demanda
+
+![Classificação de demanda](assets/attachment_23.png)
+
+### Priorização
+
+![Priorização de demandas](assets/attachment_24.png)
