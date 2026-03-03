@@ -1,0 +1,168 @@
+Level,Country,Country ISO Code,Region,Region ISO Code,Revenue,Orders,NPS,Complaints
+country,Argentina,AR,,,1765.46,293277,-2,27610
+country,Bolívia,BO,,,1821.11,428875,87,34273
+country,Brasil,BR,,,1243.86,398196,11,36479
+country,Chile,CL,,,1141.34,69081,17,36925
+country,Colômbia,CO,,,521.63,183697,33,26638
+country,Costa Rica,CR,,,1615.25,850937,56,30590
+country,Cuba,CU,,,1828.31,329729,13,11490
+country,República Dominicana,DO,,,790.79,634666,-18,21741
+country,Equador,EC,,,1122.69,498748,21,15681
+country,El Salvador,SV,,,1111.77,894455,83,25141
+country,Guatemala,GT,,,1589.97,124462,8,20799
+country,Honduras,HN,,,2176.47,257950,27,49279
+country,México,MX,,,1337.15,616765,-15,41334
+country,Nicarágua,NI,,,1539.41,549617,11,15275
+country,Panamá,PA,,,1089.19,684487,75,25570
+country,Paraguai,PY,,,1699.74,590077,44,33766
+country,Peru,PE,,,2118.47,92363,61,12258
+country,Uruguai,UY,,,550.02,576732,-18,44277
+country,Venezuela,VE,,,1597.94,726182,-28,29762
+country,Porto Rico,PR,,,1427.42,167370,-11,34806
+state,Brasil,BR,Acre,BR-AC,268.64,208515,36,4697
+state,Brasil,BR,Alagoas,BR-AL,741.6,252975,12,570
+state,Brasil,BR,Amapá,BR-AP,257.72,121261,54,11944
+state,Brasil,BR,Amazonas,BR-AM,297.61,229476,41,8315
+state,Brasil,BR,Bahia,BR-BA,137.88,121466,-1,4154
+state,Brasil,BR,Ceará,BR-CE,420.24,200987,-17,1614
+state,Brasil,BR,Distrito Federal,BR-DF,271.14,199484,71,6661
+state,Brasil,BR,Espírito Santo,BR-ES,686.47,117296,8,4283
+state,Brasil,BR,Goiás,BR-GO,153.44,249246,10,6650
+state,Brasil,BR,Maranhão,BR-MA,471.27,157895,-29,11860
+state,Brasil,BR,Mato Grosso,BR-MT,726.17,64667,5,6264
+state,Brasil,BR,Mato Grosso do Sul,BR-MS,723.49,295138,0,6794
+state,Brasil,BR,Minas Gerais,BR-MG,649.44,120127,57,1974
+state,Brasil,BR,Pará,BR-PA,488.54,260161,88,998
+state,Brasil,BR,Paraíba,BR-PB,354.11,63749,24,6595
+state,Brasil,BR,Paraná,BR-PR,92.79,91167,81,6849
+state,Brasil,BR,Pernambuco,BR-PE,376.78,226797,59,630
+state,Brasil,BR,Piauí,BR-PI,572.78,252255,-10,9382
+state,Brasil,BR,Rio de Janeiro,BR-RJ,243.5,94021,49,1381
+state,Brasil,BR,Rio Grande do Norte,BR-RN,538.6,266693,53,5311
+state,Brasil,BR,Rio Grande do Sul,BR-RS,361.81,230233,37,1064
+state,Brasil,BR,Rondônia,BR-RO,474.48,245008,10,11134
+state,Brasil,BR,Roraima,BR-RR,605.56,173496,60,995
+state,Brasil,BR,Santa Catarina,BR-SC,690.32,246986,79,1587
+state,Brasil,BR,São Paulo,BR-SP,83.79,44109,17,5120
+state,Brasil,BR,Sergipe,BR-SE,458.53,39306,-5,9749
+state,Brasil,BR,Tocantins,BR-TO,385.03,242957,-29,6641
+state,México,MX,Aguascalientes,MX-AGU,746.91,175906,-5,8627
+state,México,MX,Baja California,MX-BCN,315.61,201510,-26,7649
+state,México,MX,Baja California Sur,MX-BCS,45.11,224199,26,1504
+state,México,MX,Campeche,MX-CAM,443.26,22832,48,11953
+state,México,MX,Coahuila,MX-COA,620.13,173410,-17,8413
+state,México,MX,Colima,MX-COL,535.71,17581,65,6248
+state,México,MX,Chiapas,MX-CHP,352.18,237091,19,5798
+state,México,MX,Chihuahua,MX-CHH,161.67,98431,71,2283
+state,México,MX,Ciudad de México,MX-CMX,345.49,296743,-1,11006
+state,México,MX,Durango,MX-DUR,736.35,30115,25,6051
+state,México,MX,Guanajuato,MX-GUA,264.66,17059,0,1191
+state,México,MX,Guerrero,MX-GRO,205.83,242913,77,566
+state,México,MX,Hidalgo,MX-HID,255.52,294232,34,7534
+state,México,MX,Jalisco,MX-JAL,24.33,147018,88,4533
+state,México,MX,México,MX-MEX,95.69,140186,85,4134
+state,México,MX,Michoacán,MX-MIC,643.16,240257,-5,5348
+state,México,MX,Morelos,MX-MOR,578.17,124924,-7,11611
+state,México,MX,Nayarit,MX-NAY,527.59,260041,-26,3239
+state,México,MX,Nuevo León,MX-NLE,411.62,23032,89,2875
+state,México,MX,Oaxaca,MX-OAX,311.95,66561,-17,2828
+state,México,MX,Puebla,MX-PUE,254.48,191429,3,4379
+state,México,MX,Querétaro,MX-QUE,24.64,111618,34,1986
+state,México,MX,Quintana Roo,MX-ROO,486.0,90066,45,363
+state,México,MX,San Luis Potosí,MX-SLP,712.32,7787,-14,9337
+state,México,MX,Sinaloa,MX-SIN,55.8,214166,86,10466
+state,México,MX,Sonora,MX-SON,573.93,287677,21,10480
+state,México,MX,Tabasco,MX-TAB,297.65,279139,-12,11283
+state,México,MX,Tamaulipas,MX-TAM,669.52,254278,-15,7178
+state,México,MX,Tlaxcala,MX-TLA,32.79,217191,-29,1063
+state,México,MX,Veracruz,MX-VER,195.89,262911,13,6502
+state,México,MX,Yucatán,MX-YUC,463.12,69962,38,7948
+state,México,MX,Zacatecas,MX-ZAC,252.63,127332,24,11191
+state,Argentina,AR,Buenos Aires,,478.25,284630,36,6031
+state,Argentina,AR,Catamarca,,22.76,145824,81,2420
+state,Argentina,AR,Chaco,,60.63,123813,14,10292
+state,Argentina,AR,Chubut,,40.76,276284,51,10855
+state,Argentina,AR,Ciudad Autónoma de Buenos Aires,,493.87,244150,10,4227
+state,Argentina,AR,Córdoba,,324.1,227174,14,2944
+state,Argentina,AR,Corrientes,,751.38,272679,11,7633
+state,Argentina,AR,Entre Ríos,,233.6,64216,10,3958
+state,Argentina,AR,Formosa,,708.18,247224,55,11514
+state,Argentina,AR,Jujuy,,349.58,75774,-15,3647
+state,Argentina,AR,La Pampa,,133.31,30379,42,4402
+state,Argentina,AR,La Rioja,,460.36,59826,51,2625
+state,Argentina,AR,Mendoza,,236.86,223302,37,4051
+state,Argentina,AR,Misiones,,443.53,209113,79,6989
+state,Argentina,AR,Neuquén,,201.5,224769,63,2444
+state,Argentina,AR,Río Negro,,660.05,141085,63,2887
+state,Argentina,AR,Salta,,279.41,286248,48,9285
+state,Argentina,AR,San Juan,,556.93,63678,26,9717
+state,Argentina,AR,San Luis,,546.53,4790,-19,4194
+state,Argentina,AR,Santa Cruz,,756.61,148883,2,4357
+state,Argentina,AR,Santa Fe,,184.31,128096,-3,10156
+state,Argentina,AR,Santiago del Estero,,375.89,86101,81,3806
+state,Argentina,AR,Tierra del Fuego,,729.58,15895,54,5832
+state,Argentina,AR,Tucumán,,366.49,13788,-25,4026
+state,Chile,CL,Arica y Parinacota,,758.75,186445,14,7363
+state,Chile,CL,Tarapacá,,180.78,52024,13,10367
+state,Chile,CL,Antofagasta,,417.33,91179,84,9800
+state,Chile,CL,Atacama,,271.92,291713,88,4933
+state,Chile,CL,Coquimbo,,531.62,123478,0,1037
+state,Chile,CL,Valparaíso,,225.62,83629,17,2259
+state,Chile,CL,Metropolitana de Santiago,,763.98,33555,45,5328
+state,Chile,CL,O'Higgins,,350.34,113481,74,3401
+state,Chile,CL,Maule,,36.05,275674,73,3358
+state,Chile,CL,Ñuble,,428.32,35399,-18,10057
+state,Chile,CL,Biobío,,340.01,199529,83,2979
+state,Chile,CL,La Araucanía,,30.26,10172,55,11098
+state,Chile,CL,Los Ríos,,384.52,114407,35,10314
+state,Chile,CL,Los Lagos,,528.68,72195,62,1658
+state,Chile,CL,Aysén,,149.14,184966,-1,8472
+state,Chile,CL,Magallanes,,292.62,85394,89,535
+state,Colômbia,CO,Antioquia,,523.74,14493,61,2799
+state,Colômbia,CO,Atlántico,,90.07,195589,57,8153
+state,Colômbia,CO,"Bogotá, D.C.",,60.48,90409,24,3480
+state,Colômbia,CO,Bolívar,,652.2,41941,43,11859
+state,Colômbia,CO,Boyacá,,723.99,68980,-29,11768
+state,Colômbia,CO,Caldas,,708.52,276083,19,8948
+state,Colômbia,CO,Caquetá,,186.01,119514,72,1574
+state,Colômbia,CO,Cauca,,717.21,150462,21,3702
+state,Colômbia,CO,Cesar,,735.14,156734,66,10298
+state,Colômbia,CO,Córdoba,,739.46,93104,10,7161
+state,Colômbia,CO,Cundinamarca,,364.23,280054,17,5759
+state,Colômbia,CO,Huila,,501.41,123207,89,1231
+state,Colômbia,CO,La Guajira,,192.07,98828,-12,3446
+state,Colômbia,CO,Magdalena,,627.81,158298,-25,11792
+state,Colômbia,CO,Meta,,500.49,20505,49,4571
+state,Colômbia,CO,Nariño,,125.83,170408,57,8069
+state,Colômbia,CO,Norte de Santander,,213.06,158885,34,8615
+state,Colômbia,CO,Quindío,,300.7,239926,45,508
+state,Colômbia,CO,Risaralda,,446.25,258987,38,2151
+state,Colômbia,CO,Santander,,418.09,227812,-16,9814
+state,Colômbia,CO,Sucre,,150.64,161620,16,3021
+state,Colômbia,CO,Tolima,,525.0,14105,61,6346
+state,Colômbia,CO,Valle del Cauca,,703.1,157653,-25,1766
+state,Peru,PE,Amazonas,,640.57,149116,23,3855
+state,Peru,PE,Áncash,,241.95,289868,21,10613
+state,Peru,PE,Apurímac,,525.57,257953,72,11477
+state,Peru,PE,Arequipa,,564.39,242202,57,7282
+state,Peru,PE,Ayacucho,,579.54,215577,-25,6217
+state,Peru,PE,Cajamarca,,638.27,75159,25,5248
+state,Peru,PE,Callao,,334.17,39186,33,5382
+state,Peru,PE,Cusco,,537.45,166175,-26,431
+state,Peru,PE,Huancavelica,,567.06,213151,85,10526
+state,Peru,PE,Huánuco,,385.09,188894,24,2714
+state,Peru,PE,Ica,,313.81,33853,49,2344
+state,Peru,PE,Junín,,390.86,290328,-26,1863
+state,Peru,PE,La Libertad,,252.89,282716,79,1985
+state,Peru,PE,Lambayeque,,785.27,225972,34,11183
+state,Peru,PE,Lima,,706.87,119220,48,7786
+state,Peru,PE,Loreto,,275.04,56278,26,3196
+state,Peru,PE,Madre de Dios,,296.95,286380,25,8234
+state,Peru,PE,Moquegua,,282.26,298770,49,2392
+state,Peru,PE,Pasco,,96.58,283124,83,7474
+state,Peru,PE,Piura,,33.25,69983,66,10511
+state,Peru,PE,Puno,,374.11,111559,2,1447
+state,Peru,PE,San Martín,,110.28,285923,67,2019
+state,Peru,PE,Tacna,,181.5,197698,61,9733
+state,Peru,PE,Tumbes,,147.4,295286,-2,7093
+state,Peru,PE,Ucayali,,478.34,290306,48,7039
