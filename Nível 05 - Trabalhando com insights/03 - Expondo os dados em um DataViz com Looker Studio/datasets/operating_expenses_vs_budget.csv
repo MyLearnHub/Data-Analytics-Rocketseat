@@ -1,0 +1,217 @@
+month,cost_center,account_gl,planned_usd,actual_usd,variance_usd,variance_pct,responsible_manager,comment
+2024-01,Logistics,Freight,61702.2,71584.56,9882.36,16.02,Bob,Review contract
+2024-01,Logistics,Warehouse rent,20011.44,19034.21,-977.23,-4.88,Bob,
+2024-01,Logistics,Fuel,34675.59,29341.42,-5334.17,-15.38,Felipe,
+2024-01,IT,Cloud services,38626.02,37574.63,-1051.39,-2.72,Felipe,
+2024-01,IT,Software licenses,59676.75,63818.82,4142.07,6.94,Alice,
+2024-01,IT,Hardware,61919.45,70749.77,8830.32,14.26,Daniel,One-time cost
+2024-01,Marketing,Paid media,40445.22,50114.0,9668.78,23.91,Elena,Review contract
+2024-01,Marketing,Events,22738.76,25813.81,3075.05,13.52,Daniel,One-time cost
+2024-01,Marketing,Agency fees,61730.48,66628.48,4898.0,7.93,Alice,
+2024-01,HR,Recruiting,34038.69,30602.51,-3436.18,-10.09,Alice,
+2024-01,HR,Training,100074.46,128508.7,28434.24,28.41,Elena,One-time cost
+2024-01,HR,Benefits,51342.42,58846.7,7504.28,14.62,Daniel,One-time cost
+2024-01,Customer Support,Call center,107638.92,134258.38,26619.46,24.73,Bob,One-time cost
+2024-01,Customer Support,Chat software,28504.42,23360.15,-5144.27,-18.05,Carla,
+2024-01,Operations,Utilities,36983.04,45824.62,8841.58,23.91,Alice,One-time cost
+2024-01,Operations,Maintenance,29834.68,30149.55,314.87,1.06,Alice,
+2024-01,Finance,Consulting,115788.95,123498.48,7709.53,6.66,Daniel,
+2024-01,Finance,Audit,89187.71,85420.23,-3767.48,-4.22,Carla,
+2024-02,Logistics,Freight,88650.09,107914.89,19264.8,21.73,Elena,Review contract
+2024-02,Logistics,Warehouse rent,21828.83,25650.45,3821.62,17.51,Alice,One-time cost
+2024-02,Logistics,Fuel,118886.11,139582.14,20696.03,17.41,Elena,One-time cost
+2024-02,IT,Cloud services,48044.4,57395.75,9351.35,19.46,Alice,Review contract
+2024-02,IT,Software licenses,30322.6,31048.73,726.13,2.39,Daniel,
+2024-02,IT,Hardware,110859.55,104962.61,-5896.94,-5.32,Felipe,
+2024-02,Marketing,Paid media,48777.53,42193.26,-6584.27,-13.5,Felipe,
+2024-02,Marketing,Events,21936.7,24995.07,3058.37,13.94,Elena,One-time cost
+2024-02,Marketing,Agency fees,41162.81,38395.57,-2767.24,-6.72,Felipe,
+2024-02,HR,Recruiting,69157.32,57171.06,-11986.26,-17.33,Elena,
+2024-02,HR,Training,77411.76,67608.67,-9803.09,-12.66,Alice,
+2024-02,HR,Benefits,78930.55,90760.6,11830.05,14.99,Alice,One-time cost
+2024-02,Customer Support,Call center,30233.44,30445.92,212.48,0.7,Felipe,
+2024-02,Customer Support,Chat software,89440.02,90074.12,634.1,0.71,Carla,
+2024-02,Operations,Utilities,24995.35,26693.74,1698.39,6.79,Bob,
+2024-02,Operations,Maintenance,86379.46,91341.49,4962.03,5.74,Felipe,
+2024-02,Finance,Consulting,114459.48,125135.98,10676.5,9.33,Daniel,
+2024-02,Finance,Audit,110340.19,95856.64,-14483.55,-13.13,Felipe,
+2024-03,Logistics,Freight,33927.63,40838.54,6910.91,20.37,Carla,Review contract
+2024-03,Logistics,Warehouse rent,59767.68,52755.56,-7012.12,-11.73,Carla,
+2024-03,Logistics,Fuel,112750.86,109806.14,-2944.72,-2.61,Daniel,
+2024-03,IT,Cloud services,95081.21,110579.35,15498.14,16.3,Alice,Review contract
+2024-03,IT,Software licenses,108330.61,120445.88,12115.27,11.18,Bob,One-time cost
+2024-03,IT,Hardware,95094.24,92664.5,-2429.74,-2.56,Daniel,
+2024-03,Marketing,Paid media,46992.79,58644.33,11651.54,24.79,Elena,Review contract
+2024-03,Marketing,Events,62809.12,80547.67,17738.55,28.24,Alice,One-time cost
+2024-03,Marketing,Agency fees,86344.15,95915.21,9571.06,11.08,Elena,One-time cost
+2024-03,HR,Recruiting,31474.6,40122.08,8647.48,27.47,Felipe,One-time cost
+2024-03,HR,Training,64991.21,70788.09,5796.88,8.92,Bob,
+2024-03,HR,Benefits,60813.68,55858.19,-4955.49,-8.15,Felipe,
+2024-03,Customer Support,Call center,110337.95,119919.67,9581.72,8.68,Carla,
+2024-03,Customer Support,Chat software,20287.03,22489.64,2202.61,10.86,Carla,One-time cost
+2024-03,Operations,Utilities,52664.49,56010.22,3345.73,6.35,Alice,
+2024-03,Operations,Maintenance,108594.21,106274.08,-2320.13,-2.14,Elena,
+2024-03,Finance,Consulting,110853.52,123233.65,12380.13,11.17,Carla,One-time cost
+2024-03,Finance,Audit,21582.12,27295.31,5713.19,26.47,Daniel,One-time cost
+2024-04,Logistics,Freight,89089.69,115697.34,26607.65,29.87,Elena,Review contract
+2024-04,Logistics,Warehouse rent,37234.05,32340.3,-4893.75,-13.14,Bob,
+2024-04,Logistics,Fuel,113259.55,130068.3,16808.75,14.84,Alice,One-time cost
+2024-04,IT,Cloud services,26600.02,31327.68,4727.66,17.77,Felipe,Review contract
+2024-04,IT,Software licenses,95387.62,120332.65,24945.03,26.15,Alice,One-time cost
+2024-04,IT,Hardware,91152.48,78585.79,-12566.69,-13.79,Daniel,
+2024-04,Marketing,Paid media,21988.01,17878.57,-4109.44,-18.69,Carla,
+2024-04,Marketing,Events,22830.65,21075.1,-1755.55,-7.69,Bob,
+2024-04,Marketing,Agency fees,106002.79,113361.03,7358.24,6.94,Bob,
+2024-04,HR,Recruiting,75282.2,91920.73,16638.53,22.1,Alice,One-time cost
+2024-04,HR,Training,32417.33,30459.06,-1958.27,-6.04,Bob,
+2024-04,HR,Benefits,78575.93,100954.19,22378.26,28.48,Carla,One-time cost
+2024-04,Customer Support,Call center,76103.02,61591.97,-14511.05,-19.07,Carla,
+2024-04,Customer Support,Chat software,100063.27,91706.7,-8356.57,-8.35,Alice,
+2024-04,Operations,Utilities,100710.52,100099.24,-611.28,-0.61,Carla,
+2024-04,Operations,Maintenance,106354.19,124813.11,18458.92,17.36,Daniel,One-time cost
+2024-04,Finance,Consulting,75624.02,65658.86,-9965.16,-13.18,Daniel,
+2024-04,Finance,Audit,25991.77,22370.38,-3621.39,-13.93,Elena,
+2024-05,Logistics,Freight,24455.19,20878.55,-3576.64,-14.63,Alice,
+2024-05,Logistics,Warehouse rent,42570.93,49233.05,6662.12,15.65,Daniel,One-time cost
+2024-05,Logistics,Fuel,75971.7,61254.31,-14717.39,-19.37,Felipe,
+2024-05,IT,Cloud services,27197.43,34911.66,7714.23,28.36,Carla,Review contract
+2024-05,IT,Software licenses,76810.05,69255.52,-7554.53,-9.84,Elena,
+2024-05,IT,Hardware,45232.57,53008.63,7776.06,17.19,Elena,One-time cost
+2024-05,Marketing,Paid media,39542.95,43128.68,3585.73,9.07,Felipe,
+2024-05,Marketing,Events,117002.0,143141.93,26139.93,22.34,Felipe,One-time cost
+2024-05,Marketing,Agency fees,43984.78,46047.0,2062.22,4.69,Carla,
+2024-05,HR,Recruiting,81995.57,99582.84,17587.27,21.45,Felipe,One-time cost
+2024-05,HR,Training,35679.14,28874.7,-6804.44,-19.07,Bob,
+2024-05,HR,Benefits,27002.21,28167.96,1165.75,4.32,Felipe,
+2024-05,Customer Support,Call center,80632.95,87440.44,6807.49,8.44,Daniel,
+2024-05,Customer Support,Chat software,51736.24,66962.63,15226.39,29.43,Elena,One-time cost
+2024-05,Operations,Utilities,77974.52,77200.28,-774.24,-0.99,Daniel,
+2024-05,Operations,Maintenance,75094.82,88061.23,12966.41,17.27,Bob,One-time cost
+2024-05,Finance,Consulting,86923.29,81052.47,-5870.82,-6.75,Carla,
+2024-05,Finance,Audit,26633.48,26235.1,-398.38,-1.5,Carla,
+2024-06,Logistics,Freight,82971.75,75096.65,-7875.1,-9.49,Daniel,
+2024-06,Logistics,Warehouse rent,95275.56,79390.1,-15885.46,-16.67,Elena,
+2024-06,Logistics,Fuel,46031.51,55347.24,9315.73,20.24,Bob,One-time cost
+2024-06,IT,Cloud services,39343.43,44054.04,4710.61,11.97,Alice,Review contract
+2024-06,IT,Software licenses,72467.03,91482.67,19015.64,26.24,Bob,One-time cost
+2024-06,IT,Hardware,46329.68,38591.72,-7737.96,-16.7,Carla,
+2024-06,Marketing,Paid media,93506.6,110907.15,17400.55,18.61,Carla,Review contract
+2024-06,Marketing,Events,110781.59,140247.95,29466.36,26.6,Elena,One-time cost
+2024-06,Marketing,Agency fees,21395.16,19623.24,-1771.92,-8.28,Daniel,
+2024-06,HR,Recruiting,81677.84,104099.07,22421.23,27.45,Alice,One-time cost
+2024-06,HR,Training,115017.61,124026.55,9008.94,7.83,Daniel,
+2024-06,HR,Benefits,111560.63,125035.27,13474.64,12.08,Felipe,One-time cost
+2024-06,Customer Support,Call center,59000.77,61537.53,2536.76,4.3,Carla,
+2024-06,Customer Support,Chat software,80431.05,86445.2,6014.15,7.48,Bob,
+2024-06,Operations,Utilities,112618.14,141827.54,29209.4,25.94,Bob,One-time cost
+2024-06,Operations,Maintenance,59487.56,76241.12,16753.56,28.16,Carla,One-time cost
+2024-06,Finance,Consulting,37395.57,32278.54,-5117.03,-13.68,Carla,
+2024-06,Finance,Audit,33507.92,35278.18,1770.26,5.28,Elena,
+2024-07,Logistics,Freight,22152.48,28221.93,6069.45,27.4,Elena,Review contract
+2024-07,Logistics,Warehouse rent,102711.55,82940.55,-19771.0,-19.25,Carla,
+2024-07,Logistics,Fuel,37619.63,36341.76,-1277.87,-3.4,Alice,
+2024-07,IT,Cloud services,33099.68,39876.69,6777.01,20.47,Carla,Review contract
+2024-07,IT,Software licenses,54473.67,69184.49,14710.82,27.01,Carla,One-time cost
+2024-07,IT,Hardware,78201.42,96924.09,18722.67,23.94,Felipe,One-time cost
+2024-07,Marketing,Paid media,104473.44,130873.48,26400.04,25.27,Alice,Review contract
+2024-07,Marketing,Events,65988.03,70816.6,4828.57,7.32,Daniel,
+2024-07,Marketing,Agency fees,99860.36,94154.28,-5706.08,-5.71,Elena,
+2024-07,HR,Recruiting,69025.35,75897.18,6871.83,9.96,Bob,
+2024-07,HR,Training,21553.33,23638.41,2085.08,9.67,Alice,
+2024-07,HR,Benefits,63367.63,76274.37,12906.74,20.37,Elena,One-time cost
+2024-07,Customer Support,Call center,51524.48,64222.4,12697.92,24.64,Carla,One-time cost
+2024-07,Customer Support,Chat software,77785.72,69385.26,-8400.46,-10.8,Carla,
+2024-07,Operations,Utilities,98792.92,109266.51,10473.59,10.6,Felipe,One-time cost
+2024-07,Operations,Maintenance,25390.93,25647.3,256.37,1.01,Daniel,
+2024-07,Finance,Consulting,87906.88,110701.21,22794.33,25.93,Elena,One-time cost
+2024-07,Finance,Audit,20040.2,25819.38,5779.18,28.84,Elena,One-time cost
+2024-08,Logistics,Freight,57658.03,74199.64,16541.61,28.69,Carla,Review contract
+2024-08,Logistics,Warehouse rent,80471.61,97726.57,17254.96,21.44,Daniel,One-time cost
+2024-08,Logistics,Fuel,77471.15,86305.81,8834.66,11.4,Daniel,One-time cost
+2024-08,IT,Cloud services,48557.63,53093.72,4536.09,9.34,Bob,
+2024-08,IT,Software licenses,95002.18,116772.59,21770.41,22.92,Bob,One-time cost
+2024-08,IT,Hardware,95508.22,109741.68,14233.46,14.9,Bob,One-time cost
+2024-08,Marketing,Paid media,106447.94,102332.72,-4115.22,-3.87,Felipe,
+2024-08,Marketing,Events,87078.88,89293.9,2215.02,2.54,Carla,
+2024-08,Marketing,Agency fees,58210.28,58524.95,314.67,0.54,Alice,
+2024-08,HR,Recruiting,60147.96,57663.37,-2484.59,-4.13,Carla,
+2024-08,HR,Training,82191.94,83434.98,1243.04,1.51,Bob,
+2024-08,HR,Benefits,117380.21,133684.37,16304.16,13.89,Elena,One-time cost
+2024-08,Customer Support,Call center,39856.99,40389.1,532.11,1.34,Bob,
+2024-08,Customer Support,Chat software,54334.62,65137.4,10802.78,19.88,Felipe,One-time cost
+2024-08,Operations,Utilities,107999.83,135207.25,27207.42,25.19,Carla,One-time cost
+2024-08,Operations,Maintenance,86271.98,80673.28,-5598.7,-6.49,Felipe,
+2024-08,Finance,Consulting,45236.67,55525.7,10289.03,22.74,Elena,One-time cost
+2024-08,Finance,Audit,72771.46,87404.38,14632.92,20.11,Alice,One-time cost
+2024-09,Logistics,Freight,77248.85,90116.29,12867.44,16.66,Daniel,Review contract
+2024-09,Logistics,Warehouse rent,71901.16,85234.65,13333.49,18.54,Bob,One-time cost
+2024-09,Logistics,Fuel,76885.8,79411.88,2526.08,3.29,Felipe,
+2024-09,IT,Cloud services,54268.89,45265.93,-9002.96,-16.59,Carla,
+2024-09,IT,Software licenses,57792.42,48534.83,-9257.59,-16.02,Bob,
+2024-09,IT,Hardware,118281.71,105366.11,-12915.6,-10.92,Daniel,
+2024-09,Marketing,Paid media,101185.87,125215.57,24029.7,23.75,Bob,Review contract
+2024-09,Marketing,Events,88841.33,96370.38,7529.05,8.47,Bob,
+2024-09,Marketing,Agency fees,36097.14,37304.23,1207.09,3.34,Bob,
+2024-09,HR,Recruiting,54517.21,49748.04,-4769.17,-8.75,Bob,
+2024-09,HR,Training,79251.19,75774.83,-3476.36,-4.39,Alice,
+2024-09,HR,Benefits,111630.56,140076.01,28445.45,25.48,Daniel,One-time cost
+2024-09,Customer Support,Call center,45711.83,39103.99,-6607.84,-14.46,Alice,
+2024-09,Customer Support,Chat software,39296.27,41252.91,1956.64,4.98,Carla,
+2024-09,Operations,Utilities,92858.57,83953.17,-8905.4,-9.59,Bob,
+2024-09,Operations,Maintenance,44803.36,54921.57,10118.21,22.58,Carla,One-time cost
+2024-09,Finance,Consulting,61584.87,68257.13,6672.26,10.83,Alice,One-time cost
+2024-09,Finance,Audit,43366.61,36904.28,-6462.33,-14.9,Carla,
+2024-10,Logistics,Freight,71585.7,74346.8,2761.1,3.86,Felipe,
+2024-10,Logistics,Warehouse rent,35267.16,39178.4,3911.24,11.09,Felipe,One-time cost
+2024-10,Logistics,Fuel,74401.01,83855.05,9454.04,12.71,Carla,One-time cost
+2024-10,IT,Cloud services,34454.55,40510.42,6055.87,17.58,Daniel,Review contract
+2024-10,IT,Software licenses,42204.91,44723.53,2518.62,5.97,Alice,
+2024-10,IT,Hardware,98529.6,79923.78,-18605.82,-18.88,Felipe,
+2024-10,Marketing,Paid media,52436.25,64835.39,12399.14,23.65,Carla,Review contract
+2024-10,Marketing,Events,104470.96,111702.47,7231.51,6.92,Daniel,
+2024-10,Marketing,Agency fees,106660.83,135982.21,29321.38,27.49,Bob,One-time cost
+2024-10,HR,Recruiting,102640.7,125946.06,23305.36,22.71,Alice,One-time cost
+2024-10,HR,Training,29874.34,33628.12,3753.78,12.57,Daniel,One-time cost
+2024-10,HR,Benefits,90351.7,99849.51,9497.81,10.51,Daniel,One-time cost
+2024-10,Customer Support,Call center,99961.53,81697.12,-18264.41,-18.27,Daniel,
+2024-10,Customer Support,Chat software,97023.87,113116.67,16092.8,16.59,Alice,One-time cost
+2024-10,Operations,Utilities,45969.84,42684.59,-3285.25,-7.15,Bob,
+2024-10,Operations,Maintenance,83230.33,80953.87,-2276.46,-2.74,Bob,
+2024-10,Finance,Consulting,99658.87,101958.31,2299.44,2.31,Carla,
+2024-10,Finance,Audit,98274.94,127289.23,29014.29,29.52,Felipe,One-time cost
+2024-11,Logistics,Freight,50024.83,43596.79,-6428.04,-12.85,Alice,
+2024-11,Logistics,Warehouse rent,110130.84,117925.87,7795.03,7.08,Elena,
+2024-11,Logistics,Fuel,117474.04,131371.48,13897.44,11.83,Elena,One-time cost
+2024-11,IT,Cloud services,119391.3,128111.09,8719.79,7.3,Elena,
+2024-11,IT,Software licenses,72642.59,63032.99,-9609.6,-13.23,Daniel,
+2024-11,IT,Hardware,55570.52,45184.91,-10385.61,-18.69,Elena,
+2024-11,Marketing,Paid media,36039.52,42267.82,6228.3,17.28,Carla,Review contract
+2024-11,Marketing,Events,23039.97,22654.55,-385.42,-1.67,Bob,
+2024-11,Marketing,Agency fees,106234.63,121780.88,15546.25,14.63,Daniel,One-time cost
+2024-11,HR,Recruiting,89094.21,79678.59,-9415.62,-10.57,Daniel,
+2024-11,HR,Training,64190.43,70018.2,5827.77,9.08,Daniel,
+2024-11,HR,Benefits,118975.17,107310.02,-11665.15,-9.8,Alice,
+2024-11,Customer Support,Call center,44773.29,41687.81,-3085.48,-6.89,Elena,
+2024-11,Customer Support,Chat software,95017.24,97724.06,2706.82,2.85,Bob,
+2024-11,Operations,Utilities,25692.94,27086.99,1394.05,5.43,Felipe,
+2024-11,Operations,Maintenance,41196.02,49406.47,8210.45,19.93,Carla,One-time cost
+2024-11,Finance,Consulting,49733.14,40472.98,-9260.16,-18.62,Bob,
+2024-11,Finance,Audit,79343.24,96951.11,17607.87,22.19,Felipe,One-time cost
+2024-12,Logistics,Freight,58101.61,68265.28,10163.67,17.49,Alice,Review contract
+2024-12,Logistics,Warehouse rent,71114.15,76125.98,5011.83,7.05,Felipe,
+2024-12,Logistics,Fuel,115943.43,139361.74,23418.31,20.2,Elena,One-time cost
+2024-12,IT,Cloud services,23232.31,26826.2,3593.89,15.47,Felipe,Review contract
+2024-12,IT,Software licenses,66500.15,84706.19,18206.04,27.38,Elena,One-time cost
+2024-12,IT,Hardware,42143.27,39342.26,-2801.01,-6.65,Alice,
+2024-12,Marketing,Paid media,28147.4,28550.17,402.77,1.43,Carla,
+2024-12,Marketing,Events,30901.88,34514.11,3612.23,11.69,Bob,One-time cost
+2024-12,Marketing,Agency fees,100296.32,115180.32,14884.0,14.84,Alice,One-time cost
+2024-12,HR,Recruiting,96621.14,93841.07,-2780.07,-2.88,Elena,
+2024-12,HR,Training,104585.15,106089.54,1504.39,1.44,Elena,
+2024-12,HR,Benefits,102400.99,113997.71,11596.72,11.32,Bob,One-time cost
+2024-12,Customer Support,Call center,34342.3,28819.83,-5522.47,-16.08,Alice,
+2024-12,Customer Support,Chat software,21833.26,18195.02,-3638.24,-16.66,Carla,
+2024-12,Operations,Utilities,65858.38,56418.96,-9439.42,-14.33,Felipe,
+2024-12,Operations,Maintenance,22778.33,26819.91,4041.58,17.74,Daniel,One-time cost
+2024-12,Finance,Consulting,59485.05,69803.88,10318.83,17.35,Carla,One-time cost
+2024-12,Finance,Audit,65240.48,66874.32,1633.84,2.5,Bob,
