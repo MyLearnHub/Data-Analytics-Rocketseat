@@ -1,0 +1,466 @@
+OrderID;OrderDate;CustomerName;CustomerEmail;Region;State;City;Product;SKU;Quantity;UnitPrice;UnitCost;Discount;Freight;PaymentMethod;SalesRep;OrderStatus;Notes;SourceFile
+202401-11259;07-01-24;Marina Melo;marina.melo@mail.com;sul;SC;Florianópolis;Teclado;TCL-65889;4;R$ 3.128,31;1841.55;15;128.7;Transferência;Ana;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-76025;26 Jan 2024;Marina Melo;marina.melo@mail.com;sul;RS;Caxias do Sul;IMPRESSORA;IMP-50772;13;R$ 3.581,18;2.171,62;15;R$ 170,64;Pix;Fernanda;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-41283;14-01-24;PEDRO LIMA;pedro.lima@exemplo.com;sudeste;ES;Vitória;monitor;MON-42052;13;R$ 2.614,32;1598.19;0%;R$ 102,69;Débito;Eduardo;Canceled;;orders_raw_2024_01.csv
+202401-49356;10/01/2024;CARLA SOUZA;carla.souza@mail.com;Região Sul;RS;Caxias do Sul;MOUSE;MSE-64972;15 un;248,14;140,19;0%;R$ 110,18;Transferência;Gabriel;Pending;;orders_raw_2024_01.csv
+202401-37016;01-01-24;RAFAEL GOMES;rafael.gomes@mail.com;nordeste;MA;MA;mouse;MSE-92264;2;4.015,39;2696.74;10;125.59;Boleto;Bruno;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-96154;12/01/2024; RAFAEL GOMES ;rafaelgomes;Centro Oeste;MS;Campo Grande; TECLADO ;TCL-64873;11;R$ 2.556,11;1661.4;15;R$ 30,55;Débito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-91415;24-01-24;PEDRO LIMA;pedrolima;norte;PA;Ananindeua;Monitor;MON-88272;11;R$ 2.629,26;R$ 1.666,68;15;R$ 9,35;Pix;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-18422;11-01-24;ALINE MORAES;aline.moraes@exemplo.com;nordeste;CE;Fortaleza;Headset;HDS-67738;1;R$ 226,30;131.43;0%;154.2;Pix;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-68515;24 Jan 2024;ALINE MORAES;aline.moraes@mail.com;centro oeste;GO;Goiânia  ; mouse ;MSE-83135;1;R$ 4.855,16;;0;163,31;Pix;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-49945;27 Jan 2024;Aline Moraes;aline.moraes@exemplo.com;CENTRO-OESTE;DF;Brasília;Headset;HDS-72821;8;R$ 4.578,00;3.210,33;15%;132.72;Pix;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-85147;25/01/2024;Marina Melo;marina.melo@exemplo.com;Norte;TO;Palmas;monitor;MON-81926;10;R$ 5.153,18;3817.49;10;122,18;Crédito;Helena;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-27283;17-01-24;MARIA ALVES;maria.alves@mail.com;Sud-este;RJ;Rio de Janeiro;Mouse;MSE-70845;10;899,32;758.57;0;51,57;Transferência;Helena;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-82783;10 Jan 2024;Paula Dias;paula.dias@exemplo.com;sul;SC;Florianópolis;MONITOR;MON-19388;8;R$ 1.447,31;777.62;0;;Pix;Eduardo;Canceled;;orders_raw_2024_01.csv
+202401-15087;13/01/2024;MARINA MELO;marina.melo@exemplo.com; NO ;AC;AC;impressora;IMP-51938;3;3.500,14;2.032,83;0;R$ 128,16;Boleto;Carlos;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-16594;26/01/2024;CARLA SOUZA;carla.souza@exemplo.com;Região Sul;RS;Caxias do Sul; HEADSET ;HDS-60805;3;3.864,97;2.154,50;15;R$ 58,98;Boleto;Bruno;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-41377;2024-01-25;pedro lima;pedro.lima@empresa.com.br;Centro Oeste;MS;Campo Grande;Mouse;MSE-09515;1;R$ 1.634,30;;0;181.65;Transferência;Daniela;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-22017;15/01/2024;Rafael Gomes;rafael.gomes@empresa.com.br; NORDESTE ;SE;SE;Smartphone;SPH-30902;13;R$ 2.812,54;2095.5;10;81.27;Crédito;Fernanda;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-13802;26 Jan 2024;Carla Souza;carla.souza@mail.com;nordeste;PE;Recife;IMPRESSORA;IMP-07203;14;R$ 1.952,40;1268.71;0;10.32;Débito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-51465;15-01-24;rafael gomes;rafael.gomes@exemplo.com;nordeste;PE;Recife  ; Notebook ;NBK-72963;3;R$ 2.803,53;1830.99;0%;104.89;Transferência;Ana;Shipped;;orders_raw_2024_01.csv
+202401-57218;2024-01-12; Lucas Rocha ;lucas.rocha@empresa.com.br;Sudeste;RJ;Niterói;Smartphone;SPH-62337;5;3.352,50;2098.41;10;137.75;Pix;Fernanda;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-70408;23-01-24;Lucas Rocha;lucas.rocha@mail.com;Sudeste;SP;São Paulo;MOUSE;MSE-99905;15 un;R$ 787,36;R$ 474,59;0;147,19;Boleto;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-97834;23/01/2024;TIAGO CUNHA;tiago.cunha@mail.com;Sul;SC;Joinville;Monitor;MON-32453;4 un;R$ 697,44;R$ 517,75;10;R$ 196,75;Crédito;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-44939;22/01/2024;joão silva;joão.silva@exemplo.com;Centro-Oeste;MS;Campo Grande;Mouse;MSE-96111;5;R$ 1.360,62;;0;14.18;Crédito;Eduardo;Canceled;;orders_raw_2024_01.csv
+202401-79382;12 Jan 2024;marina melo;marina.melo@mail.com;Nordeste;PI;PI  ;Impressora;IMP-23392;4;3.283,49;R$ 2.217,80;0;62,95;Crédito;Gabriel;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-49794;2024-01-20;MARIA ALVES;maria.alves@exemplo; NO ;AM;Manaus;NOTEBOOK;NBK-71203;9;R$ 733,42;R$ 537,13;0;156,80;Crédito;Fernanda;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-72836;28 Jan 2024;CARLA SOUZA;carla.souza@empresa.com.br;Sudeste;MG;Uberlândia;Smartphone;SPH-01899;7;R$ 4.920,26;3311.5;0;120.53;Crédito;Gabriel;Canceled;;orders_raw_2024_01.csv
+202401-27687;16 Jan 2024;Maria Alves;maria.alves@exemplo.com; SUDESTE;RJ;Niterói;Headset;HDS-11239;1;2.557,01;1723.59;0;127.28;Transferência;Fernanda;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-82617;14-01-24;joão silva;joão.silva@empresa.com.br;Região Sul;RS;Caxias do Sul;Impressora;IMP-60079;13;R$ 2.713,98;R$ 1.817,38;0;;Pix;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-21516;25 Jan 2024;aline moraes;aline.moraes@mail.com; NO ;AC;AC;Impressora;IMP-75710;7;R$ 458,89;358.5;5;95.38;Transferência;Fernanda;Pending;;orders_raw_2024_01.csv
+202401-20869;18/01/2024;Rafael Gomes;rafael.gomes@mail.com;CENTRO-OESTE;MT;Cuiabá  ;teclado;TCL-00559;8;R$ 320,05;173.34;10;;Boleto;Carlos;Shipped;;orders_raw_2024_01.csv
+202401-69822;07 Jan 2024;Pedro Lima;pedro.lima@exemplo.com;norte;AP;AP;Notebook;NBK-89072;10;R$ 480,58;294.68;5;127.89;Transferência;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-33430;15 Jan 2024;LUCAS ROCHA;lucas.rocha@exemplo.com;Região Sul;SC;Florianópolis;Teclado;TCL-31981;15;R$ 3.967,90;R$ 2.036,90;0;R$ 91,15;Boleto;Gabriel;Shipped;;orders_raw_2024_01.csv
+202401-74161;2024-01-28;MARINA MELO;marinamelo;Centro Oeste;DF;Brasília;IMPRESSORA;IMP-79625;6;R$ 2.273,80;1.877,19;15;R$ 167,78;Boleto;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-24676;2024-01-07;PEDRO LIMA;pedro.lima@mail.com;Nordeste;PE;Recife; smartphone ;SPH-01619;12 un;R$ 3.638,54;2626.51;15%;R$ 171,30;Boleto;Bruno;Pending;;orders_raw_2024_01.csv
+202401-51465;15-01-24;rafael gomes;rafael.gomes@exemplo.com;nordeste;PE;Recife  ; Notebook ;NBK-72963;3;R$ 2.803,53;1830.99;0%;104.89;Transferência;Ana;Shipped;;orders_raw_2024_01.csv
+202401-75655;14-01-24; Aline Moraes ;aline.moraes@exemplo;centro oeste;GO;Anápolis;Notebook;NBK-02825;5;5.191,50;3.535,97;15;;Transferência;Bruno;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-34031;2024-01-27;Carla Souza;carla.souza@exemplo.com; NO ;AC;AC; notebook ;NBK-27828;12;2.053,41;1536.87;0;198.33;Transferência;Carlos;Canceled;;orders_raw_2024_01.csv
+202401-31000;10 Jan 2024;rafael gomes;rafaelgomes;nordeste;AL;AL; MONITOR ;MON-38359;11;R$ 710,56;418.59;10;52.12;Pix;Ana;Shipped;;orders_raw_2024_01.csv
+202401-62334;14-01-24;Aline Moraes;aline.moraes@mail.com; NORDESTE ;PE;Olinda;Smartphone;SPH-89207;1;470,12;242,17;5;190.39;Transferência;Eduardo;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-70527;11 Jan 2024;carla souza;carla.souza@mail.com;nordeste;RN;Natal;IMPRESSORA;IMP-11353;7;798,65;R$ 550,02;0;168.77;Transferência;Ana;Canceled;;orders_raw_2024_01.csv
+202401-59895;24 Jan 2024;Aline Moraes;aline.moraes@mail.com; SUDESTE;ES;Vitória;notebook;NBK-45139;3;R$ 4.101,13;3303.32;5;138.53;Pix;Gabriel;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-18587;2024-01-24;joão silva;joão.silva@empresa.com.br; SUL ;SC;Florianópolis;notebook;NBK-60775;1;R$ 4.665,93;3.398,95;0;R$ 199,22;Débito;Eduardo;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-89498;01-01-24;Rafael Gomes;rafaelgomes;Sud-este;RJ;Niterói;NOTEBOOK;NBK-85805;14;R$ 874,50;R$ 698,80;0;R$ 169,73;Débito;Ana;Shipped;;orders_raw_2024_01.csv
+202401-19522;2024-01-28;PEDRO LIMA;pedro.lima@empresa.com.br; NO ;RO;Porto Velho; HEADSET ;HDS-48236;3;R$ 3.819,83;2036.72;0;R$ 41,21;Pix;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-61984;19 Jan 2024;lucas rocha;lucas.rocha@exemplo.com;Região Sul;RS;Porto Alegre;impressora;IMP-72864;4;R$ 642,55;R$ 516,82;0;92.97;Débito;Daniela;Pending;;orders_raw_2024_01.csv
+202401-28297;15 Jan 2024; MARINA MELO ;marina.melo@exemplo.com;Centro Oeste;MS;Campo Grande;Mouse;MSE-14327;11;R$ 3.452,46;2.089,75;5%;;Pix;Helena;Canceled;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-75768;05 Jan 2024; Lucas Rocha ;lucas.rocha@empresa.com.br;sudeste;MG;Uberlândia;Smartphone;SPH-60947;8;1.061,17;736.44;15;R$ 167,24;Crédito;Helena;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-96026;12-01-24;paula dias;paula.dias@exemplo.com;CENTRO-OESTE;DF;Brasília;impressora;IMP-13884;2;R$ 4.479,28;R$ 2.810,11;5;182.34;Transferência;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-99069;2024-01-27;LUCAS ROCHA;lucas.rocha@empresa.com.br;centro oeste;DF;Brasília;Impressora;IMP-30820;5;2.002,21;R$ 1.645,78;10;114,35;Crédito;Helena;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-74796;20-01-24;Tiago Cunha;tiago.cunha@exemplo.com;Sul;RS;Porto Alegre; Headset ;HDS-85702;11;3.370,65;2774.08;0;R$ 5,42;Crédito;Gabriel;Pending;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-86962;25 Jan 2024;RAFAEL GOMES;rafael.gomes@exemplo.com; NORDESTE ;PI;PI; TECLADO ;TCL-27453;11;R$ 3.318,50;2.661,44;0;76.91;Crédito;Carlos;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-43291;2024-01-25;Paula Dias;paula.dias@empresa.com.br;Centro-Oeste;MS;Campo Grande;Smartphone;SPH-09316;13 un;274,22;164.04;0%;198,08;Crédito;Gabriel;Canceled;;orders_raw_2024_01.csv
+202401-19216;12/01/2024;joão silva;joãosilva;norte;TO;Palmas;teclado;TCL-87873;7;2.566,14;R$ 1.642,73;0;21,99;Transferência;Carlos;Pending;;orders_raw_2024_01.csv
+202401-60980;21/01/2024;Lucas Rocha;lucas.rocha@exemplo; SUDESTE;ES;Vitória;Monitor;MON-72710;13;R$ 3.649,80;2.009,87;0;141,85;Crédito;Ana;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-21733;21-01-24;MARIA ALVES;maria.alves@mail.com; NO ;AC;AC; Notebook ;NBK-54429;6;R$ 1.289,87;896,22;0;161,75;Boleto;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-29171;2024-01-24;Paula Dias;paula.dias@exemplo.com;Região Sul;SC;Joinville;TECLADO;TCL-30446;6;R$ 675,03;409.22;10;198,85;Boleto;Daniela;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-89022;24-01-24;lucas rocha;lucas.rocha@mail.com; SUL ;SC;Joinville;mouse;MSE-18671;8;R$ 1.426,64;828,68;15;47.59;Débito;Carlos;Canceled;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-40309;15 Jan 2024;JOÃO SILVA;joão.silva@exemplo;Região Sul;PR;Londrina;SMARTPHONE;SPH-77341;15;R$ 4.210,21;3212.16;5;R$ 143,40;Débito;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-49356;10/01/2024;CARLA SOUZA;carla.souza@mail.com;Região Sul;RS;Caxias do Sul;MOUSE;MSE-64972;15 un;248,14;140,19;0%;R$ 110,18;Transferência;Gabriel;Pending;;orders_raw_2024_01.csv
+202401-95998;2024-01-21;Maria Alves;mariaalves;Sul;PR;Curitiba; smartphone ;SPH-29027;3;3.240,49;1809.01;0;49.7;Pix;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-86913;05 Jan 2024;marina melo;marina.melo@exemplo.com;Centro-Oeste;GO;Anápolis;Notebook;NBK-41429;9;294,99;238.6;0%;R$ 76,33;Pix;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-93358;2024-01-11; Paula Dias ;paula.dias@mail.com;Norte;AC;AC  ;Monitor;MON-46289;1;R$ 2.919,33;1653.25;5%;163,78;Débito;Eduardo;Canceled;;orders_raw_2024_01.csv
+202401-36434;28/01/2024;Aline Moraes;aline.moraes@empresa.com.br;Sud-este;RJ;Rio de Janeiro; Impressora ;IMP-14665;13;210,26;119.91;0;61,31;Transferência;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-37254;2024-01-01;Tiago Cunha;tiago.cunha@mail.com;Nordeste;BA;Salvador;Headset;HDS-44893;11;R$ 3.049,74;1.864,87;0;R$ 70,45;Boleto;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-89570;2024-01-10;Maria Alves;mariaalves;Nordeste;CE;Fortaleza;impressora;IMP-45322;5;3.330,17;R$ 2.103,18;15%;130.92;Transferência;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-12294;27/01/2024;CARLA SOUZA;carla.souza@mail.com;sul;SC;Joinville;Smartphone;SPH-99137;3;970,91;684.45;5;114.03;Crédito;Gabriel;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-54580;27-01-24;Carla Souza;carla.souza@mail.com;Centro-Oeste;MS;Campo Grande;Monitor;MON-27625;9;R$ 1.864,86;1225.38;0%;83.62;Transferência;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-98044;2024-01-21; Marina Melo ;marina.melo@exemplo; SUL ;PR;Londrina;NOTEBOOK;NBK-00605;10;4.181,49;;10;91.42;Débito;Helena;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-70707;24 Jan 2024; pedro lima ;pedro.lima@mail.com;centro oeste;MS;Campo Grande  ;Monitor;MON-01434;15;129,69;R$ 106,11;15%;132.12;Crédito;Fernanda;Shipped;verificar endereço;orders_raw_2024_01.csv
+OrderID;OrderDate;CustomerName;CustomerEmail;Region;State;City;Product;SKU;Quantity;UnitPrice;UnitCost;Discount;Freight;PaymentMethod;SalesRep;OrderStatus;Notes;orders_raw_2024_01.csv
+202401-41422;17/01/2024;PEDRO LIMA;pedro.lima@empresa.com.br;Norte;RO;Porto Velho;Notebook;NBK-44994;1 un;1.954,60;1.298,26;10%;101.86;Crédito;Bruno;Canceled;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-10127;19-01-24;Tiago Cunha;tiago.cunha@mail.com;Nordeste;MA;MA;Smartphone;SPH-22626;7 un;1.126,29;R$ 682,62;0;125.89;Boleto;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-98924;21-01-24;PEDRO LIMA;pedro.lima@empresa.com.br;Nordeste;MA;MA;HEADSET;HDS-53163;14;R$ 3.334,06;2092.29;0;R$ 40,16;Crédito;Ana;Pending;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-24463;11/01/2024;Marina Melo;marina.melo@mail.com;Sudeste;MG;Belo Horizonte;headset;HDS-16039;12;1.825,19;R$ 1.484,32;0;;Crédito;Bruno;Pending;;orders_raw_2024_01.csv
+202401-23474;09 Jan 2024;Maria Alves;maria.alves@empresa.com.br;CENTRO-OESTE;MS;Campo Grande;SMARTPHONE;SPH-07321;6;R$ 995,55;784,15;15;171.16;Boleto;Bruno;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-69148;2024-01-20;Lucas Rocha;lucas.rocha@exemplo.com;sudeste;ES;Vila Velha; Teclado ;TCL-74273;5;3.692,59;2915.64;10;3.1;Boleto;Gabriel;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-79959;04-01-24;Carla Souza;carla.souza@exemplo.com;CENTRO-OESTE;DF;Brasília; monitor ;MON-42890;11;R$ 3.769,81;R$ 2.177,03;15;158.55;Boleto;Eduardo;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-45738;2024-01-05;PEDRO LIMA;pedrolima;norte;TO;Palmas; Monitor ;MON-32850;3;3.814,41;2349.6;0;67.1;Transferência;Helena;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-29479;2024-01-03;Carla Souza;carla.souza@exemplo.com;Região Sul;PR;Londrina;Headset;HDS-67085;7;R$ 1.503,99;;0%;R$ 49,78;Crédito;Ana;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-49945;27 Jan 2024;Aline Moraes;aline.moraes@exemplo.com;CENTRO-OESTE;DF;Brasília;Headset;HDS-72821;8;R$ 4.578,00;3.210,33;15%;132.72;Pix;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-18222;24/01/2024; PEDRO LIMA ;pedro.lima@mail.com; NO ;AM;Manaus;teclado;TCL-98616;2;R$ 1.555,51;883.49;10%;155.49;Crédito;Eduardo;Canceled;  urgente  ;orders_raw_2024_01.csv
+202401-22539;24 Jan 2024;Paula Dias;paula.dias@exemplo.com;CENTRO-OESTE;DF;Brasília  ;SMARTPHONE;SPH-47795;5;R$ 5.034,16;3123.72;15;34,40;Pix;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-11513;04 Jan 2024;João Silva;joão.silva@exemplo;centro oeste;GO;Anápolis  ;Headset;HDS-98219;10;R$ 1.781,41;1.064,70;0;14.48;Crédito;Daniela;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-10170;06 Jan 2024;PAULA DIAS;paula.dias@exemplo.com;Nordeste;PB;PB  ;Monitor;MON-22733;10;R$ 4.445,00;;5%;;Transferência;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-52843;2024-01-07;João Silva;joão.silva@exemplo;Região Sul;SC;Florianópolis; impressora ;IMP-03768;12;3.570,51;2.642,20;0;185.71;Débito;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-87335;13-01-24;Marina Melo;marina.melo@exemplo.com; NORDESTE ;MA;MA; IMPRESSORA ;IMP-63185;1;2.542,15;1723.87;15;86.51;Pix;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-93789;16/01/2024;Pedro Lima;pedro.lima@mail.com;sudeste;MG;Uberlândia;TECLADO;TCL-46469;3;1.786,51;899.9;0%;108.67;Transferência;Helena;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-78977;03 Jan 2024;Paula Dias;paula.dias@empresa.com.br; NO ;RO;Porto Velho;Smartphone;SPH-86060;12;R$ 1.767,81;1283.75;0;115.54;Boleto;Daniela;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-39738;2024-01-12; Tiago Cunha ;tiago.cunha@empresa.com.br;sul;RS;Caxias do Sul;IMPRESSORA;IMP-70742;9;2.734,47;R$ 1.390,66;15%;R$ 129,69;Crédito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-69822;07 Jan 2024;Pedro Lima;pedro.lima@exemplo.com;norte;AP;AP;Notebook;NBK-89072;10;R$ 480,58;294.68;5;127.89;Transferência;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-33430;15 Jan 2024;LUCAS ROCHA;lucas.rocha@exemplo.com;Região Sul;SC;Florianópolis;Teclado;TCL-31981;15;R$ 3.967,90;R$ 2.036,90;0;R$ 91,15;Boleto;Gabriel;Shipped;;orders_raw_2024_01.csv
+202401-48525;22/01/2024;PAULA DIAS;paula.dias@empresa.com.br; SUL ;PR;Curitiba;TECLADO;TCL-72005;6;R$ 2.286,90;;10%;19,28;Transferência;Daniela;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-37043;15 Jan 2024;aline moraes;aline.moraes@empresa.com.br;Sul;RS;Caxias do Sul; SMARTPHONE ;SPH-17622;9;796,16;R$ 576,67;0;R$ 28,38;Débito;Carlos;Shipped;;orders_raw_2024_01.csv
+202401-77821;13-01-24;ALINE MORAES;alinemoraes;Centro-Oeste;GO;Anápolis; Smartphone ;SPH-92934;11;R$ 940,25;612,13;0;;Boleto;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-86913;05 Jan 2024;marina melo;marina.melo@exemplo.com;Centro-Oeste;GO;Anápolis;Notebook;NBK-41429;9;294,99;238.6;0%;R$ 76,33;Pix;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-64159;11/01/2024;Aline Moraes;aline.moraes@exemplo.com; NO ;RO;Porto Velho;HEADSET;HDS-81369;11;718,58;460.86;15;80.0;Pix;Gabriel;Pending;;orders_raw_2024_01.csv
+202401-97834;23/01/2024;TIAGO CUNHA;tiago.cunha@mail.com;Sul;SC;Joinville;Monitor;MON-32453;4 un;R$ 697,44;R$ 517,75;10;R$ 196,75;Crédito;Bruno;Shipped;;orders_raw_2024_01.csv
+202401-18268;20-01-24;Pedro Lima;pedro.lima@empresa.com.br;sul;RS;Caxias do Sul;Mouse;MSE-47739;3;3.397,67;R$ 2.600,02;10;32.85;Crédito;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-34398;17/01/2024;TIAGO CUNHA;tiago.cunha@exemplo.com;NE;PE;Recife;smartphone;SPH-85048;4;399,42;294.91;5;R$ 110,08;Pix;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-50370;2024-01-02;Maria Alves;maria.alves@exemplo.com;Centro Oeste;GO;Anápolis;Headset;HDS-54968;11;R$ 2.624,40;2207.4;0;166,70;Transferência;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-39738;2024-01-12; Tiago Cunha ;tiago.cunha@empresa.com.br;sul;RS;Caxias do Sul;IMPRESSORA;IMP-70742;9;2.734,47;R$ 1.390,66;15%;R$ 129,69;Crédito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-57887;08 Jan 2024;Pedro Lima;pedro.lima@empresa.com.br;Sul;PR;Curitiba;Notebook;NBK-00819;6;R$ 1.015,75;R$ 639,19;0;;Débito;Ana;Shipped;;orders_raw_2024_01.csv
+202401-46244;2024-01-15;LUCAS ROCHA;lucas.rocha@empresa.com.br; NO ;AM;Manaus;notebook;NBK-30183;11;R$ 465,85;381.93;0%;;Boleto;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-73719;08 Jan 2024; ALINE MORAES ;aline.moraes@mail.com;norte;AM;Manaus;Notebook;NBK-90489;8;R$ 2.085,19;R$ 1.711,51;0;R$ 28,35;Crédito;Eduardo;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-62334;14-01-24;Aline Moraes;aline.moraes@mail.com; NORDESTE ;PE;Olinda;Smartphone;SPH-89207;1;470,12;242,17;5;190.39;Transferência;Eduardo;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-28929;16 Jan 2024;Marina Melo;marina.melo@exemplo.com;Nordeste;SE;SE;Mouse;MSE-86768;13;R$ 1.628,98;R$ 1.096,40;0;87.72;Boleto;Helena;Shipped;;orders_raw_2024_01.csv
+202401-57233;2024-01-26; Pedro Lima ;pedro.lima@mail.com;centro oeste;MS;Campo Grande; MONITOR ;MON-84974;15;R$ 1.477,76;1127.59;0%;0,79;Débito;Helena;Shipped;;orders_raw_2024_01.csv
+202401-78100;01/01/2024;Lucas Rocha;lucas.rocha@mail.com; SUL ;PR;Londrina;Smartphone;SPH-30421;14;R$ 4.033,86;3021.63;0;177,87;Transferência;Daniela;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-51225;02 Jan 2024; Rafael Gomes ;rafael.gomes@exemplo.com;sul;SC;Joinville;Teclado;TCL-71018;7;R$ 2.003,89;1.355,76;0%;;Débito;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-31569;09/01/2024;RAFAEL GOMES;rafael.gomes@empresa.com.br;sul;RS;Caxias do Sul  ;Impressora;IMP-37593;15;4.817,87;R$ 3.395,26;0;R$ 71,40;Débito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-37852;22/01/2024;Maria Alves;maria.alves@mail.com;Sudeste;MG;Juiz de Fora; Monitor ;MON-19093;9;2.890,64;1.495,60;0%;R$ 164,39;Transferência;Gabriel;Pending;;orders_raw_2024_01.csv
+202401-68866;2024-01-28;LUCAS ROCHA;lucas.rocha@exemplo;Norte;AM;Manaus;Notebook;NBK-39528;11;R$ 308,08;R$ 154,52;0;;Crédito;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-13315;24/01/2024; aline moraes ;aline.moraes@mail.com;centro oeste;MT;Cuiabá;Mouse;MSE-00970;12;R$ 3.874,11;2295.61;5;R$ 156,78;Débito;Eduardo;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-12308;26 Jan 2024;paula dias;paula.dias@empresa.com.br;NE;CE;Fortaleza;Monitor;MON-73671;4;4.584,89;2.473,93;5;R$ 129,27;Boleto;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-33714;06/01/2024;João Silva;joãosilva; SUL ;RS;Porto Alegre;Headset;HDS-94178;7;R$ 3.318,20;R$ 2.482,37;0;;Débito;Fernanda;Pending;;orders_raw_2024_01.csv
+202401-17309;21 Jan 2024;MARIA ALVES;maria.alves@exemplo.com;nordeste;PE;Recife;MONITOR;MON-32095;3;931,42;R$ 780,55;0%;R$ 188,34;Transferência;Eduardo;Shipped;;orders_raw_2024_01.csv
+202401-16456;14/01/2024;João Silva;joão.silva@empresa.com.br;centro oeste;DF;Brasília;Smartphone;SPH-31970;11;R$ 4.382,77;3702.32;0%;R$ 55,96;Pix;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-84058;11-01-24;Marina Melo;marina.melo@empresa.com.br;nordeste;MA;MA; Teclado ;TCL-09173;1;R$ 2.981,94;1854.28;0;R$ 103,36;Crédito;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-29781;2024-01-13;CARLA SOUZA;carla.souza@empresa.com.br;nordeste;PB;PB  ;impressora;IMP-39364;4;R$ 777,05;455,87;5%;R$ 89,84;Pix;Gabriel;Shipped;;orders_raw_2024_01.csv
+202401-85727;11 Jan 2024;JOÃO SILVA;joão.silva@exemplo.com;Sud-este;MG;Belo Horizonte;MOUSE;MSE-65411;8;4.860,78;;5;117.88;Transferência;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-27661;2024-01-16; pedro lima ;pedro.lima@exemplo.com;Sul;PR;Curitiba;SMARTPHONE;SPH-16458;3;R$ 3.231,60;;10;21.27;Pix;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-60980;21/01/2024;Lucas Rocha;lucas.rocha@exemplo; SUDESTE;ES;Vitória;Monitor;MON-72710;13;R$ 3.649,80;2.009,87;0;141,85;Crédito;Ana;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-17295;24-01-24;maria alves;maria.alves@mail.com;nordeste;SE;SE;Impressora;IMP-02052;12;R$ 3.242,78;2.644,94;0;;Boleto;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-82900;08/01/2024; Pedro Lima ;pedro.lima@exemplo; SUDESTE;ES;Vila Velha  ;mouse;MSE-19502;15;2.112,91;1.639,23;15;129,56;Boleto;Ana;Shipped;;orders_raw_2024_01.csv
+202401-18209;18-01-24;Pedro Lima;pedro.lima@exemplo.com; NO ;AM;Manaus;headset;HDS-75745;9;R$ 4.170,73;2377.94;0;11,51;Boleto;Gabriel;Shipped;;orders_raw_2024_01.csv
+202401-84525;22/01/2024;pedro lima;pedro.lima@exemplo.com;sul;PR;Curitiba;NOTEBOOK;NBK-34038;12;5.158,61;3700.93;5;R$ 199,92;Débito;Gabriel;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-23751;05-01-24;Tiago Cunha;tiago.cunha@mail.com;nordeste;CE;Fortaleza;IMPRESSORA;IMP-61875;7;4.246,07;2.330,06;10;;Crédito;Daniela;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-14628;27-01-24;ALINE MORAES;alinemoraes;nordeste;PI;PI;Monitor;MON-20534;8;837,72;691,67;5;;Boleto;Bruno;Canceled;  urgente  ;orders_raw_2024_01.csv
+202401-83336;23-01-24; pedro lima ;pedro.lima@mail.com;norte;TO;Palmas;Headset;HDS-78010;2;R$ 2.973,59;2.277,76;5;194.67;Transferência;Helena;Canceled;;orders_raw_2024_01.csv
+202401-63925;12/01/2024;Pedro Lima;pedro.lima@exemplo.com;Sul;RS;Caxias do Sul; monitor ;MON-30316;5;R$ 4.288,42;3.630,52;5;104.81;Transferência;Ana;Shipped;;orders_raw_2024_01.csv
+202401-36476;2024-01-08;carla souza;carla.souza@empresa.com.br;sudeste;ES;Vitória; Mouse ;MSE-21401;12;1.522,14;R$ 984,97;5%;154,76;Transferência;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-28907;10 Jan 2024;MARIA ALVES;maria.alves@exemplo.com;centro oeste;GO;Anápolis; impressora ;IMP-08059;4 un;474,87;252,51;10%;44,65;Transferência;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-98518;2024-01-12;João Silva;joão.silva@mail.com;Sudeste;MG;Juiz de Fora;Monitor;MON-42927;3;3.198,10;1988.57;10;87.98;Boleto;Carlos;Shipped;;orders_raw_2024_01.csv
+202401-42905;15 Jan 2024;joão silva;joãosilva;Nordeste;PE;Recife;Monitor;MON-10633;10;3.623,05;R$ 2.983,51;15;183,29;Crédito;Daniela;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-55730;28/01/2024; Carla Souza ;carla.souza@exemplo.com;norte;TO;Palmas;Mouse;MSE-16155;1 un;R$ 2.774,28;2.186,41;0;136.91;Pix;Ana;Shipped;;orders_raw_2024_01.csv
+202401-87013;09 Jan 2024;Lucas Rocha;lucas.rocha@exemplo.com;centro oeste;GO;Goiânia;IMPRESSORA;IMP-11575;8;4.209,09;2.339,11;15;125,87;Débito;Helena;Canceled;  urgente  ;orders_raw_2024_01.csv
+202401-75752;27 Jan 2024; Rafael Gomes ;rafael.gomes@exemplo; SUDESTE;RJ;Rio de Janeiro; Notebook ;NBK-77171;14;R$ 4.559,45;2324.4;10;R$ 117,29;Boleto;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-67650;06/01/2024;Maria Alves;maria.alves@empresa.com.br;centro oeste;MT;Cuiabá;teclado;TCL-81698;10;3.501,26;;5;105.16;Boleto;Gabriel;Canceled;verificar endereço;orders_raw_2024_01.csv
+202401-31261;2024-01-17; aline moraes ;aline.moraes@empresa.com.br;centro oeste;MT;Cuiabá;monitor;MON-18452;4;R$ 330,93;260,78;0;30.18;Boleto;Eduardo;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-13315;24/01/2024; aline moraes ;aline.moraes@mail.com;centro oeste;MT;Cuiabá;Mouse;MSE-00970;12;R$ 3.874,11;2295.61;5;R$ 156,78;Débito;Eduardo;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-40655;11-01-24;PAULA DIAS;paula.dias@empresa.com.br;NE;PI;PI;TECLADO;TCL-21607;4;917,34;;10;;Crédito;Ana;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-31118;20 Jan 2024;Carla Souza;carla.souza@exemplo.com;Sud-este;RJ;Rio de Janeiro; SMARTPHONE ;SPH-92853;7;R$ 3.662,93;1.917,72;5%;149,25;Crédito;Ana;Canceled;  urgente  ;orders_raw_2024_01.csv
+202401-57148;12/01/2024;tiago cunha;tiago.cunha@mail.com;Sud-este;RJ;Rio de Janeiro;Impressora;IMP-82120;14;2.055,20;1234.39;15;179.25;Débito;Daniela;Shipped;;orders_raw_2024_01.csv
+202401-73576;2024-01-06;pedro lima;pedro.lima@empresa.com.br;Região Sul;SC;Florianópolis;IMPRESSORA;IMP-43467;6;R$ 1.126,24;877.31;10%;R$ 99,14;Transferência;Bruno;Shipped;verificar endereço;orders_raw_2024_01.csv
+202401-64274;10-01-24;CARLA SOUZA;carla.souza@empresa.com.br;Centro Oeste;DF;Brasília;Headset;HDS-03613;4 un;R$ 2.576,22;R$ 1.656,15;15;;Boleto;Eduardo;Canceled;verificar endereço;orders_raw_2024_01.csv
+202401-85147;25/01/2024;Marina Melo;marina.melo@exemplo.com;Norte;TO;Palmas;monitor;MON-81926;10;R$ 5.153,18;3817.49;10;122,18;Crédito;Helena;Pending;verificar endereço;orders_raw_2024_01.csv
+202401-63480;19/01/2024;PAULA DIAS;paula.dias@mail.com; NO ;RR;RR; Monitor ;MON-55311;15;3.929,22;2268.89;15%;106,16;Transferência;Bruno;Canceled;;orders_raw_2024_01.csv
+202401-72005;15 Jan 2024;pedro lima;pedro.lima@empresa.com.br;nordeste;CE;Fortaleza;TECLADO;TCL-12547;4;R$ 4.535,93;R$ 2.834,01;0%;;Boleto;Carlos;Shipped;  urgente  ;orders_raw_2024_01.csv
+202401-41283;14-01-24;PEDRO LIMA;pedro.lima@exemplo.com;sudeste;ES;Vitória;monitor;MON-42052;13;R$ 2.614,32;1598.19;0%;R$ 102,69;Débito;Eduardo;Canceled;;orders_raw_2024_01.csv
+202401-98370;21 Jan 2024;RAFAEL GOMES;rafael.gomes@exemplo.com; SUDESTE;RJ;Niterói;Mouse;MSE-31179;3;R$ 1.902,21;1.423,56;5;R$ 182,47;Crédito;Bruno;Pending;  urgente  ;orders_raw_2024_01.csv
+202401-94690;2024-01-13;Carla Souza;carla.souza@mail.com;Sudeste;RJ;Rio de Janeiro; Smartphone ;SPH-76646;15 un;R$ 4.137,85;2902.66;0;R$ 67,40;Boleto;Carlos;Pending;;orders_raw_2024_01.csv
+202401-85727;11 Jan 2024;JOÃO SILVA;joão.silva@exemplo.com;Sud-este;MG;Belo Horizonte;MOUSE;MSE-65411;8;4.860,78;;5;117.88;Transferência;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_01.csv
+202401-99197;27-01-24;tiago cunha;tiago.cunha@exemplo.com;NE;SE;SE;SMARTPHONE;SPH-57170;4 un;R$ 3.685,81;3.075,70;0;85,20;Débito;Fernanda;Shipped;;orders_raw_2024_01.csv
+202401-89172;08/01/2024;PAULA DIAS;paula.dias@mail.com;norte;PA;Ananindeua;teclado;TCL-47721;15;R$ 1.348,91;1063.47;0;117,80;Boleto;Ana;Canceled;;orders_raw_2024_01.csv
+202401-39958;19 Jan 2024;Rafael Gomes;rafaelgomes;centro oeste;MS;Campo Grande;Smartphone;SPH-19284;1;4.138,30;R$ 3.073,53;15;4.42;Boleto;Daniela;Shipped;;orders_raw_2024_01.csv
+202402-46171;04-02-24;Carla Souza;carla.souza@exemplo.com;centro oeste;MS;Campo Grande;Mouse;MSE-46777;7;1.884,97;1.425,54;5%;152.87;Pix;Daniela;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-21037;28-02-24;João Silva;joão.silva@mail.com; SUDESTE;MG;Uberlândia;Smartphone;SPH-63729;8;R$ 790,68;R$ 545,86;0;R$ 31,08;Crédito;Daniela;Pending;  urgente  ;orders_raw_2024_02.csv
+202402-89590;2024-02-18; MARINA MELO ;marinamelo;sudeste;SP;São Paulo;smartphone;SPH-39016;15;1.005,65;610,66;5;;Transferência;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-40584;2024-02-23;Tiago Cunha;tiago.cunha@mail.com;Sudeste;MG;Juiz de Fora; Notebook ;NBK-12599;1;R$ 1.064,12;R$ 823,34;0;66.59;Pix;Daniela;Pending;verificar endereço;orders_raw_2024_02.csv
+202402-19974;19/02/2024;Pedro Lima;pedro.lima@exemplo.com;Nordeste;AL;AL;Notebook;NBK-83554;14;R$ 636,26;464,42;0;;Débito;Bruno;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-58201;20/02/2024;joão silva;joão.silva@empresa.com.br;Norte;AM;Manaus;Smartphone;SPH-37672;3;R$ 3.148,53;1704.81;0;67.69;Débito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-18552;27-02-24;Rafael Gomes;rafael.gomes@mail.com; NORDESTE ;AL;AL  ; TECLADO ;TCL-66414;9;R$ 4.678,72;2.600,98;10;147.69;Débito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-15878;19-02-24;Marina Melo;marinamelo;norte;AC;AC;TECLADO;TCL-13826;1;5.101,09;3.519,51;10;188.1;Boleto;Ana;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-61431;24/02/2024;PAULA DIAS;paula.dias@empresa.com.br;nordeste;PB;PB;Mouse;MSE-99458;5;2.126,90;1235.9;15%;86,49;Crédito;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-43378;2024-02-08;rafael gomes;rafael.gomes@mail.com;Nordeste;SE;SE  ;MONITOR;MON-84347;8;R$ 2.746,62;1396.15;0;98,80;Transferência;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-52660;12 Feb 2024;RAFAEL GOMES;rafael.gomes@empresa.com.br; NO ;AP;AP; MOUSE ;MSE-42844;15;5.103,71;2.742,77;0;66.97;Débito;Gabriel;Pending;;orders_raw_2024_02.csv
+202402-34165;26 Feb 2024;ALINE MORAES;aline.moraes@empresa.com.br;Região Sul;PR;Londrina;monitor;MON-04259;4;3.368,34;1954.78;0;197,21;Débito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-23621;07 Feb 2024;Marina Melo;marina.melo@mail.com;NE;PE;Recife;Smartphone;SPH-83027;12;R$ 860,67;R$ 613,90;0;;Débito;Helena;Shipped;;orders_raw_2024_02.csv
+202402-52206;04-02-24;CARLA SOUZA;carla.souza@exemplo.com; SUL ;RS;Caxias do Sul;Monitor;MON-41247;11;R$ 2.256,29;1.636,08;10%;R$ 4,18;Transferência;Bruno;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-46975;26-02-24; JOÃO SILVA ;joão.silva@mail.com;Norte;RO;Porto Velho;Mouse;MSE-01258;10;R$ 1.098,92;737,46;0;169.72;Crédito;Eduardo;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-13228;03 Feb 2024;pedro lima;pedro.lima@empresa.com.br;centro oeste;GO;Goiânia;Headset;HDS-27390;4;R$ 1.778,21;1.010,76;0;10.12;Crédito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-67573;11 Feb 2024;Carla Souza;carla.souza@empresa.com.br;centro oeste;MT;Cuiabá;monitor;MON-53446;15;R$ 5.029,93;R$ 3.931,11;0;R$ 143,93;Crédito;Helena;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-75278;13/02/2024; Rafael Gomes ;rafael.gomes@exemplo; NORDESTE ;RN;Natal; Monitor ;MON-90888;8;5.027,80;3986.71;10;191,73;Crédito;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-76084;24 Feb 2024;Carla Souza;carla.souza@exemplo; NO ;AM;Manaus;Smartphone;SPH-76722;11;R$ 4.943,04;4195.89;0;R$ 34,69;Crédito;Ana;Shipped;;orders_raw_2024_02.csv
+202402-26936;05 Feb 2024;Pedro Lima;pedro.lima@mail.com;Sudeste;SP;Santos;Smartphone;SPH-79381;14;4.695,82;R$ 3.576,39;5;0.93;Crédito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-23065;2024-02-25;Maria Alves;maria.alves@mail.com;Sudeste;ES;Vila Velha;headset;HDS-67432;13;R$ 4.131,20;2593.98;15;;Transferência;Helena;Shipped;;orders_raw_2024_02.csv
+202402-43818;2024-02-05;maria alves;maria.alves@empresa.com.br;centro oeste;MT;Cuiabá  ;mouse;MSE-82213;2;2.290,24;R$ 1.214,63;5;105.19;Boleto;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-97209;2024-02-03;JOÃO SILVA;joão.silva@exemplo.com; SUL ;PR;Curitiba;Notebook;NBK-08676;11;R$ 3.915,71;R$ 3.071,28;0;14.82;Pix;Bruno;Pending;;orders_raw_2024_02.csv
+202402-44340;05-02-24; Marina Melo ;marina.melo@mail.com;sudeste;MG;Juiz de Fora; Notebook ;NBK-36146;11;4.402,48;2.891,45;0%;61.22;Boleto;Eduardo;Shipped;;orders_raw_2024_02.csv
+202402-47947;18/02/2024;MARINA MELO;marina.melo@exemplo.com;Nordeste;RN;Natal;MOUSE;MSE-41660;5;R$ 4.835,97;3.377,23;10;131.97;Pix;Helena;Shipped;;orders_raw_2024_02.csv
+202402-64827;25 Feb 2024;rafael gomes;rafael.gomes@exemplo.com;sul;RS;Porto Alegre;Monitor;MON-96894;14 un;3.425,63;2105.03;0%;104.62;Débito;Eduardo;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-80451;2024-02-05;Carla Souza;carla.souza@mail.com;norte;AP;AP;SMARTPHONE;SPH-44129;12;R$ 4.429,12;;0;10,07;Débito;Helena;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-25229;22 Feb 2024;Paula Dias;paula.dias@exemplo.com; SUDESTE;MG;Belo Horizonte;Mouse;MSE-75440;6;2.606,60;1478.93;15;R$ 162,12;Débito;Gabriel;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-48782;14/02/2024;ALINE MORAES;aline.moraes@exemplo;Norte;TO;Palmas;monitor;MON-68410;14;R$ 3.314,74;1.996,44;15%;;Pix;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-26653;16 Feb 2024;Paula Dias;paula.dias@exemplo.com;Sudeste;MG;Juiz de Fora;impressora;IMP-30480;2;R$ 5.152,28;;10;;Débito;Helena;Pending;;orders_raw_2024_02.csv
+202402-26873;05-02-24;Paula Dias;pauladias;Sudeste;RJ;Petrópolis;Impressora;IMP-35087;10;4.468,46;R$ 2.590,68;15;;Crédito;Ana;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-68802;24/02/2024;lucas rocha;lucas.rocha@exemplo;Norte;AP;AP;MONITOR;MON-52680;12;4.070,57;R$ 2.578,37;5;114,11;Pix;Daniela;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-31804;2024-02-28;PAULA DIAS;paula.dias@mail.com; NO ;PA;Ananindeua;Impressora;IMP-95100;6;R$ 2.514,87;1422.21;5;2,08;Pix;Gabriel;Pending;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-48367;05-02-24;Tiago Cunha;tiago.cunha@exemplo.com; SUDESTE;RJ;Rio de Janeiro;Monitor;MON-46029;5;R$ 3.354,00;;0;;Crédito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-95540;11/02/2024;João Silva;joão.silva@exemplo.com;Sul;RS;Porto Alegre;MOUSE;MSE-92813;6;4.111,36;2.323,39;5%;;Débito;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-68031;23 Feb 2024; Tiago Cunha ;tiagocunha;Nordeste;MA;MA; headset ;HDS-80513;8;R$ 1.532,01;942.04;0%;R$ 178,23;Transferência;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-81938;23/02/2024;MARINA MELO;marina.melo@empresa.com.br;Nordeste;AL;AL;Notebook;NBK-53806;6;3.856,42;2.127,58;10;191,47;Boleto;Fernanda;Shipped;;orders_raw_2024_02.csv
+202402-39252;10 Feb 2024;JOÃO SILVA;joão.silva@empresa.com.br;norte;AM;Manaus; IMPRESSORA ;IMP-31891;5;R$ 2.917,47;;10;10,10;Débito;Helena;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-76387;10/02/2024;ALINE MORAES;aline.moraes@exemplo; NO ;TO;Palmas; Smartphone ;SPH-58503;9;R$ 2.932,36;R$ 2.212,31;5%;;Débito;Ana;Pending;;orders_raw_2024_02.csv
+202402-34862;2024-02-20;LUCAS ROCHA;lucas.rocha@mail.com;Sud-este;ES;Vitória;Headset;HDS-50208;8;5.000,66;R$ 3.566,71;0;6.07;Débito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-46838;07/02/2024;Tiago Cunha;tiago.cunha@mail.com;Centro Oeste;DF;Brasília  ;HEADSET;HDS-16599;14;R$ 964,88;628.67;0;R$ 174,76;Transferência;Carlos;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-20878;2024-02-13;Rafael Gomes;rafael.gomes@empresa.com.br;sudeste;ES;Vila Velha; Impressora ;IMP-00389;13;R$ 2.422,87;1.479,08;5;185.74;Pix;Fernanda;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-61368;27 Feb 2024;carla souza;carla.souza@mail.com;Região Sul;PR;Londrina; Impressora ;IMP-75300;9;3.642,08;2.586,79;5;95.99;Boleto;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-39561;21 Feb 2024;pedro lima;pedro.lima@mail.com;nordeste;SE;SE;headset;HDS-86464;6;3.819,22;3.104,88;0%;;Boleto;Helena;Pending;;orders_raw_2024_02.csv
+202402-19974;19/02/2024;Pedro Lima;pedro.lima@exemplo.com;Nordeste;AL;AL;Notebook;NBK-83554;14;R$ 636,26;464,42;0;;Débito;Bruno;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-49084;05/02/2024;Rafael Gomes;rafael.gomes@exemplo.com;CENTRO-OESTE;GO;Anápolis;Mouse;MSE-45228;14;1.521,26;R$ 801,81;0;R$ 1,47;Pix;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-35782;26 Feb 2024;MARINA MELO;marina.melo@exemplo.com;sul;RS;Porto Alegre; impressora ;IMP-22998;8;R$ 5.051,33;;0;;Transferência;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-20329;2024-02-08; Marina Melo ;marina.melo@mail.com;Sul;RS;Caxias do Sul;NOTEBOOK;NBK-17486;4;3.146,02;2645.92;0;54.89;Crédito;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-26674;18-02-24;MARIA ALVES;maria.alves@mail.com;NE;SE;SE;TECLADO;TCL-13810;13;R$ 2.158,26;1174.08;0;81.84;Pix;Gabriel;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-17823;18 Feb 2024;João Silva;joão.silva@exemplo;Sud-este;ES;Vila Velha;Notebook;NBK-47183;15;1.467,42;R$ 1.135,12;0;40.04;Débito;Bruno;Shipped;verificar endereço;orders_raw_2024_02.csv
+OrderID;OrderDate;CustomerName;CustomerEmail;Region;State;City;Product;SKU;Quantity;UnitPrice;UnitCost;Discount;Freight;PaymentMethod;SalesRep;OrderStatus;Notes;orders_raw_2024_02.csv
+202402-27739;2024-02-20;Rafael Gomes;rafael.gomes@mail.com;Sul;RS;Porto Alegre;HEADSET;HDS-39092;15;4.047,62;R$ 2.921,60;0;25,88;Pix;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-37157;11 Feb 2024;CARLA SOUZA;carla.souza@empresa.com.br; SUDESTE;RJ;Niterói; Mouse ;MSE-91702;2;2.726,67;2210.73;15%;124.6;Crédito;Helena;Canceled;  urgente  ;orders_raw_2024_02.csv
+202402-17102;17 Feb 2024;Carla Souza;carla.souza@exemplo;norte;TO;Palmas; Mouse ;MSE-30666;13;R$ 905,55;745.68;10;;Boleto;Eduardo;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-20082;21 Feb 2024;Tiago Cunha;tiago.cunha@exemplo.com;Sudeste;ES;Vitória; Headset ;HDS-72557;2;R$ 1.435,82;R$ 1.035,98;5;;Pix;Gabriel;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-26479;06 Feb 2024;CARLA SOUZA;carlasouza; SUDESTE;RJ;Petrópolis;headset;HDS-15905;6;2.003,62;1.396,45;0;23.95;Pix;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-83198;08/02/2024;Carla Souza;carla.souza@mail.com; SUDESTE;ES;Vila Velha;Notebook;NBK-89361;11;3.881,40;2824.01;10;79.14;Crédito;Helena;Shipped;;orders_raw_2024_02.csv
+202402-25162;02/02/2024;aline moraes;aline.moraes@empresa.com.br;Centro Oeste;DF;Brasília; TECLADO ;TCL-70885;15;4.889,27;R$ 3.030,75;0%;;Crédito;Gabriel;Pending;;orders_raw_2024_02.csv
+202402-20651;02 Feb 2024;maria alves;maria.alves@empresa.com.br;Sul;RS;Porto Alegre;Smartphone;SPH-75376;7;R$ 3.260,24;1.908,23;0;105.05;Boleto;Eduardo;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-68568;13 Feb 2024;lucas rocha;lucas.rocha@mail.com;Sud-este;RJ;Rio de Janeiro;Headset;HDS-06763;10;R$ 1.997,68;1545.89;15;21.0;Boleto;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-78031;19-02-24;Maria Alves;maria.alves@empresa.com.br; NO ;RO;Porto Velho; Teclado ;TCL-22871;12;R$ 3.124,90;2.360,78;10;136,77;Débito;Ana;Shipped;;orders_raw_2024_02.csv
+202402-67628;2024-02-18; Rafael Gomes ;rafael.gomes@exemplo.com;sudeste;RJ;Niterói; Impressora ;IMP-87684;11;R$ 2.338,90;1863.41;0;29.82;Débito;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-85563;14-02-24;João Silva;joãosilva;Sud-este;RJ;Niterói;IMPRESSORA;IMP-50772;9;R$ 2.021,04;1596.71;0;82.22;Pix;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-58848;19/02/2024; Maria Alves ;maria.alves@mail.com;Norte;AC;AC;Teclado;TCL-38260;14;3.105,04;2337.11;0;138.44;Boleto;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-16877;2024-02-08;ALINE MORAES;aline.moraes@exemplo.com;Sud-este;MG;Belo Horizonte;NOTEBOOK;NBK-70647;5;R$ 2.571,96;;0;59,03;Pix;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-19962;28-02-24;TIAGO CUNHA;tiago.cunha@mail.com;centro oeste;MS;Campo Grande;Impressora;IMP-29428;15;R$ 2.423,84;;0;R$ 134,70;Débito;Ana;Shipped;;orders_raw_2024_02.csv
+202402-66819;19-02-24;carla souza;carla.souza@exemplo.com;Sud-este;ES;Vila Velha;Headset;HDS-08490;15;R$ 5.056,57;R$ 3.805,60;0;;Boleto;Gabriel;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-56372;21-02-24;marina melo;marina.melo@empresa.com.br; NORDESTE ;MA;MA; TECLADO ;TCL-50645;14;2.559,59;1.471,48;0%;21.32;Crédito;Eduardo;Shipped;;orders_raw_2024_02.csv
+202402-16890;18/02/2024;Marina Melo;marina.melo@empresa.com.br;sul;RS;Porto Alegre;Notebook;NBK-35518;6;4.136,23;R$ 3.439,57;10;174.43;Débito;Helena;Shipped;;orders_raw_2024_02.csv
+202402-43159;08 Feb 2024; RAFAEL GOMES ;rafael.gomes@empresa.com.br; SUDESTE;SP;São Paulo;mouse;MSE-54851;9;4.427,36;2.723,63;0%;41.19;Crédito;Gabriel;Pending;;orders_raw_2024_02.csv
+202402-56693;24 Feb 2024;João Silva;joãosilva;sudeste;MG;Uberlândia;MONITOR;MON-93652;13;4.902,61;4.091,36;10%;;Transferência;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-33551;24-02-24;Marina Melo;marina.melo@exemplo.com;Centro-Oeste;MS;Campo Grande;Smartphone;SPH-66604;6;R$ 1.296,01;;0;158.13;Pix;Bruno;Pending;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-83142;2024-02-21;RAFAEL GOMES;rafael.gomes@mail.com;Norte;PA;Belém;Headset;HDS-53338;5;R$ 2.019,25;1300.97;0;119,66;Débito;Daniela;Canceled;;orders_raw_2024_02.csv
+202402-95472;18 Feb 2024; Paula Dias ;paula.dias@mail.com;Sul;RS;Caxias do Sul;smartphone;SPH-38874;9;R$ 5.088,64;4123.25;0;143,54;Boleto;Eduardo;Shipped;;orders_raw_2024_02.csv
+202402-13374;06 Feb 2024;Lucas Rocha;lucas.rocha@exemplo.com;sul;RS;Caxias do Sul;MOUSE;MSE-41443;13;R$ 2.325,32;1.892,13;5;R$ 46,79;Pix;Fernanda;Canceled;;orders_raw_2024_02.csv
+202402-57854;23/02/2024;LUCAS ROCHA;lucas.rocha@empresa.com.br;NE;BA;Feira de Santana;SMARTPHONE;SPH-27317;12;R$ 1.905,52;R$ 1.217,00;0;138.41;Crédito;Eduardo;Pending;;orders_raw_2024_02.csv
+202402-23164;28/02/2024;TIAGO CUNHA;tiago.cunha@exemplo;Sud-este;ES;Vitória;NOTEBOOK;NBK-05685;10;R$ 815,70;R$ 642,28;0;62.55;Pix;Gabriel;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-29575;25/02/2024; rafael gomes ;rafael.gomes@empresa.com.br;Sul;RS;Porto Alegre; Smartphone ;SPH-21730;2;3.031,85;;0;126,43;Débito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-49534;14-02-24;pedro lima;pedro.lima@mail.com;CENTRO-OESTE;MS;Campo Grande;MOUSE;MSE-58975;12;4.825,69;2488.56;0;113,70;Boleto;Bruno;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-97303;2024-02-21;pedro lima;pedro.lima@mail.com;sudeste;SP;Santos;Monitor;MON-91688;10;R$ 4.405,24;3.206,24;5%;9.31;Transferência;Ana;Pending;  urgente  ;orders_raw_2024_02.csv
+202402-97990;01 Feb 2024; Marina Melo ;marina.melo@mail.com;sudeste;ES;Vila Velha;Smartphone;SPH-59685;10 un;R$ 3.400,94;;5;R$ 105,43;Boleto;Ana;Shipped;;orders_raw_2024_02.csv
+202402-43942;07 Feb 2024;marina melo;marina.melo@mail.com;sudeste;MG;Uberlândia;MONITOR;MON-91595;8;3.411,99;R$ 1.892,99;0;;Débito;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-89641;04-02-24;João Silva;joão.silva@mail.com; NO ;AP;AP;Monitor;MON-33099;14;2.783,26;2.226,30;5;R$ 157,87;Boleto;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-83142;2024-02-21;RAFAEL GOMES;rafael.gomes@mail.com;Norte;PA;Belém;Headset;HDS-53338;5;R$ 2.019,25;1300.97;0;119,66;Débito;Daniela;Canceled;;orders_raw_2024_02.csv
+202402-44614;05-02-24;LUCAS ROCHA;lucas.rocha@empresa.com.br;Centro-Oeste;MS;Campo Grande;smartphone;SPH-28387;5;3.946,30;3.313,92;0;192.16;Débito;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-11342;2024-02-04;PAULA DIAS;paula.dias@empresa.com.br; SUL ;PR;Londrina;Teclado;TCL-39855;5;R$ 2.830,72;1.468,75;0%;177.52;Crédito;Bruno;Canceled;  urgente  ;orders_raw_2024_02.csv
+202402-90353;2024-02-21;Pedro Lima;pedro.lima@exemplo;sudeste;ES;Vila Velha;teclado;TCL-21719;14;R$ 266,10;153,51;15;8.44;Débito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-38709;11/02/2024; Carla Souza ;carla.souza@empresa.com.br;Sul;PR;Londrina; Smartphone ;SPH-24451;14;R$ 3.372,44;2438.29;15;41,95;Boleto;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-98951;15-02-24;Carla Souza;carla.souza@mail.com; NO ;RO;Porto Velho  ; Monitor ;MON-55713;6 un;R$ 4.770,33;2707.65;5;23,35;Pix;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-41350;12/02/2024;MARIA ALVES;maria.alves@empresa.com.br; NO ;PA;Ananindeua; Mouse ;MSE-75144;7;2.758,26;1878.54;0;;Débito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-67675;2024-02-20;Marina Melo;marina.melo@exemplo.com;Norte;AC;AC; Impressora ;IMP-48573;8;R$ 953,86;R$ 496,76;0;6.64;Transferência;Carlos;Pending;;orders_raw_2024_02.csv
+202402-99222;26/02/2024;aline moraes;aline.moraes@empresa.com.br;norte;PA;Belém;Teclado;TCL-74328;15;R$ 2.006,00;1220.2;10%;R$ 171,26;Boleto;Carlos;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-23621;07 Feb 2024;Marina Melo;marina.melo@mail.com;NE;PE;Recife;Smartphone;SPH-83027;12;R$ 860,67;R$ 613,90;0;;Débito;Helena;Shipped;;orders_raw_2024_02.csv
+202402-52783;18/02/2024;MARINA MELO;marina.melo@exemplo.com;norte;TO;Palmas;MOUSE;MSE-59792;9;4.954,88;2.743,72;10;57,78;Crédito;Carlos;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-83636;21 Feb 2024;CARLA SOUZA;carla.souza@mail.com; NO ;AC;AC;MONITOR;MON-05620;8;4.495,02;2.881,56;0;R$ 46,59;Débito;Fernanda;Shipped;;orders_raw_2024_02.csv
+202402-27739;2024-02-20;Rafael Gomes;rafael.gomes@mail.com;Sul;RS;Porto Alegre;HEADSET;HDS-39092;15;4.047,62;R$ 2.921,60;0;25,88;Pix;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-62317;05/02/2024;marina melo;marina.melo@exemplo;Nordeste;MA;MA;mouse;MSE-10597;2;R$ 2.738,86;R$ 2.264,06;0;51,31;Crédito;Gabriel;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-57763;16/02/2024;MARINA MELO;marina.melo@mail.com;Sul;RS;Porto Alegre;MOUSE;MSE-28724;7;1.039,33;755,65;15;85,84;Débito;Ana;Shipped;;orders_raw_2024_02.csv
+202402-39474;07-02-24;aline moraes;aline.moraes@mail.com;Centro-Oeste;DF;Brasília;Teclado;TCL-08494;5;R$ 2.093,53;;10%;73.34;Débito;Ana;Pending;verificar endereço;orders_raw_2024_02.csv
+202402-42886;09 Feb 2024;lucas rocha;lucas.rocha@exemplo.com;sudeste;ES;Vitória;mouse;MSE-33887;7;3.784,78;R$ 2.856,49;5%;78.87;Boleto;Gabriel;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-73741;10/02/2024;tiago cunha;tiago.cunha@empresa.com.br;Centro-Oeste;MS;Campo Grande;Monitor;MON-41947;9 un;R$ 5.102,50;R$ 2.919,19;0;R$ 169,65;Crédito;Bruno;Pending;;orders_raw_2024_02.csv
+202402-37701;12-02-24;Pedro Lima;pedro.lima@mail.com;Centro-Oeste;MT;Cuiabá;NOTEBOOK;NBK-02514;4;1.523,09;;10;13.77;Transferência;Fernanda;Shipped;;orders_raw_2024_02.csv
+202402-76387;10/02/2024;ALINE MORAES;aline.moraes@exemplo; NO ;TO;Palmas; Smartphone ;SPH-58503;9;R$ 2.932,36;R$ 2.212,31;5%;;Débito;Ana;Pending;;orders_raw_2024_02.csv
+202402-20712;01 Feb 2024;Carla Souza;carla.souza@exemplo.com; NORDESTE ;RN;Natal;TECLADO;TCL-68372;2;R$ 3.430,50;2.030,48;0;R$ 152,56;Débito;Eduardo;Pending;;orders_raw_2024_02.csv
+202402-20082;21 Feb 2024;Tiago Cunha;tiago.cunha@exemplo.com;Sudeste;ES;Vitória; Headset ;HDS-72557;2;R$ 1.435,82;R$ 1.035,98;5;;Pix;Gabriel;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-58848;19/02/2024; Maria Alves ;maria.alves@mail.com;Norte;AC;AC;Teclado;TCL-38260;14;3.105,04;2337.11;0;138.44;Boleto;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-59780;2024-02-16; CARLA SOUZA ;carla.souza@exemplo.com;centro oeste;MT;Cuiabá;headset;HDS-01414;3;5.166,20;R$ 3.709,51;0%;167.34;Boleto;Fernanda;Pending;;orders_raw_2024_02.csv
+202402-24993;20-02-24;Rafael Gomes;rafael.gomes@mail.com; SUL ;RS;Porto Alegre; SMARTPHONE ;SPH-34527;9;R$ 3.742,46;2002.49;0;R$ 172,24;Pix;Eduardo;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-53877;23 Feb 2024;Aline Moraes;aline.moraes@empresa.com.br;NE;PB;PB;Smartphone;SPH-38436;1;768,35;576.88;15;52.46;Débito;Fernanda;Canceled;;orders_raw_2024_02.csv
+202402-53795;2024-02-12; Lucas Rocha ;lucas.rocha@exemplo.com;Centro Oeste;DF;Brasília;Mouse;MSE-20331;7;590,31;393.82;15;145.97;Boleto;Helena;Pending;;orders_raw_2024_02.csv
+202402-26535;04-02-24;Marina Melo;marina.melo@mail.com;nordeste;MA;MA; IMPRESSORA ;IMP-49404;4;R$ 2.393,89;1.262,44;10;116,01;Boleto;Daniela;Pending;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-61161;2024-02-15;joão silva;joão.silva@exemplo; NO ;PA;Ananindeua;Notebook;NBK-82915;7;186,85;156.08;0;;Débito;Helena;Pending;;orders_raw_2024_02.csv
+202402-58131;09/02/2024;lucas rocha;lucas.rocha@empresa.com.br;CENTRO-OESTE;GO;Goiânia;notebook;NBK-39592;1;R$ 3.656,83;;10;R$ 189,38;Crédito;Gabriel;Canceled;;orders_raw_2024_02.csv
+202402-47526;14-02-24;PAULA DIAS;paula.dias@exemplo.com; SUDESTE;ES;Vila Velha;Monitor;MON-28436;14;1.182,50;801,62;10%;180.99;Crédito;Gabriel;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-40594;18 Feb 2024;TIAGO CUNHA;tiago.cunha@empresa.com.br;Norte;AP;AP;MONITOR;MON-67189;10;R$ 1.453,11;881,54;10;142.67;Transferência;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-60772;12-02-24;Paula Dias;paula.dias@empresa.com.br;norte;AP;AP; Headset ;HDS-76744;5;615,47;511,79;15;175,80;Pix;Bruno;Pending;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-66186;22 Feb 2024;Pedro Lima;pedro.lima@mail.com;NE;MA;MA; smartphone ;SPH-45764;2;R$ 2.567,24;1.597,49;15;46,76;Crédito;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-94365;2024-02-12;LUCAS ROCHA;lucas.rocha@empresa.com.br;Norte;TO;Palmas;Headset;HDS-18977;2;3.382,33;2.220,51;0;151.47;Transferência;Eduardo;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-87514;14 Feb 2024; maria alves ;maria.alves@exemplo.com;nordeste;AL;AL;Smartphone;SPH-95259;12;4.083,85;2400.49;10;39.83;Boleto;Carlos;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-21554;2024-02-04; pedro lima ;pedrolima; NO ;AM;Manaus;teclado;TCL-99938;11;3.279,76;R$ 2.310,17;0;R$ 130,91;Débito;Ana;Shipped;;orders_raw_2024_02.csv
+202402-11283;20/02/2024;pedro lima;pedro.lima@exemplo.com;Nordeste;MA;MA;headset;HDS-30432;10;5.039,73;R$ 4.228,66;0;160,56;Crédito;Carlos;Shipped;;orders_raw_2024_02.csv
+202402-49149;08 Feb 2024; Carla Souza ;carlasouza;Nordeste;MA;MA; IMPRESSORA ;IMP-19554;5;R$ 5.197,28;;5;;Crédito;Eduardo;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-84684;01/02/2024;Rafael Gomes;rafael.gomes@empresa.com.br; NO ;AM;Manaus;SMARTPHONE;SPH-71877;11;R$ 3.078,32;2.587,28;15;91,65;Débito;Carlos;Pending;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-26243;09/02/2024;carla souza;carla.souza@exemplo;norte;RR;RR;MOUSE;MSE-82071;8;937,98;R$ 571,76;15;;Débito;Ana;Pending;;orders_raw_2024_02.csv
+202402-89590;2024-02-18; MARINA MELO ;marinamelo;sudeste;SP;São Paulo;smartphone;SPH-39016;15;1.005,65;610,66;5;;Transferência;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-57202;03 Feb 2024;Carla Souza;carla.souza@mail.com;sul;SC;Joinville;Headset;HDS-46153;2;R$ 4.965,98;R$ 3.556,67;0;65.56;Débito;Daniela;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-44079;06 Feb 2024;JOÃO SILVA;joão.silva@empresa.com.br;NE;CE;Fortaleza; Mouse ;MSE-23756;8;4.797,66;3.683,86;15;R$ 23,51;Transferência;Ana;Pending;  urgente  ;orders_raw_2024_02.csv
+202402-99222;26/02/2024;aline moraes;aline.moraes@empresa.com.br;norte;PA;Belém;Teclado;TCL-74328;15;R$ 2.006,00;1220.2;10%;R$ 171,26;Boleto;Carlos;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-80690;06/02/2024;rafael gomes;rafael.gomes@mail.com;Centro Oeste;DF;Brasília;impressora;IMP-97581;10;3.803,58;R$ 2.376,22;0;53,76;Pix;Helena;Shipped;;orders_raw_2024_02.csv
+202402-88892;27/02/2024; TIAGO CUNHA ;tiago.cunha@exemplo.com;Centro-Oeste;MT;Cuiabá;TECLADO;TCL-09339;2;2.706,84;1804.08;0%;6.13;Boleto;Ana;Shipped;;orders_raw_2024_02.csv
+202402-86375;27-02-24; RAFAEL GOMES ;rafael.gomes@mail.com; SUL ;RS;Porto Alegre;Smartphone;SPH-10727;7;1.932,98;R$ 1.618,56;0%;;Débito;Gabriel;Pending;verificar endereço;orders_raw_2024_02.csv
+202402-68802;24/02/2024;lucas rocha;lucas.rocha@exemplo;Norte;AP;AP;MONITOR;MON-52680;12;4.070,57;R$ 2.578,37;5;114,11;Pix;Daniela;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-31012;06 Feb 2024;Carla Souza;carlasouza;CENTRO-OESTE;MS;Campo Grande  ;TECLADO;TCL-25035;8;R$ 4.715,86;R$ 3.454,82;10;R$ 0,12;Débito;Daniela;Shipped;;orders_raw_2024_02.csv
+202402-74137;2024-02-26;Maria Alves;maria.alves@mail.com;Nordeste;MA;MA;TECLADO;TCL-27273;13;R$ 1.928,99;1434.88;0;1.99;Boleto;Fernanda;Shipped;;orders_raw_2024_02.csv
+202402-63110;27/02/2024;MARIA ALVES;maria.alves@mail.com;centro oeste;MT;Cuiabá; Teclado ;TCL-92019;12;1.355,03;R$ 690,74;15;R$ 26,23;Boleto;Bruno;Canceled;;orders_raw_2024_02.csv
+202402-17219;14 Feb 2024;CARLA SOUZA;carla.souza@exemplo.com; SUL ;RS;Caxias do Sul;Mouse;MSE-19444;10;472,50;344.7;10;159,75;Crédito;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-58131;09/02/2024;lucas rocha;lucas.rocha@empresa.com.br;CENTRO-OESTE;GO;Goiânia;notebook;NBK-39592;1;R$ 3.656,83;;10;R$ 189,38;Crédito;Gabriel;Canceled;;orders_raw_2024_02.csv
+202402-57163;10/02/2024;Marina Melo;marina.melo@exemplo.com;Centro-Oeste;GO;Anápolis;Smartphone;SPH-84489;13;R$ 4.336,55;R$ 2.383,02;15;;Pix;Ana;Shipped;;orders_raw_2024_02.csv
+202402-99345;16-02-24;Marina Melo;marina.melo@empresa.com.br;norte;TO;Palmas;Mouse;MSE-25546;3 un;R$ 724,02;521.25;0;49.79;Crédito;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-96143;09 Feb 2024;ALINE MORAES;aline.moraes@exemplo.com;Nordeste;PB;PB;Impressora;IMP-43782;12;R$ 1.142,91;641.09;0;R$ 199,00;Débito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-34669;22 Feb 2024; Marina Melo ;marina.melo@exemplo.com; NO ;AC;AC; MONITOR ;MON-91773;11 un;2.867,41;1.731,84;5;162.47;Débito;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-33002;01 Feb 2024;Marina Melo;marina.melo@empresa.com.br;Centro-Oeste;MT;Cuiabá;headset;HDS-94920;15;3.612,45;;0;85,83;Boleto;Bruno;Shipped;;orders_raw_2024_02.csv
+202402-45272;06 Feb 2024;Paula Dias;paula.dias@empresa.com.br;Região Sul;SC;Florianópolis;notebook;NBK-85733;12;R$ 1.330,50;806,79;15;181.37;Crédito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-49149;08 Feb 2024; Carla Souza ;carlasouza;Nordeste;MA;MA; IMPRESSORA ;IMP-19554;5;R$ 5.197,28;;5;;Crédito;Eduardo;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-19285;23-02-24;paula dias;paula.dias@exemplo;Norte;TO;Palmas;Impressora;IMP-34435;4;R$ 4.660,94;R$ 2.693,68;5;109,52;Transferência;Gabriel;Shipped;;orders_raw_2024_02.csv
+202402-83047;06 Feb 2024;RAFAEL GOMES;rafaelgomes;Norte;PA;Ananindeua;Notebook;NBK-36487;9;2.403,00;;0;R$ 138,76;Transferência;Eduardo;Canceled;cliente pediu NF-e;orders_raw_2024_02.csv
+202402-46171;04-02-24;Carla Souza;carla.souza@exemplo.com;centro oeste;MS;Campo Grande;Mouse;MSE-46777;7;1.884,97;1.425,54;5%;152.87;Pix;Daniela;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-25162;02/02/2024;aline moraes;aline.moraes@empresa.com.br;Centro Oeste;DF;Brasília; TECLADO ;TCL-70885;15;4.889,27;R$ 3.030,75;0%;;Crédito;Gabriel;Pending;;orders_raw_2024_02.csv
+202402-88537;2024-02-20;Maria Alves;mariaalves;Centro-Oeste;DF;Brasília;Notebook;NBK-33643;4;312,85;243,63;0;142.8;Boleto;Gabriel;Shipped;verificar endereço;orders_raw_2024_02.csv
+202402-95139;08-02-24;TIAGO CUNHA;tiago.cunha@exemplo.com; SUL ;SC;Florianópolis; Mouse ;MSE-63773;10;R$ 904,66;762.15;15%;188,05;Pix;Helena;Pending;;orders_raw_2024_02.csv
+202402-81901;2024-02-07;PAULA DIAS;paula.dias@empresa.com.br;Centro Oeste;MS;Campo Grande;Smartphone;SPH-15740;15;R$ 4.474,26;3.340,47;10%;52,07;Crédito;Eduardo;Canceled;  urgente  ;orders_raw_2024_02.csv
+202402-34438;24 Feb 2024; tiago cunha ;tiago.cunha@empresa.com.br;Sud-este;MG;Belo Horizonte;teclado;TCL-86193;4;R$ 1.499,47;820,67;0;163.78;Crédito;Eduardo;Shipped;;orders_raw_2024_02.csv
+202402-14999;12/02/2024;ALINE MORAES;aline.moraes@empresa.com.br; SUL ;PR;Curitiba;Impressora;IMP-78658;3;R$ 2.471,24;1534.65;0;R$ 114,62;Crédito;Fernanda;Canceled;  urgente  ;orders_raw_2024_02.csv
+202402-16939;15/02/2024; JOÃO SILVA ;joão.silva@empresa.com.br;Centro-Oeste;DF;Brasília;SMARTPHONE;SPH-42411;12;1.617,96;1.269,11;0;82.14;Boleto;Helena;Shipped;  urgente  ;orders_raw_2024_02.csv
+202402-83061;2024-02-15;paula dias;paula.dias@empresa.com.br;Região Sul;RS;Porto Alegre;MONITOR;MON-07493;5;3.263,11;2554.39;15;R$ 153,72;Crédito;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_02.csv
+202403-76664;10-03-24;Marina Melo;marina.melo@mail.com;Sud-este;RJ;Niterói;headset;HDS-97944;4;4.639,99;3.152,80;0;147.43;Transferência;Helena;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-41639;03/03/2024;Pedro Lima;pedro.lima@exemplo;Sud-este;MG;Uberlândia;MONITOR;MON-23495;9;R$ 178,88;119.57;15;R$ 70,22;Crédito;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-16531;04/03/2024;Aline Moraes;aline.moraes@exemplo;Sudeste;ES;Vila Velha  ;SMARTPHONE;SPH-85552;4;R$ 5.057,56;R$ 3.090,25;10;144.79;Boleto;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-20910;28 Mar 2024; MARIA ALVES ;maria.alves@exemplo.com;Região Sul;RS;Porto Alegre;Notebook;NBK-55801;4;3.104,82;R$ 1.625,97;0;R$ 21,59;Boleto;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-10675;17 Mar 2024; tiago cunha ;tiago.cunha@exemplo.com;Centro-Oeste;MS;Campo Grande;Notebook;NBK-56212;14;3.060,55;2233.47;10;41,47;Transferência;Gabriel;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-79028;08-03-24;joão silva;joão.silva@mail.com;norte;AP;AP;Monitor;MON-48564;6;3.679,23;2183.41;15%;151.12;Transferência;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-73126;10 Mar 2024; joão silva ;joão.silva@mail.com;Centro-Oeste;GO;Goiânia;smartphone;SPH-35290;5;R$ 4.627,98;2727.45;0;R$ 25,18;Débito;Bruno;Pending;verificar endereço;orders_raw_2024_03.csv
+202403-21353;2024-03-23;LUCAS ROCHA;lucas.rocha@exemplo; SUDESTE;SP;Santos; MOUSE ;MSE-97421;11;R$ 3.152,82;R$ 1.945,84;0;154.18;Boleto;Daniela;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-31830;07-03-24;Marina Melo;marina.melo@exemplo.com;sudeste;MG;Uberlândia;Impressora;IMP-87573;2;R$ 614,56;;0;33.4;Transferência;Ana;Shipped;;orders_raw_2024_03.csv
+202403-32900;23-03-24;rafael gomes;rafael.gomes@mail.com;NE;BA;Feira de Santana;Impressora;IMP-12701;11;R$ 3.640,54;R$ 2.247,71;0;7.75;Boleto;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-77504;06 Mar 2024;carla souza;carla.souza@exemplo;norte;TO;Palmas;TECLADO;TCL-19189;9;R$ 3.739,99;;15;40.26;Transferência;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-12229;14/03/2024;Lucas Rocha;lucas.rocha@exemplo.com;centro oeste;GO;Goiânia; Impressora ;IMP-58189;4;R$ 1.737,94;891,74;0%;185.75;Boleto;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-98890;16 Mar 2024;Tiago Cunha;tiago.cunha@mail.com;sul;RS;Caxias do Sul; Monitor ;MON-56286;13;R$ 2.516,56;1.977,29;5;74.74;Débito;Fernanda;Canceled;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-88235;24/03/2024;João Silva;joão.silva@empresa.com.br;centro oeste;DF;Brasília;Teclado;TCL-63864;11;R$ 2.576,57;2.087,34;10;114,29;Crédito;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-52216;28 Mar 2024;LUCAS ROCHA;lucasrocha;Sud-este;MG;Uberlândia; Impressora ;IMP-04572;3;R$ 2.083,50;1565.43;10;R$ 198,51;Pix;Carlos;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-41799;2024-03-24;Maria Alves;maria.alves@empresa.com.br; NO ;RO;Porto Velho; Mouse ;MSE-71113;7;1.107,41;866.33;0;76,56;Boleto;Bruno;Pending;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-45624;04/03/2024;LUCAS ROCHA;lucas.rocha@mail.com; NORDESTE ;CE;Fortaleza;mouse;MSE-99985;12;R$ 3.452,62;;0;106.55;Boleto;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-71362;25 Mar 2024;rafael gomes;rafael.gomes@mail.com; SUDESTE;RJ;Rio de Janeiro;Smartphone;SPH-73502;3;2.511,12;R$ 2.006,59;0;75.85;Pix;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-20910;28 Mar 2024; MARIA ALVES ;maria.alves@exemplo.com;Região Sul;RS;Porto Alegre;Notebook;NBK-55801;4;3.104,82;R$ 1.625,97;0;R$ 21,59;Boleto;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-36057;12-03-24;Paula Dias;paula.dias@mail.com; SUDESTE;ES;Vila Velha; Headset ;HDS-71329;10;R$ 2.203,66;1256.16;0;24,29;Boleto;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-77836;12/03/2024; maria alves ;maria.alves@exemplo.com;norte;TO;Palmas; Monitor ;MON-10592;11;R$ 4.619,17;R$ 2.507,24;0;132,66;Débito;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-16837;27 Mar 2024;tiago cunha;tiago.cunha@exemplo.com;Sudeste;RJ;Petrópolis;MOUSE;MSE-19280;9;R$ 5.030,00;2.636,09;0;R$ 125,24;Débito;Helena;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-80543;28 Mar 2024;Rafael Gomes;rafael.gomes@exemplo;norte;AP;AP; Mouse ;MSE-99287;15;R$ 1.670,22;878.6;5;17.47;Crédito;Helena;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-21833;05/03/2024;João Silva;joão.silva@exemplo.com;Nordeste;SE;SE;headset;HDS-73523;2;4.065,44;2.841,01;15%;194,58;Pix;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-83003;15-03-24;PEDRO LIMA;pedro.lima@empresa.com.br; SUDESTE;RJ;Niterói;Notebook;NBK-43135;4;R$ 1.137,88;645.33;0;;Crédito;Bruno;Canceled;verificar endereço;orders_raw_2024_03.csv
+202403-72988;05-03-24;pedro lima;pedro.lima@exemplo.com;centro oeste;MS;Campo Grande; SMARTPHONE ;SPH-36495;10;R$ 1.966,32;R$ 1.669,04;10;176,68;Boleto;Gabriel;Pending;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-31669;18-03-24;Lucas Rocha;lucas.rocha@exemplo.com;Norte;TO;Palmas;Mouse;MSE-41580;1;R$ 4.280,91;3183.7;5;85.74;Boleto;Eduardo;Pending;;orders_raw_2024_03.csv
+202403-45624;04/03/2024;LUCAS ROCHA;lucas.rocha@mail.com; NORDESTE ;CE;Fortaleza;mouse;MSE-99985;12;R$ 3.452,62;;0;106.55;Boleto;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-69723;15/03/2024;Maria Alves;maria.alves@exemplo.com;CENTRO-OESTE;MS;Campo Grande;IMPRESSORA;IMP-56553;4;R$ 4.884,21;2.510,59;0;144.11;Crédito;Gabriel;Canceled;  urgente  ;orders_raw_2024_03.csv
+202403-62370;26 Mar 2024; TIAGO CUNHA ;tiago.cunha@exemplo.com;sul;PR;Londrina;Notebook;NBK-76383;6;4.094,62;R$ 3.443,87;0;65.49;Pix;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-97800;16 Mar 2024;aline moraes;aline.moraes@exemplo.com;Norte;AP;AP;Smartphone;SPH-33452;5;2.282,32;1405.58;0;R$ 65,59;Crédito;Bruno;Canceled;  urgente  ;orders_raw_2024_03.csv
+202403-57290;24 Mar 2024; marina melo ;marina.melo@mail.com;NE;MA;MA;MOUSE;MSE-65694;10;R$ 2.978,96;1.610,68;0;15.77;Débito;Gabriel;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-12419;08 Mar 2024;Paula Dias;paula.dias@mail.com;NE;MA;MA;Impressora;IMP-70616;13;R$ 4.368,42;3.683,02;10%;;Boleto;Helena;Shipped;;orders_raw_2024_03.csv
+202403-17807;21 Mar 2024;PAULA DIAS;paula.dias@mail.com;centro oeste;GO;Anápolis;SMARTPHONE;SPH-70629;6;R$ 4.048,67;2356.72;0;;Pix;Ana;Pending;;orders_raw_2024_03.csv
+202403-64386;17-03-24;CARLA SOUZA;carla.souza@empresa.com.br; NORDESTE ;PI;PI; smartphone ;SPH-55700;3;276,70;R$ 162,69;0%;R$ 91,91;Pix;Fernanda;Pending;;orders_raw_2024_03.csv
+202403-13453;2024-03-13;aline moraes;aline.moraes@mail.com;Centro Oeste;GO;Anápolis  ;SMARTPHONE;SPH-80218;12;R$ 4.827,84;3009.08;0;113.26;Transferência;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-76663;24/03/2024;Pedro Lima;pedro.lima@exemplo.com;Centro Oeste;MT;Cuiabá; Impressora ;IMP-68453;6;1.698,38;946.45;10;186,44;Débito;Bruno;Canceled;;orders_raw_2024_03.csv
+202403-35882;19/03/2024;TIAGO CUNHA;tiago.cunha@empresa.com.br;sul;RS;Porto Alegre;Impressora;IMP-11709;5;3.144,59;2157.22;0;R$ 111,58;Pix;Eduardo;Pending;verificar endereço;orders_raw_2024_03.csv
+202403-32900;23-03-24;rafael gomes;rafael.gomes@mail.com;NE;BA;Feira de Santana;Impressora;IMP-12701;11;R$ 3.640,54;R$ 2.247,71;0;7.75;Boleto;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-41264;12 Mar 2024;Carla Souza;carla.souza@mail.com;Centro Oeste;GO;Goiânia;teclado;TCL-40440;3;R$ 3.965,58;;0%;;Crédito;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-47921;18 Mar 2024;Maria Alves;maria.alves@empresa.com.br; NORDESTE ;PI;PI;monitor;MON-64974;12;R$ 3.950,73;3080.74;5;183,24;Transferência;Ana;Pending;;orders_raw_2024_03.csv
+202403-25757;19-03-24;paula dias;pauladias;Sul;PR;Curitiba; smartphone ;SPH-97997;15;3.284,02;2235.45;0;30.28;Débito;Gabriel;Pending;;orders_raw_2024_03.csv
+202403-50062;20-03-24; MARIA ALVES ;maria.alves@empresa.com.br;CENTRO-OESTE;GO;Anápolis; Smartphone ;SPH-84515;11;3.531,70;2207.08;0%;R$ 196,60;Transferência;Helena;Shipped;;orders_raw_2024_03.csv
+202403-66028;22 Mar 2024;Aline Moraes;aline.moraes@exemplo.com;CENTRO-OESTE;GO;Goiânia;Impressora;IMP-60628;14;R$ 360,92;R$ 209,66;15;123,18;Crédito;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-82902;19/03/2024;JOÃO SILVA;joão.silva@empresa.com.br;sul;PR;Curitiba; notebook ;NBK-90590;8;2.012,64;;15;149,09;Débito;Gabriel;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-13198;05-03-24;CARLA SOUZA;carla.souza@empresa.com.br;norte;RO;Porto Velho;Headset;HDS-49145;11;1.304,44;R$ 775,10;15;;Crédito;Fernanda;Pending;;orders_raw_2024_03.csv
+202403-28489;09 Mar 2024;Aline Moraes;aline.moraes@exemplo.com;CENTRO-OESTE;MT;Cuiabá;MONITOR;MON-76589;9;R$ 1.891,00;1087.54;15%;34.67;Transferência;Fernanda;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-23790;11-03-24;LUCAS ROCHA;lucas.rocha@exemplo.com;Centro Oeste;MT;Cuiabá  ; Teclado ;TCL-89417;9;2.954,05;2.197,79;0;91.87;Transferência;Helena;Pending;verificar endereço;orders_raw_2024_03.csv
+202403-77953;2024-03-21; Lucas Rocha ;lucas.rocha@empresa.com.br;Sud-este;SP;Santos;Mouse;MSE-18748;5;R$ 2.673,21;1656.74;0;131.47;Crédito;Bruno;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-90761;18 Mar 2024;Pedro Lima;pedro.lima@exemplo.com;CENTRO-OESTE;GO;Goiânia;Notebook;NBK-39629;6;R$ 356,19;267,94;0%;38,44;Boleto;Helena;Pending;;orders_raw_2024_03.csv
+202403-27612;21-03-24; Carla Souza ;carla.souza@empresa.com.br;Região Sul;RS;Caxias do Sul;Impressora;IMP-95216;3;R$ 1.010,74;844,15;0;191,00;Pix;Carlos;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-75104;2024-03-07;Marina Melo;marina.melo@exemplo.com;Norte;TO;Palmas;impressora;IMP-25414;14;2.933,12;1.659,47;10;174.43;Boleto;Daniela;Canceled;;orders_raw_2024_03.csv
+202403-65397;2024-03-22;paula dias;paula.dias@exemplo.com;nordeste;CE;Fortaleza;Impressora;IMP-48174;11;R$ 2.007,84;R$ 1.598,77;5;12.51;Débito;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-36380;02/03/2024;Lucas Rocha;lucas.rocha@empresa.com.br;sudeste;MG;Juiz de Fora;Teclado;TCL-55297;6;R$ 711,46;;15%;R$ 173,23;Boleto;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-20962;10-03-24;LUCAS ROCHA;lucas.rocha@exemplo.com;CENTRO-OESTE;MS;Campo Grande;MOUSE;MSE-30112;6;R$ 5.168,93;;5;99,43;Pix;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-49589;2024-03-25;MARINA MELO;marina.melo@empresa.com.br;sudeste;ES;Vila Velha;Notebook;NBK-41497;8;3.885,19;;5;104.72;Transferência;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-68867;12 Mar 2024; MARIA ALVES ;mariaalves; NO ;TO;Palmas;smartphone;SPH-41730;11;799,51;646.58;0;;Boleto;Carlos;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-53263;2024-03-15;Carla Souza;carla.souza@mail.com;centro oeste;DF;Brasília;impressora;IMP-68327;10;R$ 2.656,24;2.136,21;0%;125.77;Pix;Ana;Pending;;orders_raw_2024_03.csv
+202403-41166;14/03/2024;pedro lima;pedro.lima@mail.com; NORDESTE ;BA;Salvador;Smartphone;SPH-85723;6;R$ 1.381,63;R$ 1.172,91;0;138,32;Débito;Daniela;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-75627;09/03/2024;MARINA MELO;marina.melo@mail.com;sul;SC;Florianópolis;Monitor;MON-27858;2;992,06;;10;100.92;Transferência;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-75627;09/03/2024;MARINA MELO;marina.melo@mail.com;sul;SC;Florianópolis;Monitor;MON-27858;2;992,06;;10;100.92;Transferência;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-65397;2024-03-22;paula dias;paula.dias@exemplo.com;nordeste;CE;Fortaleza;Impressora;IMP-48174;11;R$ 2.007,84;R$ 1.598,77;5;12.51;Débito;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-15676;25-03-24;Maria Alves;maria.alves@empresa.com.br;Região Sul;PR;Londrina;monitor;MON-74158;12;358,47;R$ 284,07;15%;R$ 142,68;Pix;Ana;Shipped;;orders_raw_2024_03.csv
+202403-53323;01 Mar 2024;Pedro Lima;pedro.lima@mail.com;centro oeste;MT;Cuiabá;TECLADO;TCL-05956;13 un;214,60;R$ 170,60;10;12,08;Pix;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-79028;08-03-24;joão silva;joão.silva@mail.com;norte;AP;AP;Monitor;MON-48564;6;3.679,23;2183.41;15%;151.12;Transferência;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-54744;20/03/2024; tiago cunha ;tiago.cunha@empresa.com.br;CENTRO-OESTE;MS;Campo Grande;Notebook;NBK-93015;15;1.528,49;1.161,93;15;;Débito;Fernanda;Canceled;;orders_raw_2024_03.csv
+202403-44017;18-03-24;CARLA SOUZA;carla.souza@mail.com;NE;RN;Natal;SMARTPHONE;SPH-21266;5;2.077,61;1332.04;15;175,73;Boleto;Bruno;Pending;;orders_raw_2024_03.csv
+202403-71465;22 Mar 2024; João Silva ;joão.silva@mail.com;CENTRO-OESTE;DF;Brasília;MONITOR;MON-26585;1;R$ 233,14;191.06;0;45.66;Débito;Gabriel;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-31379;2024-03-24;JOÃO SILVA;joãosilva;nordeste;MA;MA;Teclado;TCL-84604;7;962,91;R$ 526,89;10;50.22;Transferência;Helena;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-81134;17/03/2024;rafael gomes;rafael.gomes@empresa.com.br;norte;AP;AP;IMPRESSORA;IMP-32525;5;3.844,49;2.262,15;0;52.45;Pix;Bruno;Pending;;orders_raw_2024_03.csv
+202403-67860;15 Mar 2024; Aline Moraes ;aline.moraes@exemplo.com;Nordeste;MA;MA;Notebook;NBK-28957;14;572,92;433.19;5;148.12;Pix;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-77673;14 Mar 2024;MARINA MELO;marina.melo@mail.com; NO ;RO;Porto Velho;Headset;HDS-37650;5;4.784,33;3005.62;5%;112.07;Pix;Helena;Shipped;;orders_raw_2024_03.csv
+202403-53081;2024-03-02; pedro lima ;pedro.lima@exemplo.com;Sud-este;MG;Juiz de Fora; Smartphone ;SPH-44996;10;R$ 989,90;526.49;0%;;Débito;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-39680;20-03-24;rafael gomes;rafael.gomes@exemplo.com;sudeste;SP;Santos; Teclado ;TCL-57452;15;872,38;733.41;0;84.8;Pix;Eduardo;Pending;;orders_raw_2024_03.csv
+202403-78502;27/03/2024;Lucas Rocha;lucas.rocha@exemplo.com;CENTRO-OESTE;MT;Cuiabá; Impressora ;IMP-43686;15;R$ 3.293,97;R$ 2.576,58;0;23.49;Transferência;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-12141;25/03/2024;Tiago Cunha;tiago.cunha@mail.com; SUDESTE;MG;Belo Horizonte;HEADSET;HDS-22355;12;R$ 1.932,44;R$ 1.598,71;10;R$ 81,81;Pix;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-54632;16 Mar 2024; MARIA ALVES ;maria.alves@empresa.com.br;Centro-Oeste;MT;Cuiabá;Monitor;MON-78616;10;1.802,09;R$ 942,78;15;85.68;Boleto;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-56448;15/03/2024;Aline Moraes;aline.moraes@exemplo.com;Centro-Oeste;DF;Brasília;Notebook;NBK-53427;1;5.196,35;2.833,29;15%;102.47;Boleto;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-62781;24 Mar 2024;Tiago Cunha;tiago.cunha@exemplo.com;Sul;PR;Curitiba; Impressora ;IMP-26352;7;2.443,21;R$ 1.232,95;5;59,98;Transferência;Gabriel;Shipped;;orders_raw_2024_03.csv
+202403-15145;2024-03-01; RAFAEL GOMES ;rafael.gomes@empresa.com.br;norte;AC;AC;mouse;MSE-18968;4;R$ 195,53;;5%;R$ 105,79;Boleto;Carlos;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-81653;28 Mar 2024;carla souza;carla.souza@exemplo;Centro Oeste;DF;Brasília;Teclado;TCL-14954;15;192,50;99,71;0;R$ 78,77;Crédito;Fernanda;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-16107;22 Mar 2024;Rafael Gomes;rafael.gomes@empresa.com.br;Norte;AC;AC;Teclado;TCL-06054;10;R$ 2.694,71;2153.92;5%;168,53;Transferência;Ana;Pending;;orders_raw_2024_03.csv
+202403-73392;2024-03-15;rafael gomes;rafael.gomes@empresa.com.br;sul;PR;Londrina;monitor;MON-49897;4;2.083,30;1.192,69;10;191.53;Pix;Daniela;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-50749;12 Mar 2024;MARINA MELO;marina.melo@empresa.com.br;Nordeste;RN;Natal  ;Mouse;MSE-16554;6;3.979,16;2.227,60;5%;49.53;Transferência;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-99043;22 Mar 2024;Pedro Lima;pedrolima;Centro Oeste;MS;Campo Grande  ;Headset;HDS-76564;7;2.210,83;1576.84;15;77.96;Débito;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-69015;2024-03-14; Lucas Rocha ;lucas.rocha@mail.com;Região Sul;SC;Joinville;Headset;HDS-03404;2;3.155,54;1854.53;0;;Crédito;Eduardo;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-44875;19 Mar 2024;CARLA SOUZA;carla.souza@mail.com;sudeste;ES;Vila Velha;Monitor;MON-28070;7;R$ 1.018,32;618,46;15;R$ 98,20;Crédito;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-29788;12 Mar 2024;João Silva;joão.silva@empresa.com.br;nordeste;RN;Natal;teclado;TCL-76155;12;1.720,27;1190.63;0;65.36;Boleto;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-36466;27/03/2024;Pedro Lima;pedro.lima@mail.com;Centro Oeste;GO;Goiânia;Notebook;NBK-08562;13;299,75;253,57;15;R$ 46,50;Transferência;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-42101;12-03-24;joão silva;joãosilva;Norte;RO;Porto Velho;TECLADO;TCL-08023;12;R$ 1.400,50;;0;24.44;Boleto;Carlos;Pending;;orders_raw_2024_03.csv
+202403-44875;19 Mar 2024;CARLA SOUZA;carla.souza@mail.com;sudeste;ES;Vila Velha;Monitor;MON-28070;7;R$ 1.018,32;618,46;15;R$ 98,20;Crédito;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-49678;08-03-24; PEDRO LIMA ;pedro.lima@exemplo.com;Centro Oeste;MS;Campo Grande;Monitor;MON-18161;12;R$ 2.694,19;1439.64;0;194.42;Transferência;Helena;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-32893;11 Mar 2024;RAFAEL GOMES;rafael.gomes@empresa.com.br;Região Sul;RS;Porto Alegre;Monitor;MON-62718;5;R$ 951,60;789.14;15;194.14;Crédito;Bruno;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-14079;14/03/2024; carla souza ;carlasouza; SUDESTE;MG;Belo Horizonte;Monitor;MON-77105;5 un;R$ 2.157,05;1597.76;15;13.04;Crédito;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-88800;2024-03-01; Tiago Cunha ;tiago.cunha@exemplo.com;Centro Oeste;GO;Goiânia;Mouse;MSE-87167;15;3.612,70;2.765,79;10;94.71;Crédito;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-21931;25-03-24;Maria Alves;maria.alves@exemplo.com;Sudeste;MG;Uberlândia;Smartphone;SPH-43621;15;R$ 3.180,14;1907.46;10;R$ 67,74;Boleto;Helena;Shipped;;orders_raw_2024_03.csv
+202403-64742;10 Mar 2024; Rafael Gomes ;rafael.gomes@exemplo.com;norte;AP;AP;SMARTPHONE;SPH-86757;4;5.042,21;3.137,78;0;177.72;Débito;Carlos;Pending;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-54507;01/03/2024; rafael gomes ;rafael.gomes@exemplo.com;Nordeste;PE;Recife;Headset;HDS-15543;4;R$ 258,37;142,41;0%;R$ 199,95;Pix;Eduardo;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-32815;2024-03-11;RAFAEL GOMES;rafael.gomes@exemplo.com;Centro-Oeste;GO;Anápolis;MONITOR;MON-70926;14;R$ 538,52;344,19;0;144.11;Transferência;Bruno;Canceled;verificar endereço;orders_raw_2024_03.csv
+202403-14290;28 Mar 2024;Maria Alves;mariaalves;norte;AM;Manaus;NOTEBOOK;NBK-19352;1;4.247,81;;5;190.82;Crédito;Gabriel;Canceled;  urgente  ;orders_raw_2024_03.csv
+202403-47784;05-03-24;LUCAS ROCHA;lucas.rocha@mail.com;Sud-este;SP;Santos;Headset;HDS-49174;1;4.788,90;2.521,59;5;25.5;Boleto;Ana;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-97752;05-03-24;ALINE MORAES;alinemoraes;norte;TO;Palmas  ;TECLADO;TCL-46255;5 un;5.140,67;3016.12;10%;;Débito;Eduardo;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-92821;2024-03-13;MARIA ALVES;maria.alves@empresa.com.br;Centro Oeste;MT;Cuiabá  ; Impressora ;IMP-08123;13;2.278,82;;5;80.06;Pix;Ana;Canceled;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-52849;18/03/2024;Pedro Lima;pedrolima;Sud-este;MG;Belo Horizonte;teclado;TCL-47795;10;R$ 836,31;;0;149.95;Débito;Fernanda;Canceled;;orders_raw_2024_03.csv
+202403-83047;2024-03-01;PEDRO LIMA;pedro.lima@mail.com;Nordeste;PB;PB;MONITOR;MON-58562;13;1.573,16;845.53;0;190.82;Crédito;Ana;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-82637;07-03-24; Paula Dias ;paula.dias@mail.com;Norte;RO;Porto Velho;MOUSE;MSE-38939;13;1.154,89;736.27;0;;Crédito;Ana;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-48426;26 Mar 2024;RAFAEL GOMES;rafael.gomes@exemplo.com;Nordeste;PI;PI;Smartphone;SPH-96247;7;R$ 1.725,44;1.033,83;0;93.08;Pix;Carlos;Canceled;;orders_raw_2024_03.csv
+202403-64745;02-03-24;carla souza;carla.souza@exemplo.com; NO ;AP;AP;MONITOR;MON-17217;5;R$ 305,82;R$ 219,45;5%;138.02;Pix;Eduardo;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-34138;03/03/2024;Maria Alves;maria.alves@exemplo.com;Sudeste;RJ;Petrópolis; Monitor ;MON-85140;1;3.404,93;1840.95;0%;;Débito;Helena;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-82637;07-03-24; Paula Dias ;paula.dias@mail.com;Norte;RO;Porto Velho;MOUSE;MSE-38939;13;1.154,89;736.27;0;;Crédito;Ana;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-82879;26/03/2024; Carla Souza ;carla.souza@exemplo;Sul;RS;Porto Alegre;teclado;TCL-20959;11;1.152,43;916,36;0;10.48;Débito;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-98467;12/03/2024;Lucas Rocha;lucas.rocha@empresa.com.br;NE;AL;AL;mouse;MSE-53924;12;3.203,60;R$ 1.899,03;0;3,85;Crédito;Eduardo;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-49941;04 Mar 2024;Rafael Gomes;rafaelgomes;centro oeste;MT;Cuiabá;SMARTPHONE;SPH-19840;11;286,44;R$ 201,38;15%;R$ 130,07;Débito;Eduardo;Canceled;  urgente  ;orders_raw_2024_03.csv
+202403-20462;23/03/2024;Tiago Cunha;tiago.cunha@exemplo.com; NO ;RO;Porto Velho;smartphone;SPH-46325;4 un;2.574,13;2174.25;0%;R$ 8,34;Pix;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-43915;2024-03-13; Lucas Rocha ;lucas.rocha@mail.com; SUL ;RS;Porto Alegre;MOUSE;MSE-73705;7;1.136,46;912.03;5;128,38;Transferência;Fernanda;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-84720;11-03-24;JOÃO SILVA;joão.silva@exemplo.com;Centro-Oeste;MS;Campo Grande;Mouse;MSE-50117;13;1.961,85;1.286,20;0;117,28;Boleto;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-35882;19/03/2024;TIAGO CUNHA;tiago.cunha@empresa.com.br;sul;RS;Porto Alegre;Impressora;IMP-11709;5;3.144,59;2157.22;0;R$ 111,58;Pix;Eduardo;Pending;verificar endereço;orders_raw_2024_03.csv
+202403-53720;2024-03-08;Lucas Rocha;lucas.rocha@exemplo.com; NO ;AM;Manaus;Teclado;TCL-32219;12;R$ 1.114,38;;0%;173,83;Transferência;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-15861;26-03-24;Lucas Rocha;lucas.rocha@exemplo.com; SUDESTE;MG;Uberlândia;Notebook;NBK-75311;12;4.919,17;2.766,88;0;R$ 97,84;Transferência;Carlos;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-96247;04 Mar 2024;maria alves;maria.alves@exemplo.com;sudeste;ES;Vitória; Mouse ;MSE-37839;15;R$ 3.134,58;;0;R$ 3,14;Débito;Fernanda;Canceled;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-86154;2024-03-10;PEDRO LIMA;pedro.lima@mail.com;NE;CE;Fortaleza;Smartphone;SPH-39642;13;3.167,49;2.120,73;10;R$ 5,14;Crédito;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-57290;24 Mar 2024; marina melo ;marina.melo@mail.com;NE;MA;MA;MOUSE;MSE-65694;10;R$ 2.978,96;1.610,68;0;15.77;Débito;Gabriel;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-88658;2024-03-04;LUCAS ROCHA;lucas.rocha@exemplo;CENTRO-OESTE;MT;Cuiabá;Impressora;IMP-53961;5;783,33;R$ 469,50;5%;R$ 180,39;Crédito;Daniela;Pending;;orders_raw_2024_03.csv
+202403-40451;2024-03-23;Pedro Lima;pedrolima;sul;SC;Florianópolis;Teclado;TCL-22862;7;4.844,01;3873.86;0%;199.73;Débito;Gabriel;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-68896;2024-03-22;Marina Melo;marina.melo@mail.com; NO ;AM;Manaus;TECLADO;TCL-51350;9;2.043,75;1.515,20;5%;;Débito;Bruno;Pending;;orders_raw_2024_03.csv
+202403-38697;09-03-24; Marina Melo ;marinamelo; NORDESTE ;PI;PI;teclado;TCL-56732;12;R$ 2.918,04;2329.0;5;41.0;Débito;Bruno;Shipped;;orders_raw_2024_03.csv
+202403-55209;25/03/2024;Carla Souza;carla.souza@exemplo.com;sul;PR;Curitiba; Mouse ;MSE-74274;6;3.149,98;1.742,45;5%;40,98;Pix;Eduardo;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-29108;14 Mar 2024;LUCAS ROCHA;lucas.rocha@mail.com;Sudeste;RJ;Petrópolis;impressora;IMP-01559;15;4.290,97;2.415,40;0;76.18;Transferência;Fernanda;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-70313;21-03-24;pedro lima;pedro.lima@exemplo.com;NE;AL;AL;Teclado;TCL-39354;11;R$ 3.090,13;1.819,08;15;R$ 22,06;Pix;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-21309;03 Mar 2024;PAULA DIAS;paula.dias@empresa.com.br; NORDESTE ;AL;AL;Notebook;NBK-63724;11;2.497,32;1.360,28;10;R$ 11,21;Pix;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-76380;14 Mar 2024; João Silva ;joão.silva@mail.com;norte;AC;AC;SMARTPHONE;SPH-35420;14;3.404,10;R$ 2.004,24;0%;R$ 24,37;Pix;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-56224;11 Mar 2024; JOÃO SILVA ;joão.silva@mail.com;Região Sul;RS;Caxias do Sul; MOUSE ;MSE-17266;1;1.284,83;R$ 869,03;0;42.74;Transferência;Carlos;Pending;verificar endereço;orders_raw_2024_03.csv
+202403-43915;2024-03-13; Lucas Rocha ;lucas.rocha@mail.com; SUL ;RS;Porto Alegre;MOUSE;MSE-73705;7;1.136,46;912.03;5;128,38;Transferência;Fernanda;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-25830;2024-03-18;João Silva;joão.silva@mail.com;Centro Oeste;GO;Anápolis;MONITOR;MON-77349;7;5.074,02;R$ 4.273,98;15;108.94;Débito;Carlos;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-60384;2024-03-28;LUCAS ROCHA;lucasrocha; NO ;AP;AP; Monitor ;MON-27258;11;1.886,88;1.435,16;5;183.54;Boleto;Daniela;Pending;  urgente  ;orders_raw_2024_03.csv
+202403-47195;16 Mar 2024;João Silva;joãosilva;CENTRO-OESTE;MT;Cuiabá;Headset;HDS-19505;12 un;R$ 1.657,56;;5;142.9;Débito;Ana;Shipped;  urgente  ;orders_raw_2024_03.csv
+202403-24902;22 Mar 2024;MARIA ALVES;maria.alves@mail.com;NE;AL;AL; Teclado ;TCL-69208;10;R$ 2.797,37;2112.9;15;85.81;Transferência;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-62138;13 Mar 2024;Paula Dias;pauladias;sul;RS;Porto Alegre;Mouse;MSE-64886;3;R$ 4.605,45;2446.76;0;171,86;Transferência;Helena;Shipped;;orders_raw_2024_03.csv
+202403-98484;05 Mar 2024; Pedro Lima ;pedro.lima@empresa.com.br;norte;AC;AC;Impressora;IMP-86610;11;R$ 1.367,30;R$ 1.044,66;15;;Transferência;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-32005;24/03/2024; Paula Dias ;paula.dias@empresa.com.br;Sudeste;ES;Vila Velha;Smartphone;SPH-04388;12;R$ 1.272,12;R$ 1.078,36;5;199.45;Pix;Fernanda;Shipped;;orders_raw_2024_03.csv
+202403-54358;19 Mar 2024;Pedro Lima;pedro.lima@empresa.com.br;nordeste;MA;MA;Mouse;MSE-27063;15;R$ 5.153,59;;5;139.91;Débito;Gabriel;Canceled;;orders_raw_2024_03.csv
+202403-99562;05/03/2024;RAFAEL GOMES;rafael.gomes@empresa.com.br; SUL ;PR;Curitiba;headset;HDS-66538;2;4.431,99;R$ 2.735,70;15;76,60;Boleto;Helena;Pending;;orders_raw_2024_03.csv
+202403-41817;23/03/2024;ALINE MORAES;aline.moraes@exemplo.com;Nordeste;AL;AL;Impressora;IMP-64451;5;R$ 886,94;592.94;0;159.23;Pix;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-40647;20/03/2024;Tiago Cunha;tiago.cunha@exemplo.com;Sud-este;ES;Vitória;Headset;HDS-95194;3;R$ 4.885,43;3017.57;0%;27.38;Débito;Carlos;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-21833;05/03/2024;João Silva;joão.silva@exemplo.com;Nordeste;SE;SE;headset;HDS-73523;2;4.065,44;2.841,01;15%;194,58;Pix;Daniela;Shipped;;orders_raw_2024_03.csv
+202403-87323;2024-03-27;MARIA ALVES;maria.alves@exemplo.com;Região Sul;SC;Florianópolis;Teclado;TCL-52362;9;R$ 4.062,51;2941.54;0;25.53;Boleto;Eduardo;Shipped;verificar endereço;orders_raw_2024_03.csv
+202403-62257;20-03-24;MARIA ALVES;maria.alves@exemplo.com;Norte;TO;Palmas; NOTEBOOK ;NBK-44005;12;4.560,76;3634.37;0;4,17;Pix;Helena;Shipped;;orders_raw_2024_03.csv
+202403-26423;16/03/2024;Maria Alves;maria.alves@exemplo.com;nordeste;MA;MA;Notebook;NBK-91853;9;R$ 1.724,25;R$ 1.269,22;10%;;Débito;Ana;Shipped;;orders_raw_2024_03.csv
+202403-71886;2024-03-24; Rafael Gomes ;rafael.gomes@exemplo;Norte;PA;Ananindeua  ;impressora;IMP-73898;1;R$ 2.177,79;1.825,07;0;23,83;Débito;Ana;Shipped;cliente pediu NF-e;orders_raw_2024_03.csv
+202403-64386;17-03-24;CARLA SOUZA;carla.souza@empresa.com.br; NORDESTE ;PI;PI; smartphone ;SPH-55700;3;276,70;R$ 162,69;0%;R$ 91,91;Pix;Fernanda;Pending;;orders_raw_2024_03.csv
+202403-80792;17/03/2024;Tiago Cunha;tiago.cunha@mail.com; NO ;RO;Porto Velho;NOTEBOOK;NBK-04956;13;R$ 4.317,81;;5;R$ 28,36;Débito;Fernanda;Pending;verificar endereço;orders_raw_2024_03.csv
+OrderID;OrderDate;CustomerName;CustomerEmail;Region;State;City;Product;SKU;Quantity;UnitPrice;UnitCost;Discount;Freight;PaymentMethod;SalesRep;OrderStatus;Notes;orders_raw_2024_03.csv
+202403-35826;2024-03-26;MARIA ALVES;maria.alves@empresa.com.br;Sul;RS;Porto Alegre;Monitor;MON-14684;13;2.895,56;1.771,16;10;109.68;Débito;Eduardo;Shipped;;orders_raw_2024_03.csv
+202403-36380;02/03/2024;Lucas Rocha;lucas.rocha@empresa.com.br;sudeste;MG;Juiz de Fora;Teclado;TCL-55297;6;R$ 711,46;;15%;R$ 173,23;Boleto;Carlos;Shipped;;orders_raw_2024_03.csv
+202403-68262;2024-03-06;LUCAS ROCHA;lucas.rocha@exemplo.com;nordeste;RN;Natal;HEADSET;HDS-03187;1;200,95;128,00;5%;99,19;Pix;Carlos;Shipped;;orders_raw_2024_03.csv

@@ -1,0 +1,9 @@
+ordem,categoria,valor
+1,Receita inicial (Jan),500000
+2,Novos clientes,120000
+3,Upsell/Cross-sell,45000
+4,Descontos e promoções,-30000
+5,Churn (perda de contas),-70000
+6,Impostos/Taxas,-50000
+7,Variação cambial,15000
+8,Receita final,530000

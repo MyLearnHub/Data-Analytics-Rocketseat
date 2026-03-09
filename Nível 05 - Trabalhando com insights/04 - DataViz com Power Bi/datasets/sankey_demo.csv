@@ -1,0 +1,14 @@
+from,to,value
+Anúncios pagos,Visita ao site,6000
+Orgânico,Visita ao site,4000
+E-mail,Visita ao site,2000
+Social,Visita ao site,1500
+Referência,Visita ao site,500
+Visita ao site,Visualização de produto,8400
+Visita ao site,Abandono após visita,5600
+Visualização de produto,Adicionar ao carrinho,2520
+Visualização de produto,Abandono após visualização,5880
+Adicionar ao carrinho,Checkout,1764
+Adicionar ao carrinho,Abandono do carrinho,756
+Checkout,Compra,1411
+Checkout,Falha no pagamento,353

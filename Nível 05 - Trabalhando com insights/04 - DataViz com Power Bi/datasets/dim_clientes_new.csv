@@ -1,0 +1,1501 @@
+ClienteID,Nome_Cliente,Tipo_Cliente,Segmento_Cliente,Cidade,UF,Canal_Preferido,Data_Cadastro,Score_Risco
+C000001,Cliente C000001,PF,Varejo,Chapecó,SC,Loja Física,2021-04-07,52.3
+C000002,Cliente C000002,PF,Atacado,Uberlândia,MG,Online,2020-04-18,50.8
+C000003,Cliente C000003,PF,Varejo,Chapecó,SC,Marketplace,2020-11-07,67.4
+C000004,Cliente C000004,PF,Atacado,Belo Horizonte,MG,Online,2020-07-07,100.0
+C000005,Cliente C000005,PJ,Varejo,Volta Redonda,RJ,Online,2023-10-07,80.8
+C000006,Cliente C000006,PF,Varejo,Salvador,BA,Loja Física,2022-02-12,59.3
+C000007,Cliente C000007,PF,Atacado,Ribeirão Preto,SP,Online,2022-11-26,81.7
+C000008,Cliente C000008,PF,Varejo,Belo Horizonte,MG,Loja Física,2025-06-25,47.8
+C000009,Cliente C000009,PF,Varejo,Fortaleza,CE,Marketplace,2025-04-22,32.9
+C000010,Cliente C000010,PF,Varejo,Sorocaba,SP,Loja Física,2025-07-07,81.0
+C000011,Cliente C000011,PF,Varejo,São Paulo,SP,Online,2020-08-11,45.7
+C000012,Cliente C000012,PF,Atacado,Brasília,DF,Online,2023-01-30,55.7
+C000013,Cliente C000013,PF,Premium,Porto Alegre,RS,Loja Física,2021-05-22,75.7
+C000014,Cliente C000014,PF,Varejo,Curitiba,PR,Online,2024-03-03,77.1
+C000015,Cliente C000015,PF,Corporate,Curitiba,PR,Online,2025-03-06,51.7
+C000016,Cliente C000016,PJ,Corporate,Campos dos Goytacazes,RJ,Online,2022-05-18,63.1
+C000017,Cliente C000017,PJ,Premium,Recife,PE,Online,2022-07-07,59.2
+C000018,Cliente C000018,PF,Varejo,Sorocaba,SP,Loja Física,2020-05-03,63.4
+C000019,Cliente C000019,PJ,Varejo,Taguatinga,DF,Online,2025-06-19,89.2
+C000020,Cliente C000020,PF,Varejo,Belo Horizonte,MG,Online,2023-01-10,90.9
+C000021,Cliente C000021,PF,Varejo,Sorocaba,SP,Online,2025-03-07,72.6
+C000022,Cliente C000022,PJ,Varejo,Contagem,MG,Online,2024-07-20,57.3
+C000023,Cliente C000023,PJ,Varejo,Juiz de Fora,MG,Loja Física,2022-10-21,93.7
+C000024,Cliente C000024,PJ,Premium,Jaboatão dos Guararapes,PE,Marketplace,2023-01-29,87.2
+C000025,Cliente C000025,PJ,Varejo,Contagem,MG,Marketplace,2020-12-04,65.4
+C000026,Cliente C000026,PF,Varejo,Camaçari,BA,Loja Física,2022-08-09,83.1
+C000027,Cliente C000027,PJ,Atacado,Jaboatão dos Guararapes,PE,Online,2022-10-01,89.2
+C000028,Cliente C000028,PF,Corporate,Joinville,SC,Loja Física,2022-10-06,97.9
+C000029,Cliente C000029,PF,Varejo,Brasília,DF,Online,2022-07-22,68.0
+C000030,Cliente C000030,PF,Corporate,São Paulo,SP,Loja Física,2021-09-06,67.6
+C000031,Cliente C000031,PJ,Varejo,Juiz de Fora,MG,Marketplace,2020-05-11,68.3
+C000032,Cliente C000032,PF,Varejo,Belo Horizonte,MG,Loja Física,2024-03-05,87.2
+C000033,Cliente C000033,PJ,Varejo,Juiz de Fora,MG,Loja Física,2021-06-12,52.2
+C000034,Cliente C000034,PJ,Premium,Sorocaba,SP,Online,2023-07-16,69.9
+C000035,Cliente C000035,PF,Atacado,Santa Maria,RS,Marketplace,2022-10-24,62.4
+C000036,Cliente C000036,PF,Varejo,Maringá,PR,Online,2021-11-26,54.3
+C000037,Cliente C000037,PF,Varejo,Sorocaba,SP,Online,2025-06-16,78.0
+C000038,Cliente C000038,PJ,Corporate,Fortaleza,CE,Online,2020-08-30,52.4
+C000039,Cliente C000039,PF,Premium,Caucaia,CE,Online,2021-10-15,89.8
+C000040,Cliente C000040,PF,Varejo,Juazeiro do Norte,CE,Online,2021-12-01,62.6
+C000041,Cliente C000041,PF,Varejo,Jaboatão dos Guararapes,PE,Marketplace,2024-06-15,73.4
+C000042,Cliente C000042,PJ,Premium,Belo Horizonte,MG,Loja Física,2024-02-04,60.0
+C000043,Cliente C000043,PF,Premium,Vitória da Conquista,BA,Loja Física,2021-02-08,68.0
+C000044,Cliente C000044,PJ,Atacado,Recife,PE,Marketplace,2024-01-07,53.4
+C000045,Cliente C000045,PJ,Corporate,Florianópolis,SC,Loja Física,2020-11-10,47.6
+C000046,Cliente C000046,PF,Premium,Santos,SP,Online,2023-10-17,78.0
+C000047,Cliente C000047,PF,Varejo,Rio de Janeiro,RJ,Loja Física,2023-07-02,55.7
+C000048,Cliente C000048,PJ,Premium,Taguatinga,DF,Loja Física,2022-05-05,47.4
+C000049,Cliente C000049,PJ,Varejo,Londrina,PR,Marketplace,2020-12-21,67.1
+C000050,Cliente C000050,PF,Varejo,Juiz de Fora,MG,Televendas,2024-03-17,96.5
+C000051,Cliente C000051,PJ,Corporate,Porto Alegre,RS,Loja Física,2022-07-07,70.6
+C000052,Cliente C000052,PJ,Premium,Joinville,SC,Online,2021-09-22,53.2
+C000053,Cliente C000053,PF,Varejo,Ribeirão Preto,SP,Online,2020-12-29,83.9
+C000054,Cliente C000054,PJ,Atacado,Ribeirão Preto,SP,Online,2023-07-04,60.2
+C000055,Cliente C000055,PF,Premium,Ceilândia,DF,Online,2022-11-08,59.2
+C000056,Cliente C000056,PJ,Varejo,Feira de Santana,BA,Loja Física,2022-11-06,99.7
+C000057,Cliente C000057,PF,Varejo,Pelotas,RS,Loja Física,2021-11-23,82.5
+C000058,Cliente C000058,PJ,Varejo,Londrina,PR,Marketplace,2024-08-21,78.3
+C000059,Cliente C000059,PF,Varejo,Campinas,SP,Loja Física,2023-12-22,58.2
+C000060,Cliente C000060,PF,Premium,Maracanaú,CE,Loja Física,2022-12-11,94.6
+C000061,Cliente C000061,PJ,Varejo,Campinas,SP,Online,2025-03-02,83.5
+C000062,Cliente C000062,PJ,Corporate,São Paulo,SP,Online,2024-02-12,53.4
+C000063,Cliente C000063,PF,Varejo,Uberlândia,MG,Marketplace,2020-03-13,48.6
+C000064,Cliente C000064,PF,Atacado,Ponta Grossa,PR,Online,2024-12-14,40.6
+C000065,Cliente C000065,PF,Varejo,Brasília,DF,Online,2024-07-27,80.4
+C000066,Cliente C000066,PF,Varejo,Jaboatão dos Guararapes,PE,Marketplace,2023-01-06,72.0
+C000067,Cliente C000067,PF,Corporate,Juiz de Fora,MG,Online,2023-01-20,68.2
+C000068,Cliente C000068,PF,Varejo,Niterói,RJ,Online,2023-02-04,91.4
+C000069,Cliente C000069,PF,Varejo,Ponta Grossa,PR,Online,2022-06-23,70.5
+C000070,Cliente C000070,PF,Varejo,Camaçari,BA,Online,2024-01-04,70.0
+C000071,Cliente C000071,PF,Varejo,Caucaia,CE,Online,2023-09-16,48.5
+C000072,Cliente C000072,PJ,Varejo,Santos,SP,Loja Física,2024-10-23,71.8
+C000073,Cliente C000073,PF,Varejo,Juiz de Fora,MG,Loja Física,2024-08-13,72.5
+C000074,Cliente C000074,PF,Premium,Sorocaba,SP,Marketplace,2020-02-28,58.8
+C000075,Cliente C000075,PF,Varejo,Juazeiro do Norte,CE,Loja Física,2021-07-26,51.7
+C000076,Cliente C000076,PF,Atacado,Caruaru,PE,Loja Física,2021-04-14,52.2
+C000077,Cliente C000077,PJ,Varejo,Curitiba,PR,Loja Física,2024-12-19,64.1
+C000078,Cliente C000078,PJ,Varejo,Campinas,SP,Marketplace,2023-08-24,38.8
+C000079,Cliente C000079,PF,Varejo,Florianópolis,SC,Loja Física,2024-05-11,74.5
+C000080,Cliente C000080,PJ,Varejo,Contagem,MG,Loja Física,2020-05-20,56.3
+C000081,Cliente C000081,PJ,Varejo,Uberlândia,MG,Online,2022-09-15,72.8
+C000082,Cliente C000082,PF,Varejo,São Paulo,SP,Loja Física,2025-06-15,81.1
+C000083,Cliente C000083,PF,Varejo,Ribeirão Preto,SP,Online,2025-06-04,73.7
+C000084,Cliente C000084,PJ,Atacado,Caucaia,CE,Loja Física,2023-11-24,78.5
+C000085,Cliente C000085,PF,Varejo,Juazeiro do Norte,CE,Loja Física,2024-01-27,78.2
+C000086,Cliente C000086,PF,Atacado,Gama,DF,Online,2024-06-02,57.9
+C000087,Cliente C000087,PJ,Premium,Niterói,RJ,Online,2021-06-06,48.0
+C000088,Cliente C000088,PF,Varejo,Belo Horizonte,MG,Loja Física,2024-11-24,78.4
+C000089,Cliente C000089,PF,Atacado,Chapecó,SC,Online,2021-08-12,45.8
+C000090,Cliente C000090,PF,Atacado,Chapecó,SC,Online,2023-10-27,91.3
+C000091,Cliente C000091,PF,Corporate,Santos,SP,Online,2024-07-09,59.2
+C000092,Cliente C000092,PF,Varejo,Brasília,DF,Marketplace,2022-10-12,38.6
+C000093,Cliente C000093,PF,Atacado,Joinville,SC,Loja Física,2023-05-15,72.9
+C000094,Cliente C000094,PF,Varejo,Pelotas,RS,Marketplace,2022-11-17,81.5
+C000095,Cliente C000095,PF,Premium,Sorocaba,SP,Loja Física,2020-06-20,68.6
+C000096,Cliente C000096,PF,Varejo,São Paulo,SP,Online,2023-02-01,66.7
+C000097,Cliente C000097,PJ,Corporate,Maringá,PR,Loja Física,2023-03-05,66.2
+C000098,Cliente C000098,PJ,Premium,Santos,SP,Loja Física,2024-11-12,77.1
+C000099,Cliente C000099,PF,Premium,Curitiba,PR,Online,2021-12-08,68.9
+C000100,Cliente C000100,PJ,Varejo,Jaboatão dos Guararapes,PE,Online,2025-05-30,72.9
+C000101,Cliente C000101,PF,Premium,Brasília,DF,Marketplace,2020-11-18,49.3
+C000102,Cliente C000102,PF,Varejo,Ribeirão Preto,SP,Loja Física,2021-07-27,65.6
+C000103,Cliente C000103,PF,Varejo,Contagem,MG,Online,2022-09-19,75.3
+C000104,Cliente C000104,PF,Premium,Niterói,RJ,Online,2020-08-18,47.9
+C000105,Cliente C000105,PF,Varejo,Juiz de Fora,MG,Online,2023-01-16,82.1
+C000106,Cliente C000106,PJ,Varejo,Curitiba,PR,Loja Física,2020-01-17,100.0
+C000107,Cliente C000107,PJ,Varejo,Niterói,RJ,Marketplace,2023-07-29,77.5
+C000108,Cliente C000108,PF,Premium,Campos dos Goytacazes,RJ,Loja Física,2021-08-07,80.9
+C000109,Cliente C000109,PF,Varejo,Pelotas,RS,Loja Física,2021-01-22,83.4
+C000110,Cliente C000110,PJ,Premium,Brasília,DF,Marketplace,2021-04-20,68.4
+C000111,Cliente C000111,PF,Atacado,Rio de Janeiro,RJ,Online,2020-06-01,63.7
+C000112,Cliente C000112,PF,Varejo,Brasília,DF,Loja Física,2021-01-08,69.2
+C000113,Cliente C000113,PF,Corporate,Rio de Janeiro,RJ,Online,2022-03-29,72.4
+C000114,Cliente C000114,PF,Varejo,Porto Alegre,RS,Loja Física,2023-04-25,81.8
+C000115,Cliente C000115,PF,Corporate,Caucaia,CE,Online,2025-03-28,91.3
+C000116,Cliente C000116,PF,Varejo,Contagem,MG,Loja Física,2020-02-27,67.0
+C000117,Cliente C000117,PF,Varejo,Salvador,BA,Marketplace,2022-11-19,50.5
+C000118,Cliente C000118,PF,Varejo,Sorocaba,SP,Online,2021-01-16,80.5
+C000119,Cliente C000119,PF,Varejo,Vitória da Conquista,BA,Loja Física,2024-04-08,79.6
+C000120,Cliente C000120,PF,Corporate,Londrina,PR,Loja Física,2023-02-03,91.4
+C000121,Cliente C000121,PJ,Atacado,Ponta Grossa,PR,Marketplace,2024-08-07,43.7
+C000122,Cliente C000122,PJ,Varejo,Uberlândia,MG,Loja Física,2023-06-04,64.8
+C000123,Cliente C000123,PF,Atacado,Campinas,SP,Online,2022-09-22,55.0
+C000124,Cliente C000124,PF,Varejo,Sorocaba,SP,Online,2024-02-28,62.7
+C000125,Cliente C000125,PF,Varejo,Sorocaba,SP,Online,2020-08-02,94.2
+C000126,Cliente C000126,PF,Atacado,Campos dos Goytacazes,RJ,Loja Física,2020-09-08,72.6
+C000127,Cliente C000127,PF,Varejo,Recife,PE,Online,2022-07-11,72.4
+C000128,Cliente C000128,PJ,Corporate,Uberlândia,MG,Loja Física,2020-12-29,47.7
+C000129,Cliente C000129,PF,Varejo,Florianópolis,SC,Loja Física,2022-07-03,49.4
+C000130,Cliente C000130,PJ,Corporate,Sorocaba,SP,Online,2023-12-12,71.3
+C000131,Cliente C000131,PJ,Premium,Olinda,PE,Online,2022-02-25,52.4
+C000132,Cliente C000132,PJ,Varejo,Caxias do Sul,RS,Marketplace,2024-03-04,87.0
+C000133,Cliente C000133,PF,Corporate,Salvador,BA,Marketplace,2020-06-30,90.8
+C000134,Cliente C000134,PF,Varejo,Gama,DF,Online,2023-11-21,55.1
+C000135,Cliente C000135,PF,Varejo,Ribeirão Preto,SP,Loja Física,2023-01-04,84.3
+C000136,Cliente C000136,PF,Varejo,Maringá,PR,Loja Física,2020-02-06,69.2
+C000137,Cliente C000137,PF,Varejo,Florianópolis,SC,Online,2022-10-29,65.9
+C000138,Cliente C000138,PJ,Varejo,Recife,PE,Online,2021-11-13,43.1
+C000139,Cliente C000139,PF,Premium,Caxias do Sul,RS,Marketplace,2023-03-25,56.2
+C000140,Cliente C000140,PF,Varejo,Uberlândia,MG,Online,2025-02-25,31.9
+C000141,Cliente C000141,PJ,Varejo,Joinville,SC,Televendas,2022-07-02,73.4
+C000142,Cliente C000142,PF,Atacado,Sorocaba,SP,Online,2020-07-12,43.6
+C000143,Cliente C000143,PF,Premium,Campos dos Goytacazes,RJ,Online,2021-07-18,43.5
+C000144,Cliente C000144,PF,Varejo,Juiz de Fora,MG,Marketplace,2020-12-01,58.2
+C000145,Cliente C000145,PJ,Varejo,Sorocaba,SP,Online,2023-11-01,48.3
+C000146,Cliente C000146,PF,Varejo,Recife,PE,Loja Física,2021-04-09,58.1
+C000147,Cliente C000147,PF,Varejo,Joinville,SC,Online,2021-08-14,83.6
+C000148,Cliente C000148,PF,Premium,Curitiba,PR,Online,2021-11-21,81.1
+C000149,Cliente C000149,PF,Varejo,Volta Redonda,RJ,Marketplace,2020-03-12,72.2
+C000150,Cliente C000150,PF,Varejo,Fortaleza,CE,Online,2021-12-23,82.3
+C000151,Cliente C000151,PF,Premium,Vitória da Conquista,BA,Online,2024-09-20,79.9
+C000152,Cliente C000152,PF,Varejo,Pelotas,RS,Online,2024-06-20,79.4
+C000153,Cliente C000153,PF,Varejo,Camaçari,BA,Online,2025-04-25,88.7
+C000154,Cliente C000154,PF,Premium,Caruaru,PE,Marketplace,2022-06-25,76.5
+C000155,Cliente C000155,PF,Varejo,Contagem,MG,Online,2023-04-03,70.6
+C000156,Cliente C000156,PF,Varejo,Ponta Grossa,PR,Marketplace,2022-01-29,64.9
+C000157,Cliente C000157,PF,Varejo,Uberlândia,MG,Online,2024-01-23,49.5
+C000158,Cliente C000158,PF,Varejo,Olinda,PE,Online,2023-02-07,73.5
+C000159,Cliente C000159,PF,Atacado,Vitória da Conquista,BA,Online,2023-03-11,67.1
+C000160,Cliente C000160,PF,Varejo,Caruaru,PE,Televendas,2022-07-11,47.4
+C000161,Cliente C000161,PJ,Atacado,Maracanaú,CE,Loja Física,2021-02-13,65.0
+C000162,Cliente C000162,PF,Varejo,Uberlândia,MG,Online,2022-10-18,76.8
+C000163,Cliente C000163,PF,Corporate,Rio de Janeiro,RJ,Online,2024-11-16,68.4
+C000164,Cliente C000164,PF,Varejo,Sorocaba,SP,Online,2025-01-23,48.7
+C000165,Cliente C000165,PJ,Atacado,Ribeirão Preto,SP,Online,2024-08-09,59.9
+C000166,Cliente C000166,PF,Varejo,Belo Horizonte,MG,Loja Física,2024-02-13,52.6
+C000167,Cliente C000167,PF,Premium,Sorocaba,SP,Marketplace,2025-05-18,63.4
+C000168,Cliente C000168,PF,Atacado,Gama,DF,Online,2023-05-18,43.6
+C000169,Cliente C000169,PF,Varejo,Santos,SP,Online,2021-04-13,69.0
+C000170,Cliente C000170,PF,Atacado,Sorocaba,SP,Marketplace,2025-06-07,40.3
+C000171,Cliente C000171,PF,Varejo,Pelotas,RS,Loja Física,2021-03-28,50.4
+C000172,Cliente C000172,PF,Premium,Caruaru,PE,Loja Física,2023-05-25,77.9
+C000173,Cliente C000173,PJ,Varejo,Campos dos Goytacazes,RJ,Online,2023-06-15,89.8
+C000174,Cliente C000174,PF,Varejo,Santos,SP,Loja Física,2022-07-26,72.6
+C000175,Cliente C000175,PF,Atacado,São Paulo,SP,Loja Física,2020-03-05,54.4
+C000176,Cliente C000176,PF,Corporate,Olinda,PE,Online,2022-12-21,81.9
+C000177,Cliente C000177,PF,Varejo,Niterói,RJ,Marketplace,2024-10-11,62.4
+C000178,Cliente C000178,PJ,Varejo,Ribeirão Preto,SP,Marketplace,2023-08-12,74.6
+C000179,Cliente C000179,PJ,Premium,Gama,DF,Online,2024-11-19,68.8
+C000180,Cliente C000180,PF,Varejo,Florianópolis,SC,Televendas,2024-07-22,71.8
+C000181,Cliente C000181,PJ,Varejo,Brasília,DF,Online,2024-12-20,59.7
+C000182,Cliente C000182,PF,Varejo,Caruaru,PE,Online,2022-07-25,70.6
+C000183,Cliente C000183,PF,Varejo,Feira de Santana,BA,Loja Física,2023-04-09,79.3
+C000184,Cliente C000184,PF,Varejo,Niterói,RJ,Marketplace,2021-10-11,57.2
+C000185,Cliente C000185,PF,Premium,Ceilândia,DF,Marketplace,2025-02-02,64.2
+C000186,Cliente C000186,PJ,Varejo,Campinas,SP,Loja Física,2024-09-12,54.6
+C000187,Cliente C000187,PF,Varejo,Caucaia,CE,Loja Física,2021-01-22,74.9
+C000188,Cliente C000188,PF,Varejo,Ribeirão Preto,SP,Online,2020-02-28,55.7
+C000189,Cliente C000189,PF,Corporate,Santa Maria,RS,Loja Física,2022-03-13,43.1
+C000190,Cliente C000190,PJ,Varejo,Londrina,PR,Televendas,2020-09-13,67.8
+C000191,Cliente C000191,PF,Varejo,Ribeirão Preto,SP,Online,2020-10-01,84.2
+C000192,Cliente C000192,PF,Premium,Maringá,PR,Loja Física,2020-06-30,47.3
+C000193,Cliente C000193,PJ,Varejo,Ceilândia,DF,Loja Física,2020-04-21,69.7
+C000194,Cliente C000194,PJ,Premium,Pelotas,RS,Online,2022-10-16,84.8
+C000195,Cliente C000195,PF,Corporate,Belo Horizonte,MG,Online,2020-01-21,80.1
+C000196,Cliente C000196,PF,Varejo,Fortaleza,CE,Online,2021-12-27,81.3
+C000197,Cliente C000197,PF,Atacado,Maringá,PR,Online,2021-08-19,68.0
+C000198,Cliente C000198,PF,Premium,Santa Maria,RS,Online,2021-08-25,81.6
+C000199,Cliente C000199,PF,Varejo,Uberlândia,MG,Loja Física,2022-01-12,66.5
+C000200,Cliente C000200,PF,Varejo,Santos,SP,Loja Física,2022-10-27,62.6
+C000201,Cliente C000201,PF,Varejo,Caucaia,CE,Loja Física,2024-12-20,77.3
+C000202,Cliente C000202,PF,Varejo,Taguatinga,DF,Loja Física,2022-09-22,71.1
+C000203,Cliente C000203,PF,Atacado,Uberlândia,MG,Loja Física,2024-10-24,73.8
+C000204,Cliente C000204,PF,Varejo,Ribeirão Preto,SP,Online,2023-06-11,81.0
+C000205,Cliente C000205,PJ,Premium,Fortaleza,CE,Loja Física,2025-05-27,59.1
+C000206,Cliente C000206,PF,Premium,Niterói,RJ,Marketplace,2022-02-07,68.2
+C000207,Cliente C000207,PJ,Corporate,Taguatinga,DF,Loja Física,2020-12-19,75.9
+C000208,Cliente C000208,PJ,Varejo,Porto Alegre,RS,Loja Física,2021-02-16,45.9
+C000209,Cliente C000209,PJ,Varejo,Campinas,SP,Loja Física,2021-11-07,73.5
+C000210,Cliente C000210,PF,Corporate,Belo Horizonte,MG,Televendas,2023-06-09,60.4
+C000211,Cliente C000211,PF,Varejo,Belo Horizonte,MG,Online,2020-08-18,71.4
+C000212,Cliente C000212,PF,Varejo,Ceilândia,DF,Online,2020-01-31,53.8
+C000213,Cliente C000213,PF,Varejo,Florianópolis,SC,Online,2022-07-23,84.2
+C000214,Cliente C000214,PF,Atacado,Santos,SP,Online,2022-01-06,72.1
+C000215,Cliente C000215,PJ,Varejo,Juiz de Fora,MG,Loja Física,2022-07-12,58.2
+C000216,Cliente C000216,PJ,Varejo,Recife,PE,Loja Física,2021-09-07,70.3
+C000217,Cliente C000217,PF,Varejo,Pelotas,RS,Online,2020-02-15,78.2
+C000218,Cliente C000218,PF,Varejo,Feira de Santana,BA,Online,2021-02-25,83.9
+C000219,Cliente C000219,PJ,Varejo,Campinas,SP,Loja Física,2024-07-23,63.4
+C000220,Cliente C000220,PF,Varejo,Vitória da Conquista,BA,Loja Física,2020-01-27,71.9
+C000221,Cliente C000221,PF,Varejo,Joinville,SC,Loja Física,2020-07-02,44.1
+C000222,Cliente C000222,PF,Varejo,Contagem,MG,Online,2021-01-14,79.7
+C000223,Cliente C000223,PF,Premium,Sorocaba,SP,Marketplace,2021-01-08,59.6
+C000224,Cliente C000224,PF,Varejo,Gama,DF,Loja Física,2025-02-10,65.6
+C000225,Cliente C000225,PF,Varejo,Campos dos Goytacazes,RJ,Online,2022-09-27,57.6
+C000226,Cliente C000226,PF,Premium,Contagem,MG,Marketplace,2021-10-03,77.1
+C000227,Cliente C000227,PF,Premium,Santa Maria,RS,Marketplace,2021-03-10,66.1
+C000228,Cliente C000228,PF,Varejo,Sorocaba,SP,Loja Física,2024-11-22,67.5
+C000229,Cliente C000229,PF,Corporate,Campinas,SP,Online,2025-06-03,67.8
+C000230,Cliente C000230,PJ,Varejo,Curitiba,PR,Online,2024-03-20,52.0
+C000231,Cliente C000231,PF,Varejo,Curitiba,PR,Loja Física,2020-05-23,66.9
+C000232,Cliente C000232,PF,Varejo,Campos dos Goytacazes,RJ,Loja Física,2023-06-12,84.7
+C000233,Cliente C000233,PF,Varejo,Caruaru,PE,Loja Física,2025-07-02,80.2
+C000234,Cliente C000234,PJ,Varejo,Maracanaú,CE,Online,2021-09-24,72.1
+C000235,Cliente C000235,PF,Premium,Jaboatão dos Guararapes,PE,Televendas,2025-03-29,68.2
+C000236,Cliente C000236,PJ,Varejo,Maringá,PR,Marketplace,2023-09-30,60.6
+C000237,Cliente C000237,PF,Varejo,Olinda,PE,Loja Física,2020-03-13,77.2
+C000238,Cliente C000238,PF,Varejo,Brasília,DF,Online,2020-08-27,63.2
+C000239,Cliente C000239,PF,Atacado,Juiz de Fora,MG,Loja Física,2020-03-14,73.2
+C000240,Cliente C000240,PF,Atacado,Maringá,PR,Online,2025-07-16,100.0
+C000241,Cliente C000241,PF,Varejo,Santos,SP,Marketplace,2021-08-29,84.8
+C000242,Cliente C000242,PJ,Premium,Maracanaú,CE,Loja Física,2024-07-21,71.6
+C000243,Cliente C000243,PF,Varejo,Volta Redonda,RJ,Online,2024-10-12,75.5
+C000244,Cliente C000244,PF,Premium,Recife,PE,Online,2023-07-06,49.8
+C000245,Cliente C000245,PJ,Varejo,Niterói,RJ,Online,2025-05-27,31.6
+C000246,Cliente C000246,PF,Varejo,Belo Horizonte,MG,Online,2021-12-19,97.6
+C000247,Cliente C000247,PF,Varejo,Fortaleza,CE,Loja Física,2021-04-21,53.0
+C000248,Cliente C000248,PJ,Varejo,Rio de Janeiro,RJ,Loja Física,2024-07-28,94.9
+C000249,Cliente C000249,PF,Corporate,Rio de Janeiro,RJ,Online,2022-07-14,65.0
+C000250,Cliente C000250,PF,Varejo,Gama,DF,Online,2020-08-28,84.4
+C000251,Cliente C000251,PF,Atacado,Ribeirão Preto,SP,Online,2021-05-26,70.6
+C000252,Cliente C000252,PJ,Atacado,Fortaleza,CE,Online,2021-01-22,81.7
+C000253,Cliente C000253,PF,Varejo,Uberlândia,MG,Online,2020-02-27,100.0
+C000254,Cliente C000254,PJ,Varejo,Belo Horizonte,MG,Loja Física,2024-11-13,56.0
+C000255,Cliente C000255,PF,Premium,Vitória da Conquista,BA,Online,2025-06-11,60.2
+C000256,Cliente C000256,PJ,Premium,Jaboatão dos Guararapes,PE,Loja Física,2021-12-02,72.4
+C000257,Cliente C000257,PJ,Varejo,Caxias do Sul,RS,Online,2022-08-24,74.3
+C000258,Cliente C000258,PF,Varejo,Recife,PE,Loja Física,2024-03-31,83.6
+C000259,Cliente C000259,PF,Corporate,Recife,PE,Online,2023-03-03,64.2
+C000260,Cliente C000260,PF,Atacado,Maringá,PR,Marketplace,2023-03-22,94.8
+C000261,Cliente C000261,PF,Atacado,Niterói,RJ,Online,2022-06-11,78.3
+C000262,Cliente C000262,PF,Varejo,São Paulo,SP,Online,2025-05-03,83.4
+C000263,Cliente C000263,PJ,Varejo,Jaboatão dos Guararapes,PE,Loja Física,2020-04-04,64.4
+C000264,Cliente C000264,PF,Varejo,Gama,DF,Loja Física,2022-08-11,50.0
+C000265,Cliente C000265,PJ,Varejo,Uberlândia,MG,Marketplace,2020-02-08,68.3
+C000266,Cliente C000266,PJ,Premium,Campinas,SP,Online,2023-11-03,80.7
+C000267,Cliente C000267,PF,Varejo,Pelotas,RS,Online,2022-08-01,79.3
+C000268,Cliente C000268,PF,Varejo,Olinda,PE,Loja Física,2022-04-19,82.7
+C000269,Cliente C000269,PF,Varejo,Santa Maria,RS,Loja Física,2025-01-13,76.6
+C000270,Cliente C000270,PF,Varejo,Volta Redonda,RJ,Online,2022-05-24,74.2
+C000271,Cliente C000271,PF,Varejo,Caucaia,CE,Loja Física,2024-12-23,78.0
+C000272,Cliente C000272,PJ,Varejo,Blumenau,SC,Online,2021-03-15,62.0
+C000273,Cliente C000273,PF,Varejo,Gama,DF,Loja Física,2025-06-15,62.5
+C000274,Cliente C000274,PJ,Atacado,Juiz de Fora,MG,Loja Física,2020-08-08,66.9
+C000275,Cliente C000275,PJ,Corporate,Santa Maria,RS,Online,2022-05-06,76.3
+C000276,Cliente C000276,PF,Atacado,Campinas,SP,Online,2023-04-02,49.8
+C000277,Cliente C000277,PF,Atacado,Santos,SP,Marketplace,2021-07-16,82.7
+C000278,Cliente C000278,PF,Varejo,Vitória da Conquista,BA,Online,2023-03-06,46.4
+C000279,Cliente C000279,PF,Premium,Porto Alegre,RS,Online,2023-03-31,53.9
+C000280,Cliente C000280,PJ,Atacado,Gama,DF,Loja Física,2021-10-01,68.7
+C000281,Cliente C000281,PJ,Varejo,Chapecó,SC,Loja Física,2022-12-15,90.8
+C000282,Cliente C000282,PF,Corporate,Jaboatão dos Guararapes,PE,Online,2025-03-01,46.2
+C000283,Cliente C000283,PF,Varejo,Campinas,SP,Online,2021-05-17,72.0
+C000284,Cliente C000284,PF,Varejo,Taguatinga,DF,Marketplace,2023-01-23,68.7
+C000285,Cliente C000285,PJ,Varejo,Gama,DF,Online,2021-08-11,77.9
+C000286,Cliente C000286,PF,Varejo,Brasília,DF,Online,2020-09-23,58.8
+C000287,Cliente C000287,PJ,Varejo,Salvador,BA,Loja Física,2020-03-27,43.1
+C000288,Cliente C000288,PF,Varejo,Sorocaba,SP,Online,2024-04-10,84.1
+C000289,Cliente C000289,PF,Corporate,Salvador,BA,Online,2023-11-15,55.4
+C000290,Cliente C000290,PF,Premium,Recife,PE,Televendas,2021-06-01,52.8
+C000291,Cliente C000291,PF,Varejo,Caruaru,PE,Online,2023-06-27,94.1
+C000292,Cliente C000292,PF,Varejo,Belo Horizonte,MG,Online,2022-09-03,54.9
+C000293,Cliente C000293,PF,Atacado,Brasília,DF,Online,2025-02-28,100.0
+C000294,Cliente C000294,PF,Varejo,São Paulo,SP,Online,2020-10-27,100.0
+C000295,Cliente C000295,PJ,Varejo,Ponta Grossa,PR,Online,2020-02-08,65.9
+C000296,Cliente C000296,PJ,Varejo,Sorocaba,SP,Loja Física,2025-01-29,58.5
+C000297,Cliente C000297,PF,Varejo,Fortaleza,CE,Online,2021-03-12,40.9
+C000298,Cliente C000298,PJ,Varejo,Olinda,PE,Online,2021-09-13,87.3
+C000299,Cliente C000299,PF,Atacado,Sorocaba,SP,Online,2024-02-17,78.3
+C000300,Cliente C000300,PF,Corporate,Florianópolis,SC,Online,2025-05-26,87.6
+C000301,Cliente C000301,PJ,Atacado,Londrina,PR,Online,2023-04-24,59.9
+C000302,Cliente C000302,PF,Premium,Volta Redonda,RJ,Loja Física,2023-12-27,85.4
+C000303,Cliente C000303,PF,Corporate,São Paulo,SP,Loja Física,2024-09-04,93.0
+C000304,Cliente C000304,PF,Varejo,Londrina,PR,Online,2020-09-12,50.2
+C000305,Cliente C000305,PJ,Atacado,Campos dos Goytacazes,RJ,Online,2020-04-26,82.1
+C000306,Cliente C000306,PF,Varejo,Contagem,MG,Online,2023-05-29,78.8
+C000307,Cliente C000307,PF,Varejo,Caucaia,CE,Online,2021-03-27,72.0
+C000308,Cliente C000308,PF,Varejo,Brasília,DF,Loja Física,2020-10-20,63.6
+C000309,Cliente C000309,PF,Varejo,Campinas,SP,Online,2022-03-03,86.0
+C000310,Cliente C000310,PF,Varejo,Salvador,BA,Online,2021-12-09,75.8
+C000311,Cliente C000311,PF,Varejo,Ponta Grossa,PR,Online,2022-03-31,56.6
+C000312,Cliente C000312,PF,Varejo,Caucaia,CE,Loja Física,2022-05-05,85.8
+C000313,Cliente C000313,PF,Varejo,Feira de Santana,BA,Loja Física,2022-03-22,77.8
+C000314,Cliente C000314,PF,Varejo,Caruaru,PE,Loja Física,2022-10-09,31.5
+C000315,Cliente C000315,PF,Atacado,Caxias do Sul,RS,Online,2022-02-16,100.0
+C000316,Cliente C000316,PJ,Varejo,Niterói,RJ,Online,2025-02-02,78.1
+C000317,Cliente C000317,PF,Varejo,Pelotas,RS,Loja Física,2020-07-03,51.4
+C000318,Cliente C000318,PF,Atacado,Santa Maria,RS,Televendas,2021-11-14,74.5
+C000319,Cliente C000319,PF,Varejo,Maracanaú,CE,Loja Física,2023-04-20,39.7
+C000320,Cliente C000320,PF,Varejo,Florianópolis,SC,Online,2024-03-18,62.8
+C000321,Cliente C000321,PF,Atacado,Chapecó,SC,Online,2024-01-31,86.5
+C000322,Cliente C000322,PF,Varejo,Camaçari,BA,Online,2024-11-21,72.9
+C000323,Cliente C000323,PF,Varejo,Taguatinga,DF,Online,2021-01-10,52.1
+C000324,Cliente C000324,PF,Premium,Santos,SP,Marketplace,2022-12-31,69.3
+C000325,Cliente C000325,PF,Premium,Campinas,SP,Online,2021-01-16,63.3
+C000326,Cliente C000326,PJ,Varejo,Caruaru,PE,Loja Física,2024-09-11,32.0
+C000327,Cliente C000327,PF,Varejo,Sorocaba,SP,Televendas,2023-05-04,100.0
+C000328,Cliente C000328,PJ,Varejo,Juazeiro do Norte,CE,Loja Física,2021-09-24,64.8
+C000329,Cliente C000329,PF,Varejo,Camaçari,BA,Marketplace,2023-04-04,69.7
+C000330,Cliente C000330,PJ,Atacado,Belo Horizonte,MG,Loja Física,2022-10-19,79.1
+C000331,Cliente C000331,PF,Varejo,Gama,DF,Televendas,2024-03-15,88.3
+C000332,Cliente C000332,PJ,Varejo,Belo Horizonte,MG,Loja Física,2023-07-14,55.1
+C000333,Cliente C000333,PJ,Premium,Niterói,RJ,Loja Física,2023-11-27,77.9
+C000334,Cliente C000334,PF,Atacado,Caruaru,PE,Online,2022-06-27,78.9
+C000335,Cliente C000335,PF,Varejo,Ponta Grossa,PR,Loja Física,2023-12-25,38.1
+C000336,Cliente C000336,PJ,Atacado,Ribeirão Preto,SP,Loja Física,2020-02-12,85.7
+C000337,Cliente C000337,PJ,Varejo,Porto Alegre,RS,Online,2021-02-27,77.9
+C000338,Cliente C000338,PF,Corporate,Juiz de Fora,MG,Marketplace,2024-02-16,66.6
+C000339,Cliente C000339,PF,Varejo,Blumenau,SC,Online,2024-11-28,50.1
+C000340,Cliente C000340,PF,Varejo,Fortaleza,CE,Loja Física,2020-08-13,74.0
+C000341,Cliente C000341,PF,Varejo,Juiz de Fora,MG,Online,2022-10-05,74.0
+C000342,Cliente C000342,PF,Premium,Salvador,BA,Online,2024-01-14,57.2
+C000343,Cliente C000343,PF,Varejo,Contagem,MG,Loja Física,2024-12-30,82.1
+C000344,Cliente C000344,PJ,Varejo,Chapecó,SC,Loja Física,2022-05-08,78.2
+C000345,Cliente C000345,PJ,Corporate,Ceilândia,DF,Loja Física,2023-11-16,74.1
+C000346,Cliente C000346,PJ,Premium,Londrina,PR,Loja Física,2024-04-22,82.9
+C000347,Cliente C000347,PF,Varejo,Joinville,SC,Online,2021-09-07,95.3
+C000348,Cliente C000348,PF,Premium,Gama,DF,Online,2020-12-12,53.7
+C000349,Cliente C000349,PF,Varejo,Rio de Janeiro,RJ,Online,2022-03-23,75.8
+C000350,Cliente C000350,PF,Premium,Uberlândia,MG,Loja Física,2021-08-12,82.8
+C000351,Cliente C000351,PF,Atacado,Ceilândia,DF,Online,2023-09-26,64.2
+C000352,Cliente C000352,PJ,Varejo,São Paulo,SP,Online,2020-12-14,97.3
+C000353,Cliente C000353,PF,Atacado,Campos dos Goytacazes,RJ,Marketplace,2020-09-07,52.2
+C000354,Cliente C000354,PF,Varejo,Salvador,BA,Online,2022-10-31,76.1
+C000355,Cliente C000355,PJ,Varejo,Ceilândia,DF,Loja Física,2022-05-07,45.5
+C000356,Cliente C000356,PF,Varejo,Volta Redonda,RJ,Online,2023-12-03,75.8
+C000357,Cliente C000357,PF,Varejo,Salvador,BA,Online,2023-08-26,72.2
+C000358,Cliente C000358,PF,Premium,Taguatinga,DF,Televendas,2021-09-17,70.9
+C000359,Cliente C000359,PF,Premium,Campinas,SP,Online,2021-09-12,92.3
+C000360,Cliente C000360,PF,Atacado,Santa Maria,RS,Online,2022-11-30,66.8
+C000361,Cliente C000361,PF,Varejo,Joinville,SC,Loja Física,2023-05-09,86.8
+C000362,Cliente C000362,PJ,Premium,Vitória da Conquista,BA,Online,2024-04-03,83.3
+C000363,Cliente C000363,PF,Premium,Vitória da Conquista,BA,Online,2020-09-09,73.1
+C000364,Cliente C000364,PJ,Varejo,Contagem,MG,Loja Física,2023-07-28,54.9
+C000365,Cliente C000365,PF,Varejo,Florianópolis,SC,Online,2023-06-17,78.2
+C000366,Cliente C000366,PF,Atacado,Belo Horizonte,MG,Loja Física,2021-06-12,100.0
+C000367,Cliente C000367,PJ,Varejo,Contagem,MG,Online,2023-08-16,75.7
+C000368,Cliente C000368,PF,Varejo,Recife,PE,Online,2025-06-25,70.7
+C000369,Cliente C000369,PF,Varejo,Jaboatão dos Guararapes,PE,Online,2024-03-22,77.5
+C000370,Cliente C000370,PF,Varejo,Gama,DF,Loja Física,2020-09-19,85.7
+C000371,Cliente C000371,PJ,Varejo,Curitiba,PR,Online,2024-06-06,56.6
+C000372,Cliente C000372,PF,Varejo,Caxias do Sul,RS,Online,2024-06-04,68.8
+C000373,Cliente C000373,PJ,Corporate,Recife,PE,Online,2024-09-14,93.3
+C000374,Cliente C000374,PF,Varejo,Curitiba,PR,Online,2023-02-15,62.1
+C000375,Cliente C000375,PF,Corporate,Caucaia,CE,Online,2024-03-16,65.1
+C000376,Cliente C000376,PF,Varejo,Fortaleza,CE,Loja Física,2023-03-07,67.6
+C000377,Cliente C000377,PJ,Varejo,Sorocaba,SP,Televendas,2023-03-29,83.6
+C000378,Cliente C000378,PF,Corporate,Juiz de Fora,MG,Online,2022-02-17,96.2
+C000379,Cliente C000379,PF,Varejo,Juiz de Fora,MG,Loja Física,2021-02-11,64.1
+C000380,Cliente C000380,PF,Premium,Caxias do Sul,RS,Loja Física,2020-11-30,92.4
+C000381,Cliente C000381,PF,Premium,Londrina,PR,Marketplace,2020-08-18,70.1
+C000382,Cliente C000382,PJ,Varejo,Ribeirão Preto,SP,Televendas,2024-05-28,48.6
+C000383,Cliente C000383,PF,Atacado,Chapecó,SC,Televendas,2021-04-04,60.1
+C000384,Cliente C000384,PJ,Varejo,Camaçari,BA,Televendas,2024-04-14,56.8
+C000385,Cliente C000385,PF,Corporate,Recife,PE,Online,2020-03-14,68.6
+C000386,Cliente C000386,PJ,Varejo,Salvador,BA,Loja Física,2020-03-31,81.1
+C000387,Cliente C000387,PF,Varejo,Campinas,SP,Loja Física,2024-02-05,71.7
+C000388,Cliente C000388,PJ,Varejo,Belo Horizonte,MG,Online,2025-02-16,100.0
+C000389,Cliente C000389,PF,Varejo,Sorocaba,SP,Online,2023-03-16,80.7
+C000390,Cliente C000390,PF,Premium,Santos,SP,Marketplace,2021-01-15,67.1
+C000391,Cliente C000391,PF,Varejo,Campos dos Goytacazes,RJ,Online,2021-10-28,67.2
+C000392,Cliente C000392,PF,Premium,Sorocaba,SP,Marketplace,2022-08-14,78.5
+C000393,Cliente C000393,PF,Corporate,Campinas,SP,Loja Física,2024-02-19,62.9
+C000394,Cliente C000394,PF,Varejo,Florianópolis,SC,Online,2020-11-04,99.0
+C000395,Cliente C000395,PF,Premium,Niterói,RJ,Loja Física,2024-01-08,93.3
+C000396,Cliente C000396,PF,Atacado,Brasília,DF,Marketplace,2020-05-14,77.8
+C000397,Cliente C000397,PF,Varejo,Campinas,SP,Online,2021-01-15,73.4
+C000398,Cliente C000398,PF,Atacado,Contagem,MG,Online,2020-05-30,74.3
+C000399,Cliente C000399,PF,Premium,Sorocaba,SP,Loja Física,2020-06-14,86.9
+C000400,Cliente C000400,PF,Atacado,Sorocaba,SP,Online,2024-07-28,64.9
+C000401,Cliente C000401,PF,Varejo,Porto Alegre,RS,Online,2022-08-01,74.8
+C000402,Cliente C000402,PF,Premium,Brasília,DF,Loja Física,2021-11-19,63.7
+C000403,Cliente C000403,PF,Varejo,Sorocaba,SP,Televendas,2020-03-15,57.5
+C000404,Cliente C000404,PJ,Premium,Vitória da Conquista,BA,Loja Física,2021-04-29,68.2
+C000405,Cliente C000405,PJ,Varejo,Curitiba,PR,Loja Física,2021-06-17,77.7
+C000406,Cliente C000406,PF,Varejo,Salvador,BA,Online,2021-08-22,44.8
+C000407,Cliente C000407,PF,Varejo,Santos,SP,Online,2021-01-19,54.1
+C000408,Cliente C000408,PJ,Atacado,Uberlândia,MG,Online,2024-09-10,66.2
+C000409,Cliente C000409,PJ,Varejo,Fortaleza,CE,Marketplace,2025-05-25,79.0
+C000410,Cliente C000410,PF,Corporate,Caucaia,CE,Loja Física,2023-02-22,87.9
+C000411,Cliente C000411,PF,Varejo,Ribeirão Preto,SP,Online,2024-04-13,52.3
+C000412,Cliente C000412,PF,Varejo,Sorocaba,SP,Online,2024-01-24,77.6
+C000413,Cliente C000413,PF,Varejo,Juiz de Fora,MG,Marketplace,2022-11-17,71.8
+C000414,Cliente C000414,PF,Varejo,Fortaleza,CE,Loja Física,2025-07-14,54.4
+C000415,Cliente C000415,PJ,Varejo,Jaboatão dos Guararapes,PE,Televendas,2025-04-16,86.9
+C000416,Cliente C000416,PF,Corporate,Belo Horizonte,MG,Marketplace,2020-10-21,82.0
+C000417,Cliente C000417,PJ,Corporate,Rio de Janeiro,RJ,Loja Física,2023-12-10,90.2
+C000418,Cliente C000418,PF,Varejo,Santos,SP,Marketplace,2020-02-22,62.2
+C000419,Cliente C000419,PF,Atacado,Londrina,PR,Marketplace,2022-02-25,69.9
+C000420,Cliente C000420,PF,Varejo,Curitiba,PR,Televendas,2022-06-12,46.7
+C000421,Cliente C000421,PJ,Varejo,Rio de Janeiro,RJ,Marketplace,2022-09-26,100.0
+C000422,Cliente C000422,PF,Varejo,Contagem,MG,Marketplace,2020-06-22,83.8
+C000423,Cliente C000423,PF,Corporate,Maracanaú,CE,Loja Física,2024-12-03,96.4
+C000424,Cliente C000424,PF,Varejo,Curitiba,PR,Online,2022-05-05,61.6
+C000425,Cliente C000425,PF,Varejo,Caxias do Sul,RS,Loja Física,2022-06-19,55.5
+C000426,Cliente C000426,PJ,Varejo,Juazeiro do Norte,CE,Loja Física,2020-09-22,37.1
+C000427,Cliente C000427,PF,Varejo,Niterói,RJ,Loja Física,2023-01-14,78.4
+C000428,Cliente C000428,PF,Varejo,Juazeiro do Norte,CE,Loja Física,2021-02-09,100.0
+C000429,Cliente C000429,PF,Premium,Londrina,PR,Online,2024-06-21,52.8
+C000430,Cliente C000430,PF,Varejo,Juiz de Fora,MG,Marketplace,2023-12-01,78.6
+C000431,Cliente C000431,PF,Atacado,Fortaleza,CE,Loja Física,2022-01-20,73.7
+C000432,Cliente C000432,PF,Varejo,Maracanaú,CE,Loja Física,2020-08-30,60.7
+C000433,Cliente C000433,PJ,Premium,Ponta Grossa,PR,Online,2025-02-12,54.8
+C000434,Cliente C000434,PF,Varejo,Curitiba,PR,Online,2025-01-13,72.4
+C000435,Cliente C000435,PJ,Varejo,Santos,SP,Marketplace,2021-12-18,77.2
+C000436,Cliente C000436,PF,Varejo,Santa Maria,RS,Marketplace,2025-02-20,41.7
+C000437,Cliente C000437,PF,Varejo,Uberlândia,MG,Marketplace,2021-09-02,71.2
+C000438,Cliente C000438,PF,Varejo,Curitiba,PR,Online,2023-01-01,90.8
+C000439,Cliente C000439,PJ,Atacado,Curitiba,PR,Online,2024-09-06,84.7
+C000440,Cliente C000440,PF,Corporate,Caucaia,CE,Loja Física,2023-05-02,45.8
+C000441,Cliente C000441,PF,Varejo,Camaçari,BA,Loja Física,2021-12-13,88.9
+C000442,Cliente C000442,PJ,Atacado,Contagem,MG,Loja Física,2022-09-03,74.6
+C000443,Cliente C000443,PJ,Premium,Taguatinga,DF,Marketplace,2024-12-11,70.3
+C000444,Cliente C000444,PF,Varejo,Salvador,BA,Marketplace,2025-04-09,53.5
+C000445,Cliente C000445,PF,Varejo,Sorocaba,SP,Online,2023-07-26,77.4
+C000446,Cliente C000446,PF,Premium,Salvador,BA,Loja Física,2023-12-15,83.6
+C000447,Cliente C000447,PF,Atacado,Chapecó,SC,Loja Física,2020-02-20,64.4
+C000448,Cliente C000448,PF,Varejo,Taguatinga,DF,Online,2025-03-19,73.2
+C000449,Cliente C000449,PF,Atacado,Campos dos Goytacazes,RJ,Online,2025-02-13,70.6
+C000450,Cliente C000450,PJ,Corporate,São Paulo,SP,Loja Física,2024-12-12,60.7
+C000451,Cliente C000451,PF,Varejo,Londrina,PR,Online,2022-01-12,83.2
+C000452,Cliente C000452,PJ,Premium,Santa Maria,RS,Televendas,2022-09-24,59.2
+C000453,Cliente C000453,PF,Atacado,Volta Redonda,RJ,Online,2024-07-14,81.9
+C000454,Cliente C000454,PJ,Atacado,Juazeiro do Norte,CE,Loja Física,2022-03-16,73.0
+C000455,Cliente C000455,PF,Corporate,Ribeirão Preto,SP,Televendas,2024-10-24,70.4
+C000456,Cliente C000456,PF,Varejo,Ribeirão Preto,SP,Online,2023-01-21,79.8
+C000457,Cliente C000457,PJ,Premium,Caruaru,PE,Online,2024-07-25,73.3
+C000458,Cliente C000458,PF,Atacado,Ribeirão Preto,SP,Loja Física,2022-05-03,61.5
+C000459,Cliente C000459,PJ,Premium,Brasília,DF,Loja Física,2023-06-14,84.4
+C000460,Cliente C000460,PJ,Varejo,Caucaia,CE,Televendas,2022-02-09,91.7
+C000461,Cliente C000461,PF,Varejo,Sorocaba,SP,Marketplace,2024-02-29,67.2
+C000462,Cliente C000462,PF,Varejo,Taguatinga,DF,Online,2021-02-06,70.4
+C000463,Cliente C000463,PJ,Varejo,Porto Alegre,RS,Online,2024-05-15,78.7
+C000464,Cliente C000464,PF,Varejo,Sorocaba,SP,Loja Física,2022-11-01,84.5
+C000465,Cliente C000465,PF,Varejo,São Paulo,SP,Loja Física,2021-04-05,77.0
+C000466,Cliente C000466,PF,Atacado,Rio de Janeiro,RJ,Marketplace,2023-11-07,58.1
+C000467,Cliente C000467,PF,Varejo,Camaçari,BA,Marketplace,2021-07-22,74.7
+C000468,Cliente C000468,PF,Varejo,Florianópolis,SC,Loja Física,2024-07-28,50.1
+C000469,Cliente C000469,PF,Premium,Ceilândia,DF,Online,2020-02-27,72.0
+C000470,Cliente C000470,PF,Varejo,Ribeirão Preto,SP,Loja Física,2022-07-30,64.4
+C000471,Cliente C000471,PF,Corporate,Volta Redonda,RJ,Online,2023-05-06,40.0
+C000472,Cliente C000472,PJ,Varejo,São Paulo,SP,Marketplace,2024-08-27,90.1
+C000473,Cliente C000473,PF,Premium,Porto Alegre,RS,Televendas,2021-08-22,86.5
+C000474,Cliente C000474,PF,Varejo,Maracanaú,CE,Marketplace,2023-10-27,96.9
+C000475,Cliente C000475,PF,Varejo,Campinas,SP,Loja Física,2023-06-01,65.8
+C000476,Cliente C000476,PF,Atacado,Santos,SP,Online,2025-07-07,57.7
+C000477,Cliente C000477,PJ,Varejo,Ponta Grossa,PR,Online,2024-07-29,38.0
+C000478,Cliente C000478,PJ,Premium,Londrina,PR,Loja Física,2023-05-18,85.9
+C000479,Cliente C000479,PF,Varejo,Contagem,MG,Online,2020-08-11,86.6
+C000480,Cliente C000480,PF,Varejo,Recife,PE,Marketplace,2023-01-29,69.4
+C000481,Cliente C000481,PF,Varejo,Ribeirão Preto,SP,Televendas,2020-04-14,48.3
+C000482,Cliente C000482,PJ,Varejo,Santos,SP,Online,2023-06-03,75.5
+C000483,Cliente C000483,PF,Premium,Ceilândia,DF,Online,2024-11-21,50.4
+C000484,Cliente C000484,PJ,Varejo,Fortaleza,CE,Marketplace,2022-11-19,89.5
+C000485,Cliente C000485,PJ,Premium,Londrina,PR,Online,2024-03-20,63.5
+C000486,Cliente C000486,PF,Varejo,Pelotas,RS,Online,2021-06-17,47.7
+C000487,Cliente C000487,PF,Premium,Pelotas,RS,Televendas,2021-05-17,54.7
+C000488,Cliente C000488,PF,Premium,Ceilândia,DF,Online,2023-09-04,79.9
+C000489,Cliente C000489,PF,Varejo,Sorocaba,SP,Televendas,2024-08-13,75.2
+C000490,Cliente C000490,PF,Premium,Caucaia,CE,Online,2024-11-01,39.8
+C000491,Cliente C000491,PF,Varejo,Campinas,SP,Marketplace,2020-07-24,81.8
+C000492,Cliente C000492,PF,Varejo,Salvador,BA,Loja Física,2022-02-18,79.7
+C000493,Cliente C000493,PF,Atacado,Belo Horizonte,MG,Online,2022-12-10,86.5
+C000494,Cliente C000494,PF,Corporate,Santa Maria,RS,Marketplace,2024-10-25,53.9
+C000495,Cliente C000495,PF,Varejo,Olinda,PE,Loja Física,2021-11-16,71.2
+C000496,Cliente C000496,PJ,Corporate,Sorocaba,SP,Loja Física,2021-07-29,49.2
+C000497,Cliente C000497,PF,Varejo,Uberlândia,MG,Loja Física,2024-12-02,76.3
+C000498,Cliente C000498,PF,Corporate,Porto Alegre,RS,Televendas,2024-04-08,70.3
+C000499,Cliente C000499,PF,Varejo,Camaçari,BA,Marketplace,2022-12-31,52.7
+C000500,Cliente C000500,PJ,Premium,Londrina,PR,Loja Física,2023-04-15,67.6
+C000501,Cliente C000501,PJ,Varejo,Chapecó,SC,Online,2021-04-13,75.6
+C000502,Cliente C000502,PF,Varejo,Salvador,BA,Online,2023-04-13,72.0
+C000503,Cliente C000503,PF,Varejo,Camaçari,BA,Marketplace,2020-08-14,65.3
+C000504,Cliente C000504,PF,Corporate,São Paulo,SP,Marketplace,2023-12-02,71.4
+C000505,Cliente C000505,PF,Premium,Santos,SP,Loja Física,2020-04-22,67.7
+C000506,Cliente C000506,PF,Atacado,Ponta Grossa,PR,Marketplace,2024-02-18,68.4
+C000507,Cliente C000507,PF,Premium,Maracanaú,CE,Loja Física,2023-04-09,61.4
+C000508,Cliente C000508,PF,Varejo,Londrina,PR,Televendas,2020-10-12,78.3
+C000509,Cliente C000509,PF,Varejo,Juazeiro do Norte,CE,Loja Física,2021-05-09,35.9
+C000510,Cliente C000510,PF,Atacado,Camaçari,BA,Marketplace,2020-07-14,61.6
+C000511,Cliente C000511,PF,Atacado,Camaçari,BA,Loja Física,2023-12-09,75.2
+C000512,Cliente C000512,PJ,Premium,Uberlândia,MG,Loja Física,2023-08-08,74.4
+C000513,Cliente C000513,PJ,Premium,Feira de Santana,BA,Loja Física,2021-04-14,71.2
+C000514,Cliente C000514,PJ,Varejo,Juiz de Fora,MG,Online,2020-04-11,57.1
+C000515,Cliente C000515,PF,Premium,Maracanaú,CE,Loja Física,2021-03-09,76.2
+C000516,Cliente C000516,PJ,Varejo,Londrina,PR,Online,2021-12-17,52.8
+C000517,Cliente C000517,PF,Varejo,Sorocaba,SP,Online,2022-08-03,65.2
+C000518,Cliente C000518,PF,Atacado,Sorocaba,SP,Loja Física,2020-06-22,56.4
+C000519,Cliente C000519,PJ,Varejo,Maringá,PR,Online,2021-10-23,65.2
+C000520,Cliente C000520,PF,Corporate,Uberlândia,MG,Online,2024-11-09,83.2
+C000521,Cliente C000521,PF,Varejo,Brasília,DF,Online,2022-06-20,62.7
+C000522,Cliente C000522,PJ,Varejo,Blumenau,SC,Marketplace,2025-02-20,91.8
+C000523,Cliente C000523,PF,Corporate,Belo Horizonte,MG,Loja Física,2021-08-01,54.3
+C000524,Cliente C000524,PF,Varejo,Caucaia,CE,Loja Física,2021-12-14,72.7
+C000525,Cliente C000525,PF,Varejo,Campinas,SP,Marketplace,2021-09-23,67.5
+C000526,Cliente C000526,PF,Premium,Belo Horizonte,MG,Online,2025-01-27,83.7
+C000527,Cliente C000527,PF,Varejo,Juazeiro do Norte,CE,Online,2024-10-17,65.1
+C000528,Cliente C000528,PF,Atacado,Curitiba,PR,Loja Física,2021-02-17,69.4
+C000529,Cliente C000529,PF,Varejo,Uberlândia,MG,Loja Física,2023-05-18,78.2
+C000530,Cliente C000530,PF,Premium,Juazeiro do Norte,CE,Loja Física,2022-09-18,74.7
+C000531,Cliente C000531,PF,Varejo,Belo Horizonte,MG,Loja Física,2023-08-16,63.7
+C000532,Cliente C000532,PJ,Varejo,Caxias do Sul,RS,Loja Física,2025-04-28,73.8
+C000533,Cliente C000533,PF,Atacado,Volta Redonda,RJ,Loja Física,2020-12-02,82.3
+C000534,Cliente C000534,PF,Corporate,Fortaleza,CE,Loja Física,2021-01-12,60.2
+C000535,Cliente C000535,PF,Varejo,Belo Horizonte,MG,Loja Física,2023-08-31,80.4
+C000536,Cliente C000536,PF,Varejo,Florianópolis,SC,Marketplace,2024-10-24,72.3
+C000537,Cliente C000537,PF,Corporate,Porto Alegre,RS,Televendas,2020-07-02,66.0
+C000538,Cliente C000538,PF,Atacado,Ceilândia,DF,Loja Física,2024-08-30,52.5
+C000539,Cliente C000539,PF,Premium,Santos,SP,Loja Física,2023-07-29,71.8
+C000540,Cliente C000540,PF,Varejo,Sorocaba,SP,Loja Física,2022-09-22,76.6
+C000541,Cliente C000541,PF,Atacado,Brasília,DF,Loja Física,2024-09-12,67.9
+C000542,Cliente C000542,PF,Corporate,Porto Alegre,RS,Online,2023-04-07,73.9
+C000543,Cliente C000543,PJ,Varejo,Camaçari,BA,Online,2023-04-22,59.7
+C000544,Cliente C000544,PJ,Atacado,São Paulo,SP,Online,2024-03-19,89.8
+C000545,Cliente C000545,PF,Varejo,Santa Maria,RS,Marketplace,2024-04-15,49.2
+C000546,Cliente C000546,PF,Varejo,Joinville,SC,Online,2024-09-22,57.1
+C000547,Cliente C000547,PF,Varejo,Maringá,PR,Loja Física,2022-03-26,60.8
+C000548,Cliente C000548,PF,Varejo,Caxias do Sul,RS,Loja Física,2022-01-30,57.5
+C000549,Cliente C000549,PF,Varejo,Juiz de Fora,MG,Online,2021-03-09,70.5
+C000550,Cliente C000550,PF,Corporate,Ribeirão Preto,SP,Online,2025-05-21,100.0
+C000551,Cliente C000551,PF,Varejo,Fortaleza,CE,Online,2024-06-19,77.2
+C000552,Cliente C000552,PF,Atacado,Rio de Janeiro,RJ,Online,2020-11-04,85.8
+C000553,Cliente C000553,PF,Varejo,Campos dos Goytacazes,RJ,Loja Física,2020-08-21,61.2
+C000554,Cliente C000554,PF,Varejo,Uberlândia,MG,Loja Física,2025-03-20,58.1
+C000555,Cliente C000555,PF,Varejo,Pelotas,RS,Online,2022-10-14,55.1
+C000556,Cliente C000556,PJ,Varejo,Contagem,MG,Online,2024-02-05,56.3
+C000557,Cliente C000557,PF,Premium,Ribeirão Preto,SP,Marketplace,2024-04-12,42.4
+C000558,Cliente C000558,PF,Atacado,Salvador,BA,Loja Física,2020-07-08,58.4
+C000559,Cliente C000559,PF,Varejo,São Paulo,SP,Marketplace,2020-06-23,54.6
+C000560,Cliente C000560,PJ,Varejo,Porto Alegre,RS,Televendas,2023-02-07,61.8
+C000561,Cliente C000561,PF,Varejo,Maracanaú,CE,Online,2024-07-22,42.1
+C000562,Cliente C000562,PJ,Varejo,Sorocaba,SP,Marketplace,2021-02-06,59.0
+C000563,Cliente C000563,PF,Premium,Olinda,PE,Marketplace,2022-01-06,62.6
+C000564,Cliente C000564,PF,Atacado,Jaboatão dos Guararapes,PE,Online,2020-02-27,46.4
+C000565,Cliente C000565,PF,Varejo,Contagem,MG,Online,2022-07-09,58.7
+C000566,Cliente C000566,PF,Varejo,Chapecó,SC,Loja Física,2021-12-15,77.0
+C000567,Cliente C000567,PF,Atacado,Maringá,PR,Marketplace,2022-06-05,85.1
+C000568,Cliente C000568,PF,Atacado,Rio de Janeiro,RJ,Loja Física,2020-10-12,78.9
+C000569,Cliente C000569,PJ,Varejo,Rio de Janeiro,RJ,Marketplace,2024-05-03,90.4
+C000570,Cliente C000570,PF,Varejo,Belo Horizonte,MG,Online,2021-10-04,67.3
+C000571,Cliente C000571,PF,Corporate,Gama,DF,Online,2024-07-30,59.2
+C000572,Cliente C000572,PF,Varejo,Niterói,RJ,Loja Física,2021-10-29,60.2
+C000573,Cliente C000573,PF,Varejo,Pelotas,RS,Online,2023-10-01,91.8
+C000574,Cliente C000574,PF,Corporate,Maringá,PR,Marketplace,2025-01-28,86.6
+C000575,Cliente C000575,PF,Varejo,Campos dos Goytacazes,RJ,Online,2023-06-18,79.1
+C000576,Cliente C000576,PF,Varejo,Vitória da Conquista,BA,Marketplace,2021-04-08,62.5
+C000577,Cliente C000577,PJ,Premium,Contagem,MG,Loja Física,2024-03-06,71.4
+C000578,Cliente C000578,PF,Varejo,Salvador,BA,Loja Física,2022-05-22,53.3
+C000579,Cliente C000579,PJ,Varejo,Ribeirão Preto,SP,Online,2024-05-14,54.8
+C000580,Cliente C000580,PF,Varejo,Maracanaú,CE,Loja Física,2023-01-27,97.4
+C000581,Cliente C000581,PF,Premium,Fortaleza,CE,Marketplace,2024-02-02,92.2
+C000582,Cliente C000582,PF,Varejo,Pelotas,RS,Online,2021-08-21,57.6
+C000583,Cliente C000583,PJ,Varejo,Santos,SP,Online,2025-06-27,52.4
+C000584,Cliente C000584,PF,Atacado,Maracanaú,CE,Loja Física,2023-09-10,98.9
+C000585,Cliente C000585,PF,Varejo,Juiz de Fora,MG,Online,2024-04-03,58.6
+C000586,Cliente C000586,PF,Premium,Rio de Janeiro,RJ,Loja Física,2025-06-18,58.7
+C000587,Cliente C000587,PF,Varejo,Londrina,PR,Loja Física,2023-09-25,65.7
+C000588,Cliente C000588,PF,Corporate,Taguatinga,DF,Online,2024-02-13,80.6
+C000589,Cliente C000589,PF,Premium,Rio de Janeiro,RJ,Marketplace,2020-01-29,71.7
+C000590,Cliente C000590,PF,Varejo,Ribeirão Preto,SP,Loja Física,2022-02-14,84.3
+C000591,Cliente C000591,PF,Corporate,Santos,SP,Loja Física,2024-02-14,47.8
+C000592,Cliente C000592,PF,Corporate,Recife,PE,Loja Física,2022-02-24,54.9
+C000593,Cliente C000593,PF,Corporate,Londrina,PR,Loja Física,2020-10-12,56.0
+C000594,Cliente C000594,PF,Premium,Londrina,PR,Online,2025-06-09,76.6
+C000595,Cliente C000595,PF,Varejo,Volta Redonda,RJ,Loja Física,2022-02-01,98.3
+C000596,Cliente C000596,PJ,Varejo,Ponta Grossa,PR,Online,2021-05-07,53.2
+C000597,Cliente C000597,PF,Varejo,Joinville,SC,Loja Física,2021-01-30,91.9
+C000598,Cliente C000598,PF,Premium,Feira de Santana,BA,Online,2020-09-20,79.5
+C000599,Cliente C000599,PJ,Atacado,Niterói,RJ,Loja Física,2023-08-30,86.2
+C000600,Cliente C000600,PF,Atacado,Feira de Santana,BA,Online,2025-03-17,71.4
+C000601,Cliente C000601,PF,Varejo,Ceilândia,DF,Online,2025-07-13,87.4
+C000602,Cliente C000602,PF,Corporate,Uberlândia,MG,Loja Física,2020-11-08,64.6
+C000603,Cliente C000603,PF,Atacado,Feira de Santana,BA,Online,2022-01-26,63.4
+C000604,Cliente C000604,PF,Varejo,Juiz de Fora,MG,Online,2024-08-13,67.7
+C000605,Cliente C000605,PF,Atacado,Maracanaú,CE,Marketplace,2023-01-18,69.4
+C000606,Cliente C000606,PF,Varejo,Ribeirão Preto,SP,Loja Física,2022-12-07,79.0
+C000607,Cliente C000607,PF,Varejo,Sorocaba,SP,Online,2024-07-09,66.1
+C000608,Cliente C000608,PF,Premium,Curitiba,PR,Online,2022-02-03,100.0
+C000609,Cliente C000609,PJ,Premium,Blumenau,SC,Online,2025-05-04,70.2
+C000610,Cliente C000610,PJ,Varejo,São Paulo,SP,Online,2021-03-15,69.4
+C000611,Cliente C000611,PJ,Varejo,Camaçari,BA,Loja Física,2023-03-23,73.9
+C000612,Cliente C000612,PF,Varejo,Salvador,BA,Online,2023-06-23,72.9
+C000613,Cliente C000613,PF,Atacado,Blumenau,SC,Marketplace,2025-01-12,63.4
+C000614,Cliente C000614,PF,Varejo,Juiz de Fora,MG,Marketplace,2020-04-30,56.0
+C000615,Cliente C000615,PF,Premium,Campinas,SP,Loja Física,2021-10-21,90.9
+C000616,Cliente C000616,PF,Varejo,Fortaleza,CE,Online,2022-08-29,80.6
+C000617,Cliente C000617,PF,Varejo,Juazeiro do Norte,CE,Online,2022-04-27,77.5
+C000618,Cliente C000618,PJ,Corporate,Campinas,SP,Marketplace,2021-11-07,85.4
+C000619,Cliente C000619,PF,Atacado,Juiz de Fora,MG,Online,2020-07-18,65.0
+C000620,Cliente C000620,PF,Varejo,Camaçari,BA,Online,2022-07-14,68.9
+C000621,Cliente C000621,PF,Varejo,Taguatinga,DF,Online,2025-04-26,54.6
+C000622,Cliente C000622,PF,Premium,Vitória da Conquista,BA,Loja Física,2025-03-13,55.2
+C000623,Cliente C000623,PF,Corporate,Volta Redonda,RJ,Online,2023-03-27,70.7
+C000624,Cliente C000624,PJ,Varejo,Ribeirão Preto,SP,Online,2023-05-13,77.2
+C000625,Cliente C000625,PF,Varejo,Ribeirão Preto,SP,Online,2023-09-09,45.3
+C000626,Cliente C000626,PF,Varejo,Curitiba,PR,Loja Física,2023-06-15,68.8
+C000627,Cliente C000627,PF,Varejo,Uberlândia,MG,Loja Física,2022-07-11,49.7
+C000628,Cliente C000628,PF,Atacado,Rio de Janeiro,RJ,Marketplace,2023-08-05,48.6
+C000629,Cliente C000629,PJ,Varejo,Blumenau,SC,Televendas,2022-07-14,91.0
+C000630,Cliente C000630,PF,Premium,Sorocaba,SP,Online,2023-10-15,82.4
+C000631,Cliente C000631,PF,Varejo,Jaboatão dos Guararapes,PE,Online,2023-06-16,66.7
+C000632,Cliente C000632,PF,Atacado,Juiz de Fora,MG,Loja Física,2020-12-16,53.4
+C000633,Cliente C000633,PF,Varejo,Sorocaba,SP,Loja Física,2021-09-09,36.4
+C000634,Cliente C000634,PF,Varejo,Sorocaba,SP,Online,2022-01-09,83.2
+C000635,Cliente C000635,PF,Varejo,Chapecó,SC,Marketplace,2022-05-08,62.9
+C000636,Cliente C000636,PF,Varejo,Rio de Janeiro,RJ,Loja Física,2022-01-25,74.6
+C000637,Cliente C000637,PF,Varejo,Camaçari,BA,Online,2022-01-19,53.9
+C000638,Cliente C000638,PF,Varejo,Santa Maria,RS,Loja Física,2020-09-09,63.1
+C000639,Cliente C000639,PF,Varejo,Sorocaba,SP,Online,2023-12-20,81.7
+C000640,Cliente C000640,PF,Varejo,Juiz de Fora,MG,Online,2023-08-22,51.4
+C000641,Cliente C000641,PJ,Premium,Niterói,RJ,Loja Física,2025-05-24,70.2
+C000642,Cliente C000642,PF,Varejo,Rio de Janeiro,RJ,Online,2023-08-29,70.6
+C000643,Cliente C000643,PF,Varejo,Taguatinga,DF,Online,2020-08-10,52.4
+C000644,Cliente C000644,PJ,Corporate,Campos dos Goytacazes,RJ,Online,2024-09-13,66.8
+C000645,Cliente C000645,PF,Atacado,Campinas,SP,Loja Física,2023-05-31,76.3
+C000646,Cliente C000646,PF,Premium,Londrina,PR,Online,2022-07-19,73.2
+C000647,Cliente C000647,PF,Varejo,Belo Horizonte,MG,Online,2021-05-12,63.7
+C000648,Cliente C000648,PJ,Atacado,Vitória da Conquista,BA,Marketplace,2022-06-04,61.7
+C000649,Cliente C000649,PJ,Varejo,Campos dos Goytacazes,RJ,Televendas,2023-12-19,54.4
+C000650,Cliente C000650,PF,Varejo,Gama,DF,Loja Física,2021-02-16,65.9
+C000651,Cliente C000651,PJ,Varejo,Ponta Grossa,PR,Marketplace,2023-05-12,79.3
+C000652,Cliente C000652,PF,Atacado,Santos,SP,Loja Física,2020-05-14,81.8
+C000653,Cliente C000653,PJ,Varejo,Niterói,RJ,Televendas,2021-05-10,58.5
+C000654,Cliente C000654,PF,Varejo,Gama,DF,Loja Física,2021-06-04,70.6
+C000655,Cliente C000655,PF,Atacado,Sorocaba,SP,Online,2020-09-18,78.4
+C000656,Cliente C000656,PJ,Varejo,Rio de Janeiro,RJ,Loja Física,2021-04-25,77.1
+C000657,Cliente C000657,PF,Varejo,Rio de Janeiro,RJ,Online,2024-05-26,71.7
+C000658,Cliente C000658,PF,Varejo,Joinville,SC,Loja Física,2021-07-21,27.3
+C000659,Cliente C000659,PF,Varejo,Ponta Grossa,PR,Online,2020-06-30,76.3
+C000660,Cliente C000660,PJ,Varejo,Curitiba,PR,Loja Física,2020-04-30,75.5
+C000661,Cliente C000661,PJ,Atacado,Curitiba,PR,Televendas,2022-04-24,68.4
+C000662,Cliente C000662,PF,Premium,Belo Horizonte,MG,Loja Física,2021-05-03,61.8
+C000663,Cliente C000663,PF,Varejo,Porto Alegre,RS,Loja Física,2023-09-06,100.0
+C000664,Cliente C000664,PJ,Varejo,São Paulo,SP,Marketplace,2021-06-11,73.1
+C000665,Cliente C000665,PF,Varejo,Ceilândia,DF,Marketplace,2023-06-20,69.9
+C000666,Cliente C000666,PF,Corporate,Feira de Santana,BA,Online,2024-10-25,73.5
+C000667,Cliente C000667,PJ,Varejo,Contagem,MG,Online,2022-08-08,62.6
+C000668,Cliente C000668,PF,Premium,Camaçari,BA,Loja Física,2023-06-12,74.5
+C000669,Cliente C000669,PF,Varejo,Maringá,PR,Loja Física,2021-10-19,63.8
+C000670,Cliente C000670,PF,Varejo,Contagem,MG,Loja Física,2020-11-19,74.5
+C000671,Cliente C000671,PF,Premium,Fortaleza,CE,Loja Física,2021-07-09,64.0
+C000672,Cliente C000672,PF,Varejo,Campos dos Goytacazes,RJ,Online,2023-04-04,86.5
+C000673,Cliente C000673,PF,Varejo,Campinas,SP,Loja Física,2023-11-10,59.4
+C000674,Cliente C000674,PF,Varejo,Santos,SP,Loja Física,2023-09-08,63.9
+C000675,Cliente C000675,PJ,Premium,Florianópolis,SC,Loja Física,2021-12-25,100.0
+C000676,Cliente C000676,PJ,Varejo,Vitória da Conquista,BA,Loja Física,2023-07-11,62.8
+C000677,Cliente C000677,PJ,Atacado,Uberlândia,MG,Online,2024-02-03,61.8
+C000678,Cliente C000678,PF,Premium,Ceilândia,DF,Online,2022-05-30,55.5
+C000679,Cliente C000679,PF,Varejo,Salvador,BA,Loja Física,2022-04-20,48.0
+C000680,Cliente C000680,PF,Premium,Recife,PE,Loja Física,2023-02-18,80.7
+C000681,Cliente C000681,PJ,Varejo,Porto Alegre,RS,Loja Física,2025-01-28,78.9
+C000682,Cliente C000682,PJ,Premium,Fortaleza,CE,Online,2020-02-16,81.1
+C000683,Cliente C000683,PF,Premium,Uberlândia,MG,Online,2020-01-31,49.0
+C000684,Cliente C000684,PF,Varejo,Volta Redonda,RJ,Online,2021-10-24,47.4
+C000685,Cliente C000685,PF,Varejo,Camaçari,BA,Loja Física,2023-07-02,91.6
+C000686,Cliente C000686,PF,Varejo,Brasília,DF,Loja Física,2022-01-24,67.4
+C000687,Cliente C000687,PF,Varejo,Feira de Santana,BA,Marketplace,2023-09-09,70.1
+C000688,Cliente C000688,PF,Varejo,Chapecó,SC,Loja Física,2024-12-03,79.1
+C000689,Cliente C000689,PF,Premium,Uberlândia,MG,Online,2023-09-28,93.9
+C000690,Cliente C000690,PJ,Varejo,Sorocaba,SP,Loja Física,2022-11-10,57.5
+C000691,Cliente C000691,PF,Varejo,Contagem,MG,Online,2022-12-02,77.5
+C000692,Cliente C000692,PF,Varejo,Feira de Santana,BA,Online,2022-03-11,59.9
+C000693,Cliente C000693,PJ,Varejo,Joinville,SC,Online,2020-07-09,64.1
+C000694,Cliente C000694,PF,Varejo,Feira de Santana,BA,Marketplace,2024-04-04,63.8
+C000695,Cliente C000695,PF,Corporate,Vitória da Conquista,BA,Loja Física,2020-02-14,67.1
+C000696,Cliente C000696,PJ,Varejo,Salvador,BA,Online,2023-10-12,78.9
+C000697,Cliente C000697,PF,Varejo,Santos,SP,Online,2020-02-02,58.2
+C000698,Cliente C000698,PF,Varejo,Rio de Janeiro,RJ,Marketplace,2023-06-20,86.2
+C000699,Cliente C000699,PF,Premium,Maracanaú,CE,Marketplace,2024-01-05,85.8
+C000700,Cliente C000700,PJ,Varejo,Santos,SP,Online,2022-02-15,70.8
+C000701,Cliente C000701,PF,Varejo,Juiz de Fora,MG,Online,2021-05-25,62.1
+C000702,Cliente C000702,PJ,Atacado,Belo Horizonte,MG,Loja Física,2020-04-04,68.4
+C000703,Cliente C000703,PF,Premium,Caucaia,CE,Loja Física,2024-05-12,73.8
+C000704,Cliente C000704,PF,Varejo,Fortaleza,CE,Loja Física,2020-08-24,74.6
+C000705,Cliente C000705,PF,Premium,Caucaia,CE,Loja Física,2025-03-24,81.1
+C000706,Cliente C000706,PJ,Varejo,Ribeirão Preto,SP,Marketplace,2024-05-06,83.3
+C000707,Cliente C000707,PF,Premium,Juazeiro do Norte,CE,Loja Física,2022-04-06,58.5
+C000708,Cliente C000708,PJ,Varejo,Juazeiro do Norte,CE,Loja Física,2021-04-06,48.6
+C000709,Cliente C000709,PJ,Premium,Campinas,SP,Online,2022-04-22,37.7
+C000710,Cliente C000710,PF,Varejo,Ribeirão Preto,SP,Loja Física,2022-09-21,61.7
+C000711,Cliente C000711,PJ,Varejo,Santos,SP,Loja Física,2025-02-16,42.8
+C000712,Cliente C000712,PF,Atacado,Belo Horizonte,MG,Marketplace,2021-07-14,76.8
+C000713,Cliente C000713,PJ,Varejo,Uberlândia,MG,Online,2020-11-16,70.3
+C000714,Cliente C000714,PF,Varejo,Rio de Janeiro,RJ,Marketplace,2021-03-17,88.5
+C000715,Cliente C000715,PF,Corporate,Taguatinga,DF,Loja Física,2022-11-11,48.8
+C000716,Cliente C000716,PF,Varejo,São Paulo,SP,Loja Física,2021-05-30,45.7
+C000717,Cliente C000717,PF,Atacado,Florianópolis,SC,Televendas,2020-04-26,51.0
+C000718,Cliente C000718,PF,Corporate,Recife,PE,Online,2021-03-13,77.2
+C000719,Cliente C000719,PF,Varejo,Campinas,SP,Marketplace,2024-12-02,57.8
+C000720,Cliente C000720,PF,Varejo,Rio de Janeiro,RJ,Online,2024-12-23,70.4
+C000721,Cliente C000721,PJ,Varejo,Campinas,SP,Marketplace,2024-02-03,46.4
+C000722,Cliente C000722,PF,Atacado,Recife,PE,Online,2021-08-22,73.0
+C000723,Cliente C000723,PF,Varejo,Campinas,SP,Online,2020-08-12,53.9
+C000724,Cliente C000724,PF,Premium,Pelotas,RS,Loja Física,2022-05-27,70.1
+C000725,Cliente C000725,PF,Premium,Niterói,RJ,Loja Física,2020-02-23,64.7
+C000726,Cliente C000726,PJ,Premium,Sorocaba,SP,Online,2023-10-31,58.7
+C000727,Cliente C000727,PF,Varejo,Fortaleza,CE,Loja Física,2022-09-25,65.4
+C000728,Cliente C000728,PF,Varejo,Sorocaba,SP,Loja Física,2021-12-28,80.1
+C000729,Cliente C000729,PJ,Varejo,Blumenau,SC,Online,2021-10-24,41.8
+C000730,Cliente C000730,PF,Premium,Florianópolis,SC,Marketplace,2021-04-12,77.8
+C000731,Cliente C000731,PF,Varejo,Caxias do Sul,RS,Loja Física,2025-07-20,45.6
+C000732,Cliente C000732,PF,Premium,Ponta Grossa,PR,Online,2021-06-15,63.7
+C000733,Cliente C000733,PJ,Varejo,Sorocaba,SP,Loja Física,2020-06-29,93.7
+C000734,Cliente C000734,PF,Corporate,Juiz de Fora,MG,Online,2022-02-10,79.8
+C000735,Cliente C000735,PF,Atacado,Caucaia,CE,Online,2023-08-04,35.6
+C000736,Cliente C000736,PF,Varejo,Campinas,SP,Online,2023-04-30,57.5
+C000737,Cliente C000737,PJ,Premium,Rio de Janeiro,RJ,Online,2021-08-26,67.6
+C000738,Cliente C000738,PF,Varejo,Sorocaba,SP,Online,2021-01-28,68.2
+C000739,Cliente C000739,PF,Premium,Santos,SP,Loja Física,2021-04-12,45.5
+C000740,Cliente C000740,PF,Varejo,Uberlândia,MG,Online,2024-12-06,64.0
+C000741,Cliente C000741,PF,Premium,Jaboatão dos Guararapes,PE,Online,2023-08-02,92.9
+C000742,Cliente C000742,PF,Premium,Chapecó,SC,Online,2021-08-24,74.3
+C000743,Cliente C000743,PJ,Atacado,São Paulo,SP,Loja Física,2024-02-07,66.3
+C000744,Cliente C000744,PF,Varejo,Caxias do Sul,RS,Online,2021-05-12,57.4
+C000745,Cliente C000745,PF,Varejo,Sorocaba,SP,Marketplace,2023-11-17,64.2
+C000746,Cliente C000746,PF,Premium,Campinas,SP,Online,2021-03-03,100.0
+C000747,Cliente C000747,PF,Corporate,Campos dos Goytacazes,RJ,Marketplace,2021-09-02,62.0
+C000748,Cliente C000748,PF,Corporate,Pelotas,RS,Loja Física,2020-08-30,45.1
+C000749,Cliente C000749,PF,Varejo,Juiz de Fora,MG,Loja Física,2024-07-15,57.4
+C000750,Cliente C000750,PF,Varejo,Ponta Grossa,PR,Online,2025-07-15,80.9
+C000751,Cliente C000751,PF,Premium,Fortaleza,CE,Online,2025-07-17,62.4
+C000752,Cliente C000752,PF,Varejo,São Paulo,SP,Online,2023-12-07,86.9
+C000753,Cliente C000753,PF,Varejo,Chapecó,SC,Marketplace,2023-09-03,78.2
+C000754,Cliente C000754,PF,Corporate,Santos,SP,Online,2025-01-06,66.5
+C000755,Cliente C000755,PJ,Varejo,Juiz de Fora,MG,Marketplace,2021-07-21,80.2
+C000756,Cliente C000756,PJ,Premium,Joinville,SC,Online,2021-12-09,80.4
+C000757,Cliente C000757,PF,Varejo,Sorocaba,SP,Loja Física,2021-05-21,69.7
+C000758,Cliente C000758,PF,Atacado,Taguatinga,DF,Loja Física,2024-01-10,72.7
+C000759,Cliente C000759,PF,Corporate,São Paulo,SP,Online,2020-08-26,43.4
+C000760,Cliente C000760,PF,Premium,Pelotas,RS,Online,2022-11-21,60.7
+C000761,Cliente C000761,PJ,Premium,Belo Horizonte,MG,Online,2022-04-11,54.5
+C000762,Cliente C000762,PF,Varejo,Santa Maria,RS,Marketplace,2021-02-07,58.7
+C000763,Cliente C000763,PJ,Varejo,Recife,PE,Online,2021-11-01,100.0
+C000764,Cliente C000764,PJ,Varejo,Campinas,SP,Online,2020-09-05,64.6
+C000765,Cliente C000765,PF,Atacado,Salvador,BA,Online,2023-09-30,77.7
+C000766,Cliente C000766,PF,Varejo,Ribeirão Preto,SP,Televendas,2021-10-19,68.8
+C000767,Cliente C000767,PF,Corporate,Juiz de Fora,MG,Online,2021-12-30,63.7
+C000768,Cliente C000768,PF,Varejo,Feira de Santana,BA,Marketplace,2021-08-09,68.1
+C000769,Cliente C000769,PF,Varejo,Fortaleza,CE,Online,2024-09-18,74.5
+C000770,Cliente C000770,PJ,Premium,Blumenau,SC,Online,2023-10-10,58.3
+C000771,Cliente C000771,PF,Varejo,Rio de Janeiro,RJ,Online,2020-12-16,61.4
+C000772,Cliente C000772,PJ,Atacado,Curitiba,PR,Online,2024-05-23,91.8
+C000773,Cliente C000773,PF,Varejo,Campos dos Goytacazes,RJ,Online,2020-05-25,28.7
+C000774,Cliente C000774,PF,Corporate,Sorocaba,SP,Marketplace,2024-02-02,67.2
+C000775,Cliente C000775,PF,Varejo,Brasília,DF,Loja Física,2021-06-29,59.5
+C000776,Cliente C000776,PJ,Varejo,Santos,SP,Loja Física,2021-07-15,60.6
+C000777,Cliente C000777,PJ,Varejo,Campos dos Goytacazes,RJ,Loja Física,2023-05-07,72.0
+C000778,Cliente C000778,PF,Atacado,Curitiba,PR,Loja Física,2022-12-23,49.3
+C000779,Cliente C000779,PF,Varejo,Santos,SP,Online,2025-04-03,50.1
+C000780,Cliente C000780,PF,Atacado,Santos,SP,Marketplace,2023-01-02,63.9
+C000781,Cliente C000781,PF,Varejo,Florianópolis,SC,Loja Física,2025-01-16,56.0
+C000782,Cliente C000782,PF,Varejo,Sorocaba,SP,Loja Física,2021-09-20,77.5
+C000783,Cliente C000783,PF,Varejo,Juazeiro do Norte,CE,Televendas,2020-08-30,91.0
+C000784,Cliente C000784,PF,Corporate,Uberlândia,MG,Loja Física,2025-07-12,63.1
+C000785,Cliente C000785,PF,Varejo,Ribeirão Preto,SP,Marketplace,2020-09-06,72.7
+C000786,Cliente C000786,PF,Atacado,Brasília,DF,Online,2020-12-06,57.8
+C000787,Cliente C000787,PF,Varejo,Fortaleza,CE,Marketplace,2021-09-02,87.4
+C000788,Cliente C000788,PF,Premium,Curitiba,PR,Online,2023-01-24,79.7
+C000789,Cliente C000789,PF,Varejo,Volta Redonda,RJ,Online,2023-02-20,55.8
+C000790,Cliente C000790,PF,Varejo,Brasília,DF,Online,2023-05-01,60.6
+C000791,Cliente C000791,PJ,Varejo,Santos,SP,Online,2021-04-14,81.4
+C000792,Cliente C000792,PF,Atacado,Juiz de Fora,MG,Marketplace,2024-04-10,98.1
+C000793,Cliente C000793,PF,Varejo,Vitória da Conquista,BA,Loja Física,2022-05-30,65.9
+C000794,Cliente C000794,PJ,Varejo,Jaboatão dos Guararapes,PE,Online,2024-03-19,69.4
+C000795,Cliente C000795,PF,Varejo,São Paulo,SP,Online,2025-05-17,80.3
+C000796,Cliente C000796,PF,Varejo,Sorocaba,SP,Loja Física,2020-06-13,52.2
+C000797,Cliente C000797,PF,Premium,Chapecó,SC,Online,2024-07-29,81.9
+C000798,Cliente C000798,PF,Varejo,Maringá,PR,Online,2023-06-04,70.5
+C000799,Cliente C000799,PF,Varejo,Ribeirão Preto,SP,Marketplace,2025-06-23,74.0
+C000800,Cliente C000800,PF,Varejo,Caucaia,CE,Marketplace,2021-12-28,64.2
+C000801,Cliente C000801,PF,Varejo,Ribeirão Preto,SP,Loja Física,2024-07-01,59.6
+C000802,Cliente C000802,PF,Varejo,Caucaia,CE,Online,2024-10-12,89.1
+C000803,Cliente C000803,PJ,Atacado,Campinas,SP,Loja Física,2022-05-20,62.1
+C000804,Cliente C000804,PJ,Varejo,Olinda,PE,Loja Física,2023-10-20,72.8
+C000805,Cliente C000805,PF,Varejo,Santos,SP,Televendas,2022-08-25,50.4
+C000806,Cliente C000806,PF,Varejo,Maracanaú,CE,Online,2020-08-08,49.5
+C000807,Cliente C000807,PJ,Varejo,Santos,SP,Online,2023-01-20,53.0
+C000808,Cliente C000808,PF,Varejo,Jaboatão dos Guararapes,PE,Marketplace,2020-09-20,92.4
+C000809,Cliente C000809,PF,Varejo,Curitiba,PR,Online,2020-05-28,61.4
+C000810,Cliente C000810,PJ,Varejo,Chapecó,SC,Loja Física,2022-12-12,59.7
+C000811,Cliente C000811,PF,Varejo,Sorocaba,SP,Online,2024-08-24,74.0
+C000812,Cliente C000812,PF,Varejo,Contagem,MG,Online,2023-03-05,100.0
+C000813,Cliente C000813,PF,Varejo,Florianópolis,SC,Online,2021-10-07,86.3
+C000814,Cliente C000814,PF,Varejo,Caxias do Sul,RS,Loja Física,2020-12-05,52.6
+C000815,Cliente C000815,PF,Atacado,Fortaleza,CE,Loja Física,2020-10-24,71.9
+C000816,Cliente C000816,PF,Varejo,Rio de Janeiro,RJ,Online,2020-02-21,56.7
+C000817,Cliente C000817,PJ,Premium,Juazeiro do Norte,CE,Loja Física,2024-05-25,74.8
+C000818,Cliente C000818,PJ,Varejo,Campinas,SP,Marketplace,2023-01-03,98.4
+C000819,Cliente C000819,PF,Premium,Campinas,SP,Loja Física,2024-06-16,69.0
+C000820,Cliente C000820,PJ,Varejo,Belo Horizonte,MG,Loja Física,2020-03-26,62.5
+C000821,Cliente C000821,PF,Varejo,Belo Horizonte,MG,Online,2021-07-31,64.7
+C000822,Cliente C000822,PF,Varejo,Uberlândia,MG,Televendas,2020-09-18,51.0
+C000823,Cliente C000823,PF,Premium,Sorocaba,SP,Marketplace,2020-12-19,79.7
+C000824,Cliente C000824,PJ,Atacado,Feira de Santana,BA,Loja Física,2022-04-06,48.6
+C000825,Cliente C000825,PF,Premium,Caucaia,CE,Televendas,2025-02-21,72.3
+C000826,Cliente C000826,PJ,Varejo,Ponta Grossa,PR,Loja Física,2024-01-15,45.9
+C000827,Cliente C000827,PF,Corporate,Santos,SP,Online,2022-06-09,63.3
+C000828,Cliente C000828,PF,Varejo,Juiz de Fora,MG,Online,2021-02-15,74.8
+C000829,Cliente C000829,PF,Atacado,Uberlândia,MG,Loja Física,2023-02-06,71.4
+C000830,Cliente C000830,PF,Varejo,Pelotas,RS,Online,2024-04-14,57.1
+C000831,Cliente C000831,PF,Varejo,Florianópolis,SC,Online,2022-11-23,77.2
+C000832,Cliente C000832,PF,Varejo,Santa Maria,RS,Televendas,2024-03-25,100.0
+C000833,Cliente C000833,PF,Varejo,Belo Horizonte,MG,Online,2023-10-21,58.8
+C000834,Cliente C000834,PJ,Premium,Santos,SP,Marketplace,2024-07-02,43.5
+C000835,Cliente C000835,PJ,Corporate,Chapecó,SC,Online,2025-02-17,53.3
+C000836,Cliente C000836,PF,Atacado,Caucaia,CE,Online,2024-01-30,53.0
+C000837,Cliente C000837,PF,Premium,Gama,DF,Online,2023-01-14,50.6
+C000838,Cliente C000838,PF,Varejo,Camaçari,BA,Loja Física,2023-03-27,47.6
+C000839,Cliente C000839,PJ,Varejo,Santa Maria,RS,Online,2024-12-22,100.0
+C000840,Cliente C000840,PF,Premium,Fortaleza,CE,Loja Física,2020-03-30,81.3
+C000841,Cliente C000841,PF,Varejo,São Paulo,SP,Online,2020-01-03,53.6
+C000842,Cliente C000842,PJ,Varejo,Camaçari,BA,Online,2024-12-26,60.6
+C000843,Cliente C000843,PF,Varejo,Olinda,PE,Marketplace,2024-10-29,56.6
+C000844,Cliente C000844,PJ,Varejo,Vitória da Conquista,BA,Online,2024-12-26,71.7
+C000845,Cliente C000845,PF,Varejo,Gama,DF,Online,2025-07-19,44.2
+C000846,Cliente C000846,PJ,Varejo,Campos dos Goytacazes,RJ,Marketplace,2020-02-17,40.6
+C000847,Cliente C000847,PF,Varejo,São Paulo,SP,Online,2022-10-08,75.2
+C000848,Cliente C000848,PF,Varejo,Campinas,SP,Online,2020-09-09,88.1
+C000849,Cliente C000849,PF,Varejo,Juiz de Fora,MG,Online,2022-05-14,36.3
+C000850,Cliente C000850,PF,Premium,Santos,SP,Loja Física,2020-03-30,76.6
+C000851,Cliente C000851,PF,Premium,Gama,DF,Marketplace,2024-04-19,98.2
+C000852,Cliente C000852,PF,Premium,Camaçari,BA,Loja Física,2024-10-28,65.4
+C000853,Cliente C000853,PF,Atacado,Fortaleza,CE,Online,2024-03-31,80.0
+C000854,Cliente C000854,PJ,Varejo,Niterói,RJ,Marketplace,2021-02-15,83.0
+C000855,Cliente C000855,PF,Corporate,Porto Alegre,RS,Online,2023-09-20,57.8
+C000856,Cliente C000856,PF,Corporate,Camaçari,BA,Online,2022-09-28,67.7
+C000857,Cliente C000857,PF,Corporate,Vitória da Conquista,BA,Loja Física,2020-09-27,84.7
+C000858,Cliente C000858,PJ,Varejo,Rio de Janeiro,RJ,Online,2024-04-16,49.9
+C000859,Cliente C000859,PF,Varejo,Juiz de Fora,MG,Loja Física,2023-04-20,100.0
+C000860,Cliente C000860,PF,Varejo,Maringá,PR,Marketplace,2024-06-12,88.3
+C000861,Cliente C000861,PF,Atacado,Maracanaú,CE,Online,2022-04-05,76.0
+C000862,Cliente C000862,PF,Varejo,Niterói,RJ,Loja Física,2021-08-15,58.5
+C000863,Cliente C000863,PF,Varejo,Maringá,PR,Marketplace,2025-05-01,63.3
+C000864,Cliente C000864,PF,Corporate,Maringá,PR,Loja Física,2022-08-03,51.0
+C000865,Cliente C000865,PF,Atacado,Santos,SP,Marketplace,2021-01-11,82.3
+C000866,Cliente C000866,PF,Varejo,Maracanaú,CE,Loja Física,2021-03-22,63.9
+C000867,Cliente C000867,PF,Corporate,Juazeiro do Norte,CE,Online,2021-04-10,52.7
+C000868,Cliente C000868,PJ,Varejo,Sorocaba,SP,Loja Física,2024-11-25,55.6
+C000869,Cliente C000869,PJ,Varejo,Niterói,RJ,Marketplace,2020-07-29,86.9
+C000870,Cliente C000870,PJ,Varejo,Porto Alegre,RS,Marketplace,2022-08-21,52.8
+C000871,Cliente C000871,PF,Varejo,Salvador,BA,Online,2022-10-28,70.3
+C000872,Cliente C000872,PF,Varejo,Ribeirão Preto,SP,Marketplace,2021-10-27,65.0
+C000873,Cliente C000873,PF,Varejo,Vitória da Conquista,BA,Marketplace,2021-02-20,52.4
+C000874,Cliente C000874,PF,Premium,Maringá,PR,Online,2022-11-14,86.9
+C000875,Cliente C000875,PJ,Corporate,Fortaleza,CE,Online,2022-05-28,100.0
+C000876,Cliente C000876,PF,Premium,Maracanaú,CE,Loja Física,2025-01-24,78.9
+C000877,Cliente C000877,PJ,Premium,Maracanaú,CE,Online,2020-01-18,84.0
+C000878,Cliente C000878,PF,Corporate,Santa Maria,RS,Online,2025-06-25,72.3
+C000879,Cliente C000879,PF,Varejo,Londrina,PR,Televendas,2022-10-16,71.0
+C000880,Cliente C000880,PF,Varejo,Santos,SP,Online,2023-01-13,73.2
+C000881,Cliente C000881,PF,Premium,Santos,SP,Online,2023-07-08,74.0
+C000882,Cliente C000882,PJ,Varejo,Feira de Santana,BA,Loja Física,2023-04-24,40.0
+C000883,Cliente C000883,PJ,Premium,São Paulo,SP,Televendas,2023-07-24,74.0
+C000884,Cliente C000884,PF,Varejo,Fortaleza,CE,Loja Física,2021-02-15,73.2
+C000885,Cliente C000885,PF,Atacado,Camaçari,BA,Loja Física,2022-07-25,77.7
+C000886,Cliente C000886,PJ,Premium,Campinas,SP,Loja Física,2021-12-15,88.4
+C000887,Cliente C000887,PF,Varejo,Olinda,PE,Loja Física,2024-11-09,62.9
+C000888,Cliente C000888,PJ,Atacado,Ceilândia,DF,Marketplace,2021-08-12,75.9
+C000889,Cliente C000889,PF,Atacado,Campos dos Goytacazes,RJ,Online,2022-07-22,88.3
+C000890,Cliente C000890,PF,Premium,Gama,DF,Online,2022-05-28,88.4
+C000891,Cliente C000891,PF,Atacado,Campinas,SP,Online,2024-12-26,79.6
+C000892,Cliente C000892,PJ,Varejo,Caruaru,PE,Loja Física,2022-06-23,46.7
+C000893,Cliente C000893,PF,Varejo,Camaçari,BA,Online,2022-07-06,88.2
+C000894,Cliente C000894,PF,Atacado,Joinville,SC,Marketplace,2020-01-12,86.8
+C000895,Cliente C000895,PF,Premium,Gama,DF,Marketplace,2024-09-18,93.0
+C000896,Cliente C000896,PF,Corporate,São Paulo,SP,Marketplace,2022-10-20,75.1
+C000897,Cliente C000897,PF,Varejo,Caruaru,PE,Online,2024-05-03,76.9
+C000898,Cliente C000898,PF,Varejo,Caxias do Sul,RS,Loja Física,2020-07-17,54.2
+C000899,Cliente C000899,PF,Varejo,Caruaru,PE,Marketplace,2021-12-09,51.1
+C000900,Cliente C000900,PF,Corporate,Pelotas,RS,Loja Física,2020-11-07,70.5
+C000901,Cliente C000901,PJ,Varejo,Rio de Janeiro,RJ,Marketplace,2024-12-23,61.8
+C000902,Cliente C000902,PF,Varejo,Santos,SP,Online,2020-04-03,82.3
+C000903,Cliente C000903,PF,Varejo,Salvador,BA,Televendas,2023-01-28,65.9
+C000904,Cliente C000904,PF,Corporate,São Paulo,SP,Online,2020-09-05,84.9
+C000905,Cliente C000905,PF,Varejo,São Paulo,SP,Online,2024-08-05,81.6
+C000906,Cliente C000906,PF,Varejo,Brasília,DF,Online,2023-09-23,63.5
+C000907,Cliente C000907,PJ,Premium,Ribeirão Preto,SP,Marketplace,2025-07-22,78.1
+C000908,Cliente C000908,PF,Varejo,Ribeirão Preto,SP,Loja Física,2021-08-26,69.1
+C000909,Cliente C000909,PF,Premium,Caxias do Sul,RS,Loja Física,2024-08-02,89.3
+C000910,Cliente C000910,PF,Atacado,Contagem,MG,Loja Física,2021-05-08,58.3
+C000911,Cliente C000911,PJ,Varejo,Juazeiro do Norte,CE,Online,2021-02-22,68.4
+C000912,Cliente C000912,PF,Varejo,Maringá,PR,Online,2020-04-06,58.2
+C000913,Cliente C000913,PF,Premium,Blumenau,SC,Online,2024-07-20,62.9
+C000914,Cliente C000914,PF,Atacado,Recife,PE,Online,2020-06-07,91.7
+C000915,Cliente C000915,PJ,Atacado,Santa Maria,RS,Marketplace,2020-12-24,59.4
+C000916,Cliente C000916,PJ,Varejo,Gama,DF,Online,2020-01-09,51.4
+C000917,Cliente C000917,PF,Varejo,Curitiba,PR,Televendas,2022-09-11,60.9
+C000918,Cliente C000918,PJ,Atacado,Juazeiro do Norte,CE,Online,2021-08-22,51.1
+C000919,Cliente C000919,PF,Varejo,Olinda,PE,Online,2021-12-22,86.9
+C000920,Cliente C000920,PF,Varejo,Fortaleza,CE,Online,2023-05-29,77.1
+C000921,Cliente C000921,PF,Corporate,Curitiba,PR,Online,2023-04-25,62.3
+C000922,Cliente C000922,PJ,Varejo,Belo Horizonte,MG,Loja Física,2024-08-12,86.2
+C000923,Cliente C000923,PF,Atacado,Ribeirão Preto,SP,Online,2023-12-13,79.8
+C000924,Cliente C000924,PF,Varejo,Campos dos Goytacazes,RJ,Online,2020-11-17,54.9
+C000925,Cliente C000925,PF,Atacado,Campos dos Goytacazes,RJ,Loja Física,2022-12-21,74.9
+C000926,Cliente C000926,PF,Varejo,Belo Horizonte,MG,Online,2022-09-12,84.1
+C000927,Cliente C000927,PJ,Varejo,Rio de Janeiro,RJ,Marketplace,2024-05-20,84.0
+C000928,Cliente C000928,PJ,Varejo,Caucaia,CE,Loja Física,2025-05-27,79.2
+C000929,Cliente C000929,PJ,Premium,Gama,DF,Online,2025-02-04,93.2
+C000930,Cliente C000930,PJ,Atacado,Sorocaba,SP,Loja Física,2023-06-16,76.5
+C000931,Cliente C000931,PF,Varejo,Blumenau,SC,Loja Física,2021-12-30,96.0
+C000932,Cliente C000932,PF,Varejo,Gama,DF,Marketplace,2024-05-22,71.5
+C000933,Cliente C000933,PF,Varejo,São Paulo,SP,Online,2022-01-25,66.4
+C000934,Cliente C000934,PF,Varejo,Uberlândia,MG,Marketplace,2024-04-23,50.6
+C000935,Cliente C000935,PJ,Varejo,São Paulo,SP,Online,2020-04-06,68.1
+C000936,Cliente C000936,PF,Corporate,Feira de Santana,BA,Online,2022-01-04,64.5
+C000937,Cliente C000937,PF,Atacado,Contagem,MG,Online,2022-09-07,72.8
+C000938,Cliente C000938,PF,Premium,Maringá,PR,Loja Física,2023-04-02,85.9
+C000939,Cliente C000939,PF,Corporate,Salvador,BA,Online,2024-09-27,59.1
+C000940,Cliente C000940,PJ,Premium,Santos,SP,Online,2023-03-16,84.8
+C000941,Cliente C000941,PF,Premium,Camaçari,BA,Loja Física,2023-05-11,92.5
+C000942,Cliente C000942,PJ,Varejo,Volta Redonda,RJ,Loja Física,2024-01-05,74.5
+C000943,Cliente C000943,PJ,Varejo,Ceilândia,DF,Online,2022-06-29,78.9
+C000944,Cliente C000944,PF,Varejo,Campinas,SP,Online,2025-05-03,58.8
+C000945,Cliente C000945,PF,Atacado,São Paulo,SP,Online,2024-07-06,74.9
+C000946,Cliente C000946,PJ,Varejo,Salvador,BA,Online,2023-04-09,77.4
+C000947,Cliente C000947,PF,Varejo,Olinda,PE,Online,2022-04-26,66.3
+C000948,Cliente C000948,PF,Premium,Recife,PE,Televendas,2023-08-11,56.9
+C000949,Cliente C000949,PF,Varejo,Camaçari,BA,Online,2025-01-10,63.1
+C000950,Cliente C000950,PF,Varejo,Joinville,SC,Loja Física,2021-01-07,64.6
+C000951,Cliente C000951,PJ,Corporate,Juiz de Fora,MG,Loja Física,2020-10-05,62.6
+C000952,Cliente C000952,PF,Premium,Olinda,PE,Online,2020-03-03,73.9
+C000953,Cliente C000953,PJ,Atacado,Fortaleza,CE,Loja Física,2021-06-25,69.4
+C000954,Cliente C000954,PF,Premium,Campinas,SP,Loja Física,2024-11-08,84.7
+C000955,Cliente C000955,PF,Varejo,Ribeirão Preto,SP,Loja Física,2025-05-13,80.5
+C000956,Cliente C000956,PF,Premium,Santos,SP,Loja Física,2020-01-24,73.9
+C000957,Cliente C000957,PF,Varejo,Salvador,BA,Online,2020-12-27,65.6
+C000958,Cliente C000958,PF,Varejo,Porto Alegre,RS,Marketplace,2023-01-10,81.1
+C000959,Cliente C000959,PJ,Varejo,Feira de Santana,BA,Marketplace,2023-10-13,68.4
+C000960,Cliente C000960,PJ,Atacado,Feira de Santana,BA,Online,2021-02-11,72.5
+C000961,Cliente C000961,PJ,Premium,Belo Horizonte,MG,Marketplace,2023-03-06,79.8
+C000962,Cliente C000962,PF,Varejo,Fortaleza,CE,Loja Física,2021-02-21,73.9
+C000963,Cliente C000963,PJ,Varejo,Niterói,RJ,Loja Física,2022-05-25,93.1
+C000964,Cliente C000964,PJ,Premium,Campos dos Goytacazes,RJ,Online,2022-03-23,66.8
+C000965,Cliente C000965,PF,Premium,Santa Maria,RS,Online,2021-05-05,80.2
+C000966,Cliente C000966,PF,Premium,Salvador,BA,Loja Física,2021-11-12,89.9
+C000967,Cliente C000967,PF,Premium,Recife,PE,Online,2024-09-02,99.8
+C000968,Cliente C000968,PF,Premium,Brasília,DF,Online,2024-10-30,76.3
+C000969,Cliente C000969,PF,Varejo,Santa Maria,RS,Loja Física,2020-05-08,74.5
+C000970,Cliente C000970,PF,Premium,Campinas,SP,Loja Física,2021-04-07,69.9
+C000971,Cliente C000971,PF,Varejo,Maringá,PR,Online,2021-05-20,51.2
+C000972,Cliente C000972,PF,Varejo,Uberlândia,MG,Online,2025-05-10,87.3
+C000973,Cliente C000973,PF,Premium,Ceilândia,DF,Loja Física,2024-10-01,74.9
+C000974,Cliente C000974,PF,Premium,Ribeirão Preto,SP,Loja Física,2020-12-05,61.9
+C000975,Cliente C000975,PF,Varejo,Campinas,SP,Marketplace,2022-04-21,71.9
+C000976,Cliente C000976,PJ,Atacado,Santos,SP,Online,2023-03-03,75.9
+C000977,Cliente C000977,PF,Corporate,Joinville,SC,Marketplace,2020-11-22,64.6
+C000978,Cliente C000978,PF,Varejo,Jaboatão dos Guararapes,PE,Marketplace,2022-04-18,41.6
+C000979,Cliente C000979,PF,Varejo,Santa Maria,RS,Online,2021-07-17,80.1
+C000980,Cliente C000980,PJ,Varejo,Londrina,PR,Loja Física,2024-07-10,55.5
+C000981,Cliente C000981,PF,Atacado,Feira de Santana,BA,Online,2023-04-16,56.1
+C000982,Cliente C000982,PF,Corporate,Belo Horizonte,MG,Televendas,2024-02-12,71.2
+C000983,Cliente C000983,PJ,Premium,Juiz de Fora,MG,Loja Física,2023-08-02,61.6
+C000984,Cliente C000984,PJ,Varejo,Jaboatão dos Guararapes,PE,Online,2022-08-25,73.7
+C000985,Cliente C000985,PF,Varejo,Belo Horizonte,MG,Online,2020-10-08,78.8
+C000986,Cliente C000986,PF,Varejo,Contagem,MG,Loja Física,2021-08-03,67.9
+C000987,Cliente C000987,PF,Varejo,Florianópolis,SC,Online,2021-08-14,62.8
+C000988,Cliente C000988,PJ,Varejo,Florianópolis,SC,Loja Física,2023-07-05,71.2
+C000989,Cliente C000989,PF,Varejo,Camaçari,BA,Online,2022-07-06,92.5
+C000990,Cliente C000990,PJ,Atacado,Ponta Grossa,PR,Online,2022-03-20,62.8
+C000991,Cliente C000991,PF,Premium,Niterói,RJ,Loja Física,2025-06-16,51.3
+C000992,Cliente C000992,PF,Varejo,Ribeirão Preto,SP,Online,2024-03-13,84.0
+C000993,Cliente C000993,PJ,Atacado,Niterói,RJ,Televendas,2023-12-17,54.3
+C000994,Cliente C000994,PJ,Varejo,Santos,SP,Marketplace,2024-06-17,88.9
+C000995,Cliente C000995,PF,Varejo,Belo Horizonte,MG,Online,2023-03-19,86.8
+C000996,Cliente C000996,PF,Varejo,Santos,SP,Online,2022-08-08,87.1
+C000997,Cliente C000997,PF,Varejo,Caucaia,CE,Online,2021-05-10,50.3
+C000998,Cliente C000998,PF,Varejo,Belo Horizonte,MG,Online,2020-04-29,45.8
+C000999,Cliente C000999,PJ,Varejo,Caxias do Sul,RS,Loja Física,2023-01-03,58.6
+C001000,Cliente C001000,PF,Atacado,Campos dos Goytacazes,RJ,Loja Física,2021-05-07,76.0
+C001001,Cliente C001001,PJ,Varejo,Taguatinga,DF,Televendas,2024-11-22,79.7
+C001002,Cliente C001002,PF,Atacado,Santos,SP,Online,2024-01-01,70.4
+C001003,Cliente C001003,PF,Varejo,Santos,SP,Loja Física,2020-11-02,60.8
+C001004,Cliente C001004,PF,Premium,Sorocaba,SP,Online,2024-03-18,77.9
+C001005,Cliente C001005,PJ,Varejo,Juiz de Fora,MG,Online,2020-12-02,70.8
+C001006,Cliente C001006,PF,Varejo,Feira de Santana,BA,Loja Física,2023-07-29,77.9
+C001007,Cliente C001007,PJ,Atacado,Curitiba,PR,Marketplace,2024-04-07,69.2
+C001008,Cliente C001008,PF,Varejo,Curitiba,PR,Online,2022-12-05,78.6
+C001009,Cliente C001009,PF,Premium,Juazeiro do Norte,CE,Online,2025-01-12,46.8
+C001010,Cliente C001010,PF,Varejo,Florianópolis,SC,Marketplace,2023-05-07,57.2
+C001011,Cliente C001011,PF,Varejo,Santa Maria,RS,Online,2023-11-21,82.5
+C001012,Cliente C001012,PJ,Varejo,Feira de Santana,BA,Loja Física,2022-02-18,85.9
+C001013,Cliente C001013,PF,Varejo,Rio de Janeiro,RJ,Loja Física,2021-10-30,52.2
+C001014,Cliente C001014,PF,Premium,Campos dos Goytacazes,RJ,Online,2021-03-23,70.1
+C001015,Cliente C001015,PF,Varejo,Juazeiro do Norte,CE,Online,2022-08-23,58.3
+C001016,Cliente C001016,PJ,Varejo,Contagem,MG,Online,2024-06-18,76.5
+C001017,Cliente C001017,PF,Varejo,Volta Redonda,RJ,Marketplace,2024-08-18,66.1
+C001018,Cliente C001018,PJ,Varejo,Florianópolis,SC,Online,2023-09-29,79.5
+C001019,Cliente C001019,PJ,Premium,Niterói,RJ,Loja Física,2025-03-05,58.0
+C001020,Cliente C001020,PF,Varejo,Caruaru,PE,Online,2020-05-14,62.3
+C001021,Cliente C001021,PF,Varejo,Juiz de Fora,MG,Online,2022-02-08,54.0
+C001022,Cliente C001022,PJ,Premium,Londrina,PR,Loja Física,2020-12-29,67.4
+C001023,Cliente C001023,PJ,Premium,Recife,PE,Marketplace,2024-04-04,68.7
+C001024,Cliente C001024,PJ,Varejo,Fortaleza,CE,Online,2021-09-25,56.0
+C001025,Cliente C001025,PF,Corporate,Feira de Santana,BA,Online,2021-07-09,72.2
+C001026,Cliente C001026,PF,Premium,Florianópolis,SC,Online,2024-12-22,53.8
+C001027,Cliente C001027,PJ,Premium,Juazeiro do Norte,CE,Online,2021-03-06,46.8
+C001028,Cliente C001028,PJ,Varejo,Recife,PE,Online,2024-09-06,40.4
+C001029,Cliente C001029,PJ,Varejo,Campos dos Goytacazes,RJ,Marketplace,2024-05-10,83.2
+C001030,Cliente C001030,PF,Premium,Sorocaba,SP,Online,2020-09-20,88.3
+C001031,Cliente C001031,PF,Varejo,Gama,DF,Marketplace,2024-07-26,61.0
+C001032,Cliente C001032,PF,Varejo,Niterói,RJ,Online,2020-11-24,73.9
+C001033,Cliente C001033,PF,Varejo,Sorocaba,SP,Marketplace,2023-10-19,55.8
+C001034,Cliente C001034,PF,Corporate,Ceilândia,DF,Marketplace,2020-07-02,60.9
+C001035,Cliente C001035,PF,Premium,Volta Redonda,RJ,Online,2021-06-22,71.7
+C001036,Cliente C001036,PJ,Varejo,Juazeiro do Norte,CE,Online,2023-04-27,44.9
+C001037,Cliente C001037,PF,Corporate,Sorocaba,SP,Loja Física,2025-03-04,86.6
+C001038,Cliente C001038,PF,Atacado,Feira de Santana,BA,Loja Física,2022-03-04,46.8
+C001039,Cliente C001039,PF,Varejo,Joinville,SC,Online,2024-05-20,74.8
+C001040,Cliente C001040,PF,Varejo,Belo Horizonte,MG,Loja Física,2023-11-26,83.2
+C001041,Cliente C001041,PF,Premium,São Paulo,SP,Marketplace,2022-01-01,93.4
+C001042,Cliente C001042,PF,Atacado,Caucaia,CE,Loja Física,2024-01-02,71.1
+C001043,Cliente C001043,PF,Corporate,Curitiba,PR,Online,2022-04-10,80.8
+C001044,Cliente C001044,PJ,Varejo,Maracanaú,CE,Televendas,2024-12-08,47.3
+C001045,Cliente C001045,PJ,Varejo,Taguatinga,DF,Online,2021-12-13,76.3
+C001046,Cliente C001046,PJ,Varejo,Caucaia,CE,Online,2023-10-23,41.6
+C001047,Cliente C001047,PF,Premium,Juiz de Fora,MG,Online,2021-05-16,56.5
+C001048,Cliente C001048,PF,Varejo,Ponta Grossa,PR,Televendas,2021-09-15,61.9
+C001049,Cliente C001049,PJ,Varejo,Contagem,MG,Marketplace,2024-12-26,100.0
+C001050,Cliente C001050,PJ,Varejo,Campinas,SP,Loja Física,2021-08-17,50.2
+C001051,Cliente C001051,PF,Varejo,Chapecó,SC,Online,2020-07-20,54.5
+C001052,Cliente C001052,PF,Varejo,Volta Redonda,RJ,Loja Física,2021-10-18,86.5
+C001053,Cliente C001053,PF,Varejo,Feira de Santana,BA,Online,2025-02-24,80.5
+C001054,Cliente C001054,PJ,Corporate,Santa Maria,RS,Marketplace,2021-11-17,73.1
+C001055,Cliente C001055,PF,Varejo,Maracanaú,CE,Loja Física,2022-03-12,65.3
+C001056,Cliente C001056,PF,Varejo,Taguatinga,DF,Online,2025-03-11,84.4
+C001057,Cliente C001057,PF,Atacado,Salvador,BA,Loja Física,2021-05-14,61.6
+C001058,Cliente C001058,PJ,Varejo,Florianópolis,SC,Online,2025-03-06,68.6
+C001059,Cliente C001059,PF,Varejo,Porto Alegre,RS,Televendas,2024-10-10,53.4
+C001060,Cliente C001060,PF,Atacado,Caxias do Sul,RS,Online,2021-03-17,73.7
+C001061,Cliente C001061,PF,Varejo,Chapecó,SC,Online,2024-06-16,47.6
+C001062,Cliente C001062,PJ,Varejo,Joinville,SC,Online,2025-05-19,80.3
+C001063,Cliente C001063,PF,Atacado,Santos,SP,Online,2022-01-21,82.9
+C001064,Cliente C001064,PF,Varejo,São Paulo,SP,Marketplace,2024-01-21,55.3
+C001065,Cliente C001065,PF,Varejo,Feira de Santana,BA,Loja Física,2021-05-15,70.9
+C001066,Cliente C001066,PF,Varejo,Sorocaba,SP,Online,2025-07-14,84.0
+C001067,Cliente C001067,PF,Varejo,Belo Horizonte,MG,Loja Física,2022-02-01,62.2
+C001068,Cliente C001068,PJ,Varejo,Juazeiro do Norte,CE,Loja Física,2021-03-13,79.6
+C001069,Cliente C001069,PF,Varejo,Camaçari,BA,Televendas,2022-03-26,88.0
+C001070,Cliente C001070,PF,Varejo,Gama,DF,Online,2020-07-04,82.1
+C001071,Cliente C001071,PF,Varejo,Santos,SP,Online,2025-01-12,78.4
+C001072,Cliente C001072,PJ,Premium,Vitória da Conquista,BA,Loja Física,2020-06-29,76.7
+C001073,Cliente C001073,PF,Varejo,Salvador,BA,Loja Física,2023-11-02,83.2
+C001074,Cliente C001074,PJ,Varejo,Caucaia,CE,Loja Física,2023-12-23,67.3
+C001075,Cliente C001075,PF,Varejo,Volta Redonda,RJ,Loja Física,2020-10-19,76.2
+C001076,Cliente C001076,PJ,Atacado,Recife,PE,Online,2024-07-13,69.3
+C001077,Cliente C001077,PJ,Varejo,Salvador,BA,Online,2024-07-25,60.2
+C001078,Cliente C001078,PF,Premium,Taguatinga,DF,Online,2022-10-23,76.2
+C001079,Cliente C001079,PF,Premium,Santos,SP,Marketplace,2022-12-05,72.7
+C001080,Cliente C001080,PF,Premium,Sorocaba,SP,Online,2024-04-19,45.3
+C001081,Cliente C001081,PF,Premium,Niterói,RJ,Loja Física,2023-10-29,51.1
+C001082,Cliente C001082,PF,Corporate,Porto Alegre,RS,Marketplace,2024-07-05,79.7
+C001083,Cliente C001083,PF,Atacado,Ponta Grossa,PR,Loja Física,2023-11-04,54.4
+C001084,Cliente C001084,PF,Varejo,Rio de Janeiro,RJ,Online,2022-08-11,50.0
+C001085,Cliente C001085,PF,Varejo,Ponta Grossa,PR,Loja Física,2021-12-25,42.4
+C001086,Cliente C001086,PJ,Varejo,Blumenau,SC,Online,2022-01-29,57.1
+C001087,Cliente C001087,PF,Premium,Blumenau,SC,Online,2025-02-02,72.6
+C001088,Cliente C001088,PF,Varejo,Curitiba,PR,Online,2022-10-30,67.5
+C001089,Cliente C001089,PF,Corporate,São Paulo,SP,Online,2023-03-20,43.1
+C001090,Cliente C001090,PJ,Varejo,Sorocaba,SP,Online,2025-02-04,66.3
+C001091,Cliente C001091,PJ,Corporate,Ceilândia,DF,Loja Física,2021-03-14,87.8
+C001092,Cliente C001092,PJ,Premium,Feira de Santana,BA,Online,2020-02-02,79.2
+C001093,Cliente C001093,PF,Varejo,Campinas,SP,Marketplace,2024-08-31,48.3
+C001094,Cliente C001094,PF,Varejo,Volta Redonda,RJ,Marketplace,2022-05-12,100.0
+C001095,Cliente C001095,PF,Premium,Contagem,MG,Online,2022-09-11,58.2
+C001096,Cliente C001096,PF,Varejo,Camaçari,BA,Online,2025-02-11,71.7
+C001097,Cliente C001097,PF,Varejo,Ribeirão Preto,SP,Marketplace,2023-01-09,68.6
+C001098,Cliente C001098,PF,Premium,Campinas,SP,Loja Física,2024-01-13,68.1
+C001099,Cliente C001099,PF,Varejo,Recife,PE,Online,2024-01-07,55.7
+C001100,Cliente C001100,PF,Varejo,Caxias do Sul,RS,Online,2023-10-16,60.3
+C001101,Cliente C001101,PF,Varejo,Curitiba,PR,Loja Física,2024-04-29,64.4
+C001102,Cliente C001102,PF,Premium,São Paulo,SP,Online,2025-06-26,61.8
+C001103,Cliente C001103,PF,Varejo,Belo Horizonte,MG,Online,2023-02-10,51.3
+C001104,Cliente C001104,PF,Premium,Campinas,SP,Online,2025-02-22,85.1
+C001105,Cliente C001105,PJ,Atacado,São Paulo,SP,Televendas,2025-01-24,80.4
+C001106,Cliente C001106,PF,Varejo,Joinville,SC,Marketplace,2022-06-06,71.1
+C001107,Cliente C001107,PF,Corporate,Jaboatão dos Guararapes,PE,Marketplace,2023-10-27,63.9
+C001108,Cliente C001108,PF,Corporate,Curitiba,PR,Marketplace,2022-05-11,56.3
+C001109,Cliente C001109,PF,Premium,Ceilândia,DF,Loja Física,2021-12-11,62.6
+C001110,Cliente C001110,PF,Premium,Caucaia,CE,Online,2025-05-01,97.8
+C001111,Cliente C001111,PF,Atacado,Rio de Janeiro,RJ,Online,2023-08-04,66.4
+C001112,Cliente C001112,PF,Premium,Uberlândia,MG,Loja Física,2024-10-11,80.8
+C001113,Cliente C001113,PJ,Varejo,Campos dos Goytacazes,RJ,Loja Física,2024-04-26,66.0
+C001114,Cliente C001114,PF,Premium,Maracanaú,CE,Loja Física,2021-08-25,78.6
+C001115,Cliente C001115,PF,Atacado,Gama,DF,Loja Física,2024-11-19,68.2
+C001116,Cliente C001116,PF,Atacado,Jaboatão dos Guararapes,PE,Marketplace,2021-06-09,67.8
+C001117,Cliente C001117,PJ,Varejo,Uberlândia,MG,Loja Física,2022-12-24,79.2
+C001118,Cliente C001118,PF,Varejo,Salvador,BA,Online,2021-02-16,70.0
+C001119,Cliente C001119,PJ,Premium,Vitória da Conquista,BA,Marketplace,2022-04-20,78.9
+C001120,Cliente C001120,PF,Varejo,Florianópolis,SC,Online,2022-04-10,36.4
+C001121,Cliente C001121,PJ,Premium,Taguatinga,DF,Online,2022-06-29,55.4
+C001122,Cliente C001122,PF,Varejo,Juiz de Fora,MG,Marketplace,2023-05-14,81.5
+C001123,Cliente C001123,PF,Premium,Juazeiro do Norte,CE,Online,2024-07-31,68.8
+C001124,Cliente C001124,PF,Atacado,Sorocaba,SP,Online,2022-09-28,51.3
+C001125,Cliente C001125,PJ,Varejo,Campos dos Goytacazes,RJ,Marketplace,2023-06-25,70.1
+C001126,Cliente C001126,PF,Premium,Taguatinga,DF,Marketplace,2025-02-06,75.7
+C001127,Cliente C001127,PJ,Varejo,Caruaru,PE,Online,2022-01-11,73.7
+C001128,Cliente C001128,PF,Premium,Campos dos Goytacazes,RJ,Marketplace,2020-04-03,70.3
+C001129,Cliente C001129,PJ,Atacado,São Paulo,SP,Online,2020-11-27,70.5
+C001130,Cliente C001130,PF,Varejo,Contagem,MG,Televendas,2020-01-08,96.6
+C001131,Cliente C001131,PJ,Atacado,Caucaia,CE,Online,2023-04-29,78.6
+C001132,Cliente C001132,PF,Varejo,Belo Horizonte,MG,Loja Física,2020-07-16,85.5
+C001133,Cliente C001133,PJ,Corporate,Campinas,SP,Loja Física,2022-02-16,67.5
+C001134,Cliente C001134,PF,Varejo,Campos dos Goytacazes,RJ,Online,2020-12-27,68.0
+C001135,Cliente C001135,PF,Atacado,Salvador,BA,Marketplace,2023-01-06,91.3
+C001136,Cliente C001136,PJ,Atacado,Volta Redonda,RJ,Online,2021-01-07,58.0
+C001137,Cliente C001137,PJ,Varejo,Rio de Janeiro,RJ,Online,2025-02-06,90.3
+C001138,Cliente C001138,PJ,Corporate,Feira de Santana,BA,Marketplace,2020-08-04,60.8
+C001139,Cliente C001139,PF,Corporate,Maringá,PR,Marketplace,2025-06-24,90.4
+C001140,Cliente C001140,PF,Atacado,Taguatinga,DF,Loja Física,2020-08-10,72.9
+C001141,Cliente C001141,PF,Varejo,Ponta Grossa,PR,Online,2020-08-13,77.9
+C001142,Cliente C001142,PF,Premium,São Paulo,SP,Loja Física,2021-09-08,72.2
+C001143,Cliente C001143,PF,Premium,São Paulo,SP,Online,2024-02-26,59.3
+C001144,Cliente C001144,PJ,Premium,Sorocaba,SP,Loja Física,2023-01-14,76.3
+C001145,Cliente C001145,PF,Varejo,Feira de Santana,BA,Televendas,2023-01-11,74.8
+C001146,Cliente C001146,PF,Varejo,Belo Horizonte,MG,Online,2021-03-07,88.3
+C001147,Cliente C001147,PF,Premium,Ponta Grossa,PR,Online,2022-10-11,80.7
+C001148,Cliente C001148,PF,Premium,Camaçari,BA,Online,2023-05-16,51.1
+C001149,Cliente C001149,PF,Premium,Feira de Santana,BA,Online,2022-10-25,78.2
+C001150,Cliente C001150,PF,Varejo,Joinville,SC,Online,2021-04-27,35.1
+C001151,Cliente C001151,PF,Corporate,Niterói,RJ,Marketplace,2023-02-11,54.7
+C001152,Cliente C001152,PJ,Atacado,Ceilândia,DF,Loja Física,2023-08-11,26.4
+C001153,Cliente C001153,PJ,Varejo,Ceilândia,DF,Online,2021-05-14,66.6
+C001154,Cliente C001154,PF,Corporate,Caucaia,CE,Loja Física,2021-01-01,53.0
+C001155,Cliente C001155,PF,Corporate,Camaçari,BA,Loja Física,2020-05-08,65.7
+C001156,Cliente C001156,PJ,Varejo,Santos,SP,Loja Física,2023-04-30,84.5
+C001157,Cliente C001157,PJ,Atacado,Olinda,PE,Loja Física,2023-08-23,47.0
+C001158,Cliente C001158,PF,Premium,Sorocaba,SP,Loja Física,2022-08-08,98.5
+C001159,Cliente C001159,PF,Varejo,Campos dos Goytacazes,RJ,Online,2022-03-16,52.4
+C001160,Cliente C001160,PF,Varejo,Uberlândia,MG,Online,2021-01-03,26.9
+C001161,Cliente C001161,PF,Premium,Contagem,MG,Loja Física,2022-11-14,67.9
+C001162,Cliente C001162,PF,Premium,Niterói,RJ,Loja Física,2025-07-19,66.9
+C001163,Cliente C001163,PF,Premium,Belo Horizonte,MG,Online,2023-01-16,86.1
+C001164,Cliente C001164,PF,Atacado,Ponta Grossa,PR,Loja Física,2020-08-10,100.0
+C001165,Cliente C001165,PF,Atacado,Vitória da Conquista,BA,Online,2021-01-21,98.2
+C001166,Cliente C001166,PF,Varejo,Ribeirão Preto,SP,Loja Física,2024-08-14,70.1
+C001167,Cliente C001167,PF,Varejo,Niterói,RJ,Loja Física,2024-08-07,74.4
+C001168,Cliente C001168,PF,Varejo,Recife,PE,Loja Física,2022-12-17,67.8
+C001169,Cliente C001169,PF,Varejo,Caucaia,CE,Loja Física,2025-04-25,55.6
+C001170,Cliente C001170,PJ,Varejo,Sorocaba,SP,Loja Física,2024-08-17,74.1
+C001171,Cliente C001171,PF,Premium,Uberlândia,MG,Loja Física,2025-03-30,70.8
+C001172,Cliente C001172,PF,Varejo,Belo Horizonte,MG,Online,2023-06-25,67.3
+C001173,Cliente C001173,PF,Atacado,Rio de Janeiro,RJ,Loja Física,2022-11-22,58.2
+C001174,Cliente C001174,PF,Varejo,Contagem,MG,Loja Física,2025-01-17,76.1
+C001175,Cliente C001175,PF,Varejo,Uberlândia,MG,Online,2021-04-03,59.6
+C001176,Cliente C001176,PF,Corporate,Fortaleza,CE,Online,2021-06-20,58.3
+C001177,Cliente C001177,PF,Varejo,Feira de Santana,BA,Online,2021-07-29,80.9
+C001178,Cliente C001178,PJ,Varejo,Fortaleza,CE,Online,2024-10-05,91.0
+C001179,Cliente C001179,PF,Varejo,Santa Maria,RS,Loja Física,2022-07-18,77.8
+C001180,Cliente C001180,PF,Varejo,Olinda,PE,Marketplace,2023-03-13,71.8
+C001181,Cliente C001181,PF,Varejo,Camaçari,BA,Online,2021-11-08,61.0
+C001182,Cliente C001182,PF,Varejo,Taguatinga,DF,Marketplace,2020-08-30,79.6
+C001183,Cliente C001183,PF,Atacado,Gama,DF,Loja Física,2025-02-11,42.5
+C001184,Cliente C001184,PJ,Varejo,Santos,SP,Online,2020-02-09,53.8
+C001185,Cliente C001185,PJ,Premium,Gama,DF,Online,2025-03-27,72.1
+C001186,Cliente C001186,PF,Atacado,Recife,PE,Online,2024-09-24,69.6
+C001187,Cliente C001187,PF,Premium,Chapecó,SC,Marketplace,2020-12-29,53.8
+C001188,Cliente C001188,PF,Varejo,Caucaia,CE,Online,2021-06-20,89.2
+C001189,Cliente C001189,PF,Premium,Gama,DF,Loja Física,2020-12-26,100.0
+C001190,Cliente C001190,PJ,Atacado,Pelotas,RS,Loja Física,2023-04-22,58.0
+C001191,Cliente C001191,PF,Varejo,Pelotas,RS,Online,2020-06-29,58.2
+C001192,Cliente C001192,PF,Varejo,Curitiba,PR,Online,2023-08-25,85.2
+C001193,Cliente C001193,PF,Atacado,Uberlândia,MG,Marketplace,2021-05-19,58.9
+C001194,Cliente C001194,PF,Varejo,Pelotas,RS,Online,2022-07-27,77.8
+C001195,Cliente C001195,PJ,Varejo,Campos dos Goytacazes,RJ,Loja Física,2021-03-28,76.7
+C001196,Cliente C001196,PF,Premium,Contagem,MG,Online,2020-05-07,78.3
+C001197,Cliente C001197,PJ,Varejo,Caxias do Sul,RS,Online,2020-12-20,69.1
+C001198,Cliente C001198,PF,Atacado,Santos,SP,Loja Física,2022-12-05,57.0
+C001199,Cliente C001199,PJ,Corporate,Vitória da Conquista,BA,Online,2022-02-05,91.5
+C001200,Cliente C001200,PF,Atacado,Gama,DF,Marketplace,2024-02-01,87.6
+C001201,Cliente C001201,PF,Varejo,Belo Horizonte,MG,Online,2024-09-15,75.2
+C001202,Cliente C001202,PF,Varejo,Taguatinga,DF,Online,2021-01-05,59.3
+C001203,Cliente C001203,PF,Corporate,Taguatinga,DF,Loja Física,2020-12-02,71.4
+C001204,Cliente C001204,PJ,Premium,Maringá,PR,Online,2021-01-05,50.9
+C001205,Cliente C001205,PF,Varejo,Rio de Janeiro,RJ,Online,2022-03-27,76.0
+C001206,Cliente C001206,PF,Varejo,Joinville,SC,Loja Física,2025-06-05,66.9
+C001207,Cliente C001207,PF,Varejo,Joinville,SC,Loja Física,2022-08-22,62.4
+C001208,Cliente C001208,PF,Varejo,Campinas,SP,Loja Física,2024-01-02,61.6
+C001209,Cliente C001209,PF,Premium,Ribeirão Preto,SP,Online,2022-11-08,47.4
+C001210,Cliente C001210,PF,Corporate,Contagem,MG,Online,2025-06-29,56.4
+C001211,Cliente C001211,PF,Atacado,Caucaia,CE,Online,2022-03-12,63.5
+C001212,Cliente C001212,PF,Varejo,Gama,DF,Online,2021-03-09,80.2
+C001213,Cliente C001213,PF,Premium,Belo Horizonte,MG,Loja Física,2022-05-11,75.2
+C001214,Cliente C001214,PF,Varejo,Recife,PE,Loja Física,2025-07-09,64.5
+C001215,Cliente C001215,PF,Atacado,Volta Redonda,RJ,Online,2024-12-25,58.8
+C001216,Cliente C001216,PJ,Varejo,Vitória da Conquista,BA,Online,2023-10-30,66.4
+C001217,Cliente C001217,PF,Varejo,Pelotas,RS,Online,2025-07-21,47.1
+C001218,Cliente C001218,PJ,Premium,Blumenau,SC,Loja Física,2023-03-28,48.4
+C001219,Cliente C001219,PF,Varejo,Santos,SP,Marketplace,2025-07-20,60.6
+C001220,Cliente C001220,PF,Varejo,Uberlândia,MG,Online,2021-06-29,82.0
+C001221,Cliente C001221,PF,Atacado,Londrina,PR,Marketplace,2020-03-10,74.1
+C001222,Cliente C001222,PF,Corporate,Campos dos Goytacazes,RJ,Loja Física,2023-05-20,97.4
+C001223,Cliente C001223,PF,Atacado,Taguatinga,DF,Loja Física,2021-08-03,74.1
+C001224,Cliente C001224,PF,Atacado,Caruaru,PE,Online,2023-08-16,87.2
+C001225,Cliente C001225,PF,Premium,Caxias do Sul,RS,Loja Física,2023-01-04,68.8
+C001226,Cliente C001226,PJ,Corporate,Maracanaú,CE,Loja Física,2022-08-14,75.4
+C001227,Cliente C001227,PF,Varejo,Feira de Santana,BA,Loja Física,2023-11-18,45.6
+C001228,Cliente C001228,PJ,Varejo,Campinas,SP,Loja Física,2024-12-06,73.6
+C001229,Cliente C001229,PF,Corporate,Maringá,PR,Online,2021-06-05,57.0
+C001230,Cliente C001230,PF,Premium,Pelotas,RS,Marketplace,2020-07-22,99.0
+C001231,Cliente C001231,PF,Atacado,Camaçari,BA,Online,2023-03-05,70.4
+C001232,Cliente C001232,PJ,Varejo,Brasília,DF,Online,2025-06-22,81.0
+C001233,Cliente C001233,PJ,Premium,São Paulo,SP,Online,2021-04-08,57.9
+C001234,Cliente C001234,PJ,Varejo,Juiz de Fora,MG,Loja Física,2025-03-03,99.9
+C001235,Cliente C001235,PJ,Premium,Feira de Santana,BA,Loja Física,2022-01-29,65.0
+C001236,Cliente C001236,PF,Premium,Taguatinga,DF,Loja Física,2025-06-14,62.9
+C001237,Cliente C001237,PF,Atacado,Caruaru,PE,Online,2023-02-14,62.1
+C001238,Cliente C001238,PJ,Varejo,Joinville,SC,Marketplace,2024-01-30,53.5
+C001239,Cliente C001239,PF,Premium,Juazeiro do Norte,CE,Online,2021-06-30,62.9
+C001240,Cliente C001240,PF,Varejo,Volta Redonda,RJ,Loja Física,2022-05-16,56.7
+C001241,Cliente C001241,PF,Premium,Camaçari,BA,Marketplace,2025-06-16,77.7
+C001242,Cliente C001242,PF,Varejo,Camaçari,BA,Online,2023-02-06,68.6
+C001243,Cliente C001243,PJ,Varejo,Santos,SP,Loja Física,2025-04-14,65.1
+C001244,Cliente C001244,PF,Varejo,Sorocaba,SP,Loja Física,2022-10-01,74.0
+C001245,Cliente C001245,PF,Premium,Campinas,SP,Loja Física,2023-09-18,70.1
+C001246,Cliente C001246,PF,Varejo,Pelotas,RS,Online,2022-03-02,78.5
+C001247,Cliente C001247,PF,Varejo,Feira de Santana,BA,Online,2022-01-01,72.1
+C001248,Cliente C001248,PF,Atacado,Juiz de Fora,MG,Televendas,2021-06-27,76.2
+C001249,Cliente C001249,PF,Varejo,Feira de Santana,BA,Loja Física,2021-07-17,65.9
+C001250,Cliente C001250,PF,Varejo,Rio de Janeiro,RJ,Loja Física,2021-09-15,75.0
+C001251,Cliente C001251,PJ,Premium,Taguatinga,DF,Loja Física,2021-01-01,76.0
+C001252,Cliente C001252,PJ,Varejo,Rio de Janeiro,RJ,Televendas,2021-03-09,51.2
+C001253,Cliente C001253,PJ,Varejo,Porto Alegre,RS,Loja Física,2023-02-15,68.7
+C001254,Cliente C001254,PF,Atacado,Santos,SP,Loja Física,2022-01-11,57.1
+C001255,Cliente C001255,PF,Varejo,Salvador,BA,Online,2020-05-29,67.4
+C001256,Cliente C001256,PJ,Varejo,Santos,SP,Loja Física,2021-04-12,61.0
+C001257,Cliente C001257,PF,Varejo,Juazeiro do Norte,CE,Loja Física,2022-12-07,94.4
+C001258,Cliente C001258,PF,Varejo,Maracanaú,CE,Marketplace,2021-12-23,65.9
+C001259,Cliente C001259,PF,Varejo,Jaboatão dos Guararapes,PE,Loja Física,2021-10-10,79.0
+C001260,Cliente C001260,PF,Corporate,Camaçari,BA,Loja Física,2023-06-04,55.7
+C001261,Cliente C001261,PJ,Atacado,Salvador,BA,Marketplace,2024-05-15,54.5
+C001262,Cliente C001262,PF,Premium,Juazeiro do Norte,CE,Online,2023-05-01,78.8
+C001263,Cliente C001263,PJ,Varejo,Jaboatão dos Guararapes,PE,Loja Física,2021-06-11,75.3
+C001264,Cliente C001264,PF,Varejo,Porto Alegre,RS,Online,2025-05-23,58.5
+C001265,Cliente C001265,PF,Atacado,Salvador,BA,Loja Física,2022-06-11,65.6
+C001266,Cliente C001266,PF,Varejo,Juiz de Fora,MG,Online,2022-07-10,82.2
+C001267,Cliente C001267,PF,Varejo,Curitiba,PR,Loja Física,2024-11-24,46.7
+C001268,Cliente C001268,PF,Varejo,Campinas,SP,Televendas,2022-04-26,61.4
+C001269,Cliente C001269,PJ,Varejo,Chapecó,SC,Online,2022-11-02,84.8
+C001270,Cliente C001270,PF,Varejo,Vitória da Conquista,BA,Loja Física,2023-01-17,58.5
+C001271,Cliente C001271,PJ,Varejo,Olinda,PE,Loja Física,2022-09-25,55.5
+C001272,Cliente C001272,PF,Varejo,Florianópolis,SC,Marketplace,2022-02-01,81.8
+C001273,Cliente C001273,PJ,Corporate,Uberlândia,MG,Online,2021-02-23,40.1
+C001274,Cliente C001274,PF,Corporate,Olinda,PE,Online,2021-10-01,70.0
+C001275,Cliente C001275,PF,Varejo,Maracanaú,CE,Marketplace,2025-03-06,52.2
+C001276,Cliente C001276,PJ,Varejo,Feira de Santana,BA,Marketplace,2020-11-05,90.3
+C001277,Cliente C001277,PF,Atacado,Fortaleza,CE,Televendas,2024-04-01,63.7
+C001278,Cliente C001278,PF,Varejo,Juiz de Fora,MG,Loja Física,2023-07-17,56.6
+C001279,Cliente C001279,PJ,Varejo,Maracanaú,CE,Marketplace,2022-03-26,59.2
+C001280,Cliente C001280,PF,Varejo,Feira de Santana,BA,Online,2020-03-13,83.1
+C001281,Cliente C001281,PF,Corporate,Salvador,BA,Loja Física,2023-01-06,47.1
+C001282,Cliente C001282,PF,Corporate,Ceilândia,DF,Loja Física,2023-11-14,80.6
+C001283,Cliente C001283,PF,Premium,Joinville,SC,Loja Física,2021-02-08,86.8
+C001284,Cliente C001284,PJ,Varejo,Chapecó,SC,Loja Física,2020-12-22,64.2
+C001285,Cliente C001285,PF,Varejo,Campinas,SP,Marketplace,2023-03-24,31.0
+C001286,Cliente C001286,PJ,Varejo,Recife,PE,Online,2024-11-20,86.0
+C001287,Cliente C001287,PJ,Varejo,Rio de Janeiro,RJ,Loja Física,2022-09-30,73.4
+C001288,Cliente C001288,PF,Varejo,Feira de Santana,BA,Online,2023-04-09,79.6
+C001289,Cliente C001289,PJ,Varejo,Gama,DF,Loja Física,2020-01-13,77.7
+C001290,Cliente C001290,PF,Varejo,Campos dos Goytacazes,RJ,Online,2025-05-24,77.7
+C001291,Cliente C001291,PF,Corporate,São Paulo,SP,Online,2023-10-15,78.5
+C001292,Cliente C001292,PF,Varejo,Ribeirão Preto,SP,Marketplace,2022-09-03,62.3
+C001293,Cliente C001293,PJ,Corporate,Florianópolis,SC,Online,2023-07-27,47.5
+C001294,Cliente C001294,PJ,Premium,Recife,PE,Loja Física,2023-07-23,86.5
+C001295,Cliente C001295,PF,Corporate,Brasília,DF,Loja Física,2020-09-23,56.3
+C001296,Cliente C001296,PF,Atacado,Ponta Grossa,PR,Marketplace,2020-01-03,88.6
+C001297,Cliente C001297,PJ,Atacado,Brasília,DF,Online,2023-04-13,71.4
+C001298,Cliente C001298,PJ,Varejo,Caucaia,CE,Loja Física,2023-05-05,54.6
+C001299,Cliente C001299,PJ,Varejo,Campinas,SP,Online,2024-11-20,69.0
+C001300,Cliente C001300,PF,Varejo,São Paulo,SP,Online,2020-03-22,59.1
+C001301,Cliente C001301,PJ,Varejo,Jaboatão dos Guararapes,PE,Online,2025-06-13,88.2
+C001302,Cliente C001302,PJ,Varejo,Campos dos Goytacazes,RJ,Marketplace,2022-08-11,67.9
+C001303,Cliente C001303,PJ,Varejo,São Paulo,SP,Loja Física,2021-06-25,92.1
+C001304,Cliente C001304,PF,Premium,São Paulo,SP,Loja Física,2023-11-23,37.0
+C001305,Cliente C001305,PF,Atacado,Sorocaba,SP,Marketplace,2024-01-02,74.6
+C001306,Cliente C001306,PF,Corporate,Caucaia,CE,Loja Física,2022-08-19,64.8
+C001307,Cliente C001307,PF,Varejo,Sorocaba,SP,Online,2025-03-15,58.0
+C001308,Cliente C001308,PF,Varejo,Caucaia,CE,Televendas,2021-08-30,77.7
+C001309,Cliente C001309,PF,Atacado,Juazeiro do Norte,CE,Online,2025-04-22,85.2
+C001310,Cliente C001310,PJ,Atacado,Feira de Santana,BA,Online,2024-01-16,61.0
+C001311,Cliente C001311,PF,Varejo,Belo Horizonte,MG,Televendas,2025-06-07,60.6
+C001312,Cliente C001312,PJ,Varejo,Ponta Grossa,PR,Online,2022-11-19,42.9
+C001313,Cliente C001313,PJ,Premium,Ribeirão Preto,SP,Loja Física,2020-03-29,72.9
+C001314,Cliente C001314,PF,Atacado,Gama,DF,Loja Física,2022-12-24,68.8
+C001315,Cliente C001315,PJ,Atacado,Santos,SP,Marketplace,2022-06-08,35.9
+C001316,Cliente C001316,PF,Atacado,Niterói,RJ,Online,2020-10-24,71.1
+C001317,Cliente C001317,PF,Atacado,Caruaru,PE,Online,2024-06-26,78.4
+C001318,Cliente C001318,PF,Atacado,Ribeirão Preto,SP,Online,2024-02-05,70.6
+C001319,Cliente C001319,PJ,Varejo,Vitória da Conquista,BA,Online,2022-12-24,72.8
+C001320,Cliente C001320,PJ,Premium,Caxias do Sul,RS,Online,2021-10-31,58.7
+C001321,Cliente C001321,PJ,Varejo,Uberlândia,MG,Loja Física,2021-01-06,64.5
+C001322,Cliente C001322,PF,Varejo,Maracanaú,CE,Loja Física,2023-09-02,69.8
+C001323,Cliente C001323,PF,Corporate,Caruaru,PE,Loja Física,2020-03-13,78.1
+C001324,Cliente C001324,PF,Varejo,Feira de Santana,BA,Online,2024-05-22,46.3
+C001325,Cliente C001325,PF,Atacado,Florianópolis,SC,Loja Física,2022-10-10,80.4
+C001326,Cliente C001326,PF,Varejo,Olinda,PE,Online,2021-04-02,78.7
+C001327,Cliente C001327,PJ,Varejo,Feira de Santana,BA,Marketplace,2024-11-02,91.0
+C001328,Cliente C001328,PF,Premium,Gama,DF,Loja Física,2025-07-10,74.1
+C001329,Cliente C001329,PF,Varejo,São Paulo,SP,Online,2023-07-30,91.0
+C001330,Cliente C001330,PF,Varejo,Maringá,PR,Loja Física,2025-05-15,83.5
+C001331,Cliente C001331,PF,Varejo,Caucaia,CE,Online,2022-02-15,94.4
+C001332,Cliente C001332,PJ,Atacado,São Paulo,SP,Online,2024-10-08,67.0
+C001333,Cliente C001333,PF,Premium,Niterói,RJ,Online,2022-05-29,61.8
+C001334,Cliente C001334,PF,Atacado,Porto Alegre,RS,Marketplace,2024-06-05,47.9
+C001335,Cliente C001335,PF,Atacado,Sorocaba,SP,Online,2020-03-13,56.7
+C001336,Cliente C001336,PF,Corporate,Vitória da Conquista,BA,Marketplace,2025-03-01,81.1
+C001337,Cliente C001337,PF,Varejo,Ponta Grossa,PR,Online,2025-05-17,76.9
+C001338,Cliente C001338,PF,Varejo,Ceilândia,DF,Loja Física,2025-02-27,44.8
+C001339,Cliente C001339,PF,Varejo,Fortaleza,CE,Marketplace,2024-05-26,61.5
+C001340,Cliente C001340,PF,Premium,Niterói,RJ,Online,2023-04-30,70.8
+C001341,Cliente C001341,PJ,Varejo,Recife,PE,Online,2021-11-09,43.2
+C001342,Cliente C001342,PF,Premium,Fortaleza,CE,Loja Física,2020-04-29,58.9
+C001343,Cliente C001343,PF,Varejo,Contagem,MG,Marketplace,2020-11-14,76.6
+C001344,Cliente C001344,PF,Atacado,Salvador,BA,Online,2024-11-14,61.8
+C001345,Cliente C001345,PF,Varejo,Caucaia,CE,Marketplace,2021-01-02,52.3
+C001346,Cliente C001346,PF,Atacado,Feira de Santana,BA,Loja Física,2020-08-11,58.2
+C001347,Cliente C001347,PF,Premium,Feira de Santana,BA,Online,2020-05-21,65.6
+C001348,Cliente C001348,PJ,Premium,Ponta Grossa,PR,Online,2025-06-30,67.5
+C001349,Cliente C001349,PF,Varejo,Campinas,SP,Loja Física,2020-01-08,80.6
+C001350,Cliente C001350,PF,Varejo,Ponta Grossa,PR,Online,2025-02-10,81.7
+C001351,Cliente C001351,PJ,Premium,Feira de Santana,BA,Online,2021-05-22,83.5
+C001352,Cliente C001352,PF,Varejo,Camaçari,BA,Marketplace,2021-11-22,58.2
+C001353,Cliente C001353,PF,Varejo,Juiz de Fora,MG,Loja Física,2024-08-25,65.2
+C001354,Cliente C001354,PF,Atacado,Ribeirão Preto,SP,Marketplace,2023-12-14,70.7
+C001355,Cliente C001355,PJ,Premium,Santos,SP,Loja Física,2020-02-16,74.7
+C001356,Cliente C001356,PJ,Atacado,Sorocaba,SP,Online,2022-11-30,54.7
+C001357,Cliente C001357,PF,Premium,Santos,SP,Loja Física,2023-04-20,60.4
+C001358,Cliente C001358,PF,Corporate,São Paulo,SP,Online,2021-07-02,73.9
+C001359,Cliente C001359,PF,Varejo,Vitória da Conquista,BA,Online,2021-01-04,66.5
+C001360,Cliente C001360,PJ,Varejo,Sorocaba,SP,Televendas,2022-03-01,77.2
+C001361,Cliente C001361,PJ,Premium,Gama,DF,Online,2021-08-04,65.4
+C001362,Cliente C001362,PF,Varejo,Caruaru,PE,Online,2022-11-21,59.2
+C001363,Cliente C001363,PJ,Atacado,Ceilândia,DF,Loja Física,2021-06-17,59.5
+C001364,Cliente C001364,PJ,Premium,Campinas,SP,Loja Física,2020-10-02,100.0
+C001365,Cliente C001365,PF,Premium,Recife,PE,Loja Física,2023-02-19,70.0
+C001366,Cliente C001366,PF,Varejo,Ribeirão Preto,SP,Marketplace,2021-03-19,65.4
+C001367,Cliente C001367,PJ,Varejo,Niterói,RJ,Online,2024-03-22,70.4
+C001368,Cliente C001368,PF,Atacado,Olinda,PE,Loja Física,2020-04-21,82.4
+C001369,Cliente C001369,PF,Varejo,Ribeirão Preto,SP,Online,2022-07-06,75.1
+C001370,Cliente C001370,PF,Varejo,Maracanaú,CE,Online,2025-04-18,82.3
+C001371,Cliente C001371,PF,Varejo,Caruaru,PE,Online,2022-01-10,87.3
+C001372,Cliente C001372,PF,Atacado,Santos,SP,Televendas,2020-06-21,58.9
+C001373,Cliente C001373,PF,Atacado,Blumenau,SC,Marketplace,2021-12-25,77.2
+C001374,Cliente C001374,PF,Atacado,São Paulo,SP,Online,2021-05-21,63.5
+C001375,Cliente C001375,PF,Varejo,Niterói,RJ,Loja Física,2020-08-31,55.0
+C001376,Cliente C001376,PF,Varejo,Rio de Janeiro,RJ,Marketplace,2020-09-12,61.6
+C001377,Cliente C001377,PF,Premium,Santos,SP,Marketplace,2024-07-07,68.4
+C001378,Cliente C001378,PJ,Varejo,Rio de Janeiro,RJ,Online,2024-09-26,55.3
+C001379,Cliente C001379,PJ,Varejo,Salvador,BA,Online,2020-06-17,42.3
+C001380,Cliente C001380,PF,Premium,Maracanaú,CE,Loja Física,2020-06-25,57.1
+C001381,Cliente C001381,PF,Varejo,Camaçari,BA,Online,2023-12-20,90.9
+C001382,Cliente C001382,PF,Atacado,Juazeiro do Norte,CE,Loja Física,2022-07-21,60.4
+C001383,Cliente C001383,PF,Atacado,Rio de Janeiro,RJ,Online,2020-05-07,70.2
+C001384,Cliente C001384,PF,Varejo,Ribeirão Preto,SP,Online,2022-01-28,70.2
+C001385,Cliente C001385,PF,Varejo,Salvador,BA,Online,2022-11-15,78.4
+C001386,Cliente C001386,PF,Varejo,Sorocaba,SP,Online,2024-03-01,71.9
+C001387,Cliente C001387,PF,Corporate,Gama,DF,Online,2023-04-23,92.3
+C001388,Cliente C001388,PF,Premium,Niterói,RJ,Marketplace,2022-12-14,39.9
+C001389,Cliente C001389,PF,Varejo,Uberlândia,MG,Loja Física,2020-11-09,86.6
+C001390,Cliente C001390,PF,Varejo,Caucaia,CE,Online,2023-11-26,76.6
+C001391,Cliente C001391,PF,Premium,Uberlândia,MG,Loja Física,2025-06-24,92.7
+C001392,Cliente C001392,PF,Premium,Santos,SP,Loja Física,2024-09-24,88.1
+C001393,Cliente C001393,PF,Varejo,Fortaleza,CE,Online,2023-06-28,60.0
+C001394,Cliente C001394,PF,Premium,Campos dos Goytacazes,RJ,Loja Física,2023-10-30,83.4
+C001395,Cliente C001395,PF,Varejo,Ribeirão Preto,SP,Televendas,2025-05-02,63.0
+C001396,Cliente C001396,PJ,Premium,Uberlândia,MG,Online,2021-05-02,65.2
+C001397,Cliente C001397,PF,Premium,Santa Maria,RS,Online,2024-11-27,72.3
+C001398,Cliente C001398,PF,Varejo,Porto Alegre,RS,Loja Física,2025-01-23,73.7
+C001399,Cliente C001399,PF,Varejo,Fortaleza,CE,Online,2021-02-03,62.7
+C001400,Cliente C001400,PF,Corporate,Campinas,SP,Online,2020-04-03,70.9
+C001401,Cliente C001401,PF,Atacado,Ribeirão Preto,SP,Online,2023-07-13,57.3
+C001402,Cliente C001402,PF,Corporate,Brasília,DF,Loja Física,2024-08-23,74.1
+C001403,Cliente C001403,PF,Atacado,Feira de Santana,BA,Loja Física,2022-04-23,96.8
+C001404,Cliente C001404,PF,Atacado,Sorocaba,SP,Marketplace,2024-01-25,67.0
+C001405,Cliente C001405,PF,Premium,Taguatinga,DF,Online,2025-07-19,61.6
+C001406,Cliente C001406,PF,Varejo,Feira de Santana,BA,Online,2020-09-14,74.4
+C001407,Cliente C001407,PF,Varejo,Campinas,SP,Marketplace,2020-05-27,69.4
+C001408,Cliente C001408,PJ,Atacado,São Paulo,SP,Online,2022-03-05,59.2
+C001409,Cliente C001409,PJ,Premium,Caucaia,CE,Loja Física,2023-07-11,47.8
+C001410,Cliente C001410,PF,Varejo,Recife,PE,Loja Física,2023-12-16,68.9
+C001411,Cliente C001411,PF,Varejo,Vitória da Conquista,BA,Online,2020-09-25,70.4
+C001412,Cliente C001412,PF,Varejo,Taguatinga,DF,Loja Física,2025-03-03,87.1
+C001413,Cliente C001413,PJ,Varejo,Londrina,PR,Online,2021-02-14,77.8
+C001414,Cliente C001414,PJ,Atacado,Recife,PE,Online,2021-09-03,75.9
+C001415,Cliente C001415,PF,Corporate,Maracanaú,CE,Online,2021-06-28,72.6
+C001416,Cliente C001416,PF,Varejo,Sorocaba,SP,Online,2022-04-30,58.9
+C001417,Cliente C001417,PF,Premium,Gama,DF,Loja Física,2025-05-18,84.5
+C001418,Cliente C001418,PF,Varejo,Fortaleza,CE,Online,2023-11-24,77.5
+C001419,Cliente C001419,PJ,Varejo,São Paulo,SP,Marketplace,2020-01-15,86.7
+C001420,Cliente C001420,PF,Varejo,Curitiba,PR,Marketplace,2023-11-09,78.3
+C001421,Cliente C001421,PJ,Atacado,Curitiba,PR,Online,2023-02-06,84.6
+C001422,Cliente C001422,PJ,Varejo,Olinda,PE,Online,2020-10-21,93.3
+C001423,Cliente C001423,PJ,Varejo,Maracanaú,CE,Online,2020-06-20,55.7
+C001424,Cliente C001424,PF,Varejo,Joinville,SC,Televendas,2024-06-04,33.6
+C001425,Cliente C001425,PJ,Corporate,Santa Maria,RS,Loja Física,2023-06-27,48.5
+C001426,Cliente C001426,PF,Premium,Niterói,RJ,Loja Física,2021-03-29,54.0
+C001427,Cliente C001427,PF,Varejo,Chapecó,SC,Loja Física,2020-05-16,64.0
+C001428,Cliente C001428,PF,Varejo,Brasília,DF,Online,2021-09-14,74.4
+C001429,Cliente C001429,PF,Atacado,Londrina,PR,Online,2022-09-08,73.7
+C001430,Cliente C001430,PF,Premium,Chapecó,SC,Loja Física,2025-02-14,81.6
+C001431,Cliente C001431,PF,Varejo,Santa Maria,RS,Online,2023-07-26,86.8
+C001432,Cliente C001432,PF,Corporate,Recife,PE,Online,2022-12-04,56.0
+C001433,Cliente C001433,PF,Atacado,Campinas,SP,Online,2025-07-04,73.7
+C001434,Cliente C001434,PF,Varejo,Jaboatão dos Guararapes,PE,Marketplace,2020-09-01,87.0
+C001435,Cliente C001435,PF,Atacado,Caruaru,PE,Online,2022-09-22,66.4
+C001436,Cliente C001436,PJ,Corporate,Londrina,PR,Online,2022-03-21,74.3
+C001437,Cliente C001437,PF,Varejo,São Paulo,SP,Loja Física,2022-03-14,80.7
+C001438,Cliente C001438,PF,Varejo,Belo Horizonte,MG,Loja Física,2024-11-28,89.9
+C001439,Cliente C001439,PF,Varejo,Sorocaba,SP,Marketplace,2022-11-01,57.8
+C001440,Cliente C001440,PF,Varejo,Niterói,RJ,Loja Física,2022-07-17,67.0
+C001441,Cliente C001441,PF,Varejo,Florianópolis,SC,Online,2022-03-05,81.1
+C001442,Cliente C001442,PJ,Premium,Ceilândia,DF,Online,2022-02-18,70.7
+C001443,Cliente C001443,PF,Premium,Fortaleza,CE,Online,2025-06-29,92.7
+C001444,Cliente C001444,PF,Corporate,Vitória da Conquista,BA,Online,2021-08-18,82.8
+C001445,Cliente C001445,PF,Varejo,Jaboatão dos Guararapes,PE,Loja Física,2022-03-21,46.9
+C001446,Cliente C001446,PF,Varejo,Santa Maria,RS,Marketplace,2024-08-27,39.8
+C001447,Cliente C001447,PJ,Atacado,Belo Horizonte,MG,Loja Física,2023-12-05,61.0
+C001448,Cliente C001448,PF,Varejo,Uberlândia,MG,Loja Física,2025-01-18,66.8
+C001449,Cliente C001449,PF,Atacado,Feira de Santana,BA,Online,2022-11-11,63.7
+C001450,Cliente C001450,PF,Varejo,Ponta Grossa,PR,Loja Física,2023-02-02,41.9
+C001451,Cliente C001451,PF,Varejo,Santos,SP,Online,2021-11-19,92.3
+C001452,Cliente C001452,PF,Varejo,Gama,DF,Loja Física,2023-03-07,69.3
+C001453,Cliente C001453,PF,Premium,Porto Alegre,RS,Online,2024-04-08,80.1
+C001454,Cliente C001454,PF,Premium,Ponta Grossa,PR,Marketplace,2020-04-11,47.2
+C001455,Cliente C001455,PF,Varejo,Santos,SP,Televendas,2021-11-26,77.6
+C001456,Cliente C001456,PF,Premium,Ceilândia,DF,Online,2021-07-05,78.6
+C001457,Cliente C001457,PJ,Varejo,Uberlândia,MG,Online,2024-06-19,59.1
+C001458,Cliente C001458,PJ,Corporate,Ribeirão Preto,SP,Loja Física,2021-02-23,55.0
+C001459,Cliente C001459,PF,Varejo,Vitória da Conquista,BA,Online,2021-07-11,78.7
+C001460,Cliente C001460,PJ,Varejo,Florianópolis,SC,Online,2024-08-31,53.4
+C001461,Cliente C001461,PF,Varejo,Olinda,PE,Online,2025-03-06,58.4
+C001462,Cliente C001462,PJ,Varejo,Taguatinga,DF,Online,2023-05-17,79.1
+C001463,Cliente C001463,PF,Corporate,Niterói,RJ,Online,2022-08-04,77.7
+C001464,Cliente C001464,PF,Varejo,Vitória da Conquista,BA,Loja Física,2021-01-17,84.4
+C001465,Cliente C001465,PF,Atacado,Olinda,PE,Loja Física,2025-05-17,61.1
+C001466,Cliente C001466,PF,Varejo,Curitiba,PR,Loja Física,2020-12-21,67.6
+C001467,Cliente C001467,PF,Varejo,Volta Redonda,RJ,Online,2024-10-17,79.2
+C001468,Cliente C001468,PJ,Corporate,Caruaru,PE,Marketplace,2021-10-04,59.8
+C001469,Cliente C001469,PF,Corporate,Juiz de Fora,MG,Online,2020-08-09,54.0
+C001470,Cliente C001470,PJ,Atacado,São Paulo,SP,Televendas,2020-03-14,88.1
+C001471,Cliente C001471,PJ,Varejo,Santos,SP,Online,2020-03-07,63.4
+C001472,Cliente C001472,PJ,Varejo,Campinas,SP,Marketplace,2022-06-10,36.5
+C001473,Cliente C001473,PJ,Premium,Juiz de Fora,MG,Loja Física,2022-07-28,77.4
+C001474,Cliente C001474,PF,Varejo,Pelotas,RS,Online,2024-11-25,64.4
+C001475,Cliente C001475,PJ,Premium,Taguatinga,DF,Online,2020-05-30,60.1
+C001476,Cliente C001476,PJ,Varejo,Curitiba,PR,Online,2023-08-27,83.3
+C001477,Cliente C001477,PF,Varejo,Brasília,DF,Loja Física,2021-08-19,66.3
+C001478,Cliente C001478,PF,Premium,Ponta Grossa,PR,Online,2020-03-31,89.5
+C001479,Cliente C001479,PF,Atacado,Florianópolis,SC,Online,2024-12-28,75.9
+C001480,Cliente C001480,PJ,Atacado,Vitória da Conquista,BA,Loja Física,2020-03-09,77.0
+C001481,Cliente C001481,PF,Varejo,Ceilândia,DF,Online,2020-12-29,74.4
+C001482,Cliente C001482,PF,Varejo,Caucaia,CE,Marketplace,2021-09-07,41.6
+C001483,Cliente C001483,PF,Varejo,Feira de Santana,BA,Marketplace,2023-09-07,79.6
+C001484,Cliente C001484,PJ,Varejo,Caucaia,CE,Loja Física,2024-10-08,74.3
+C001485,Cliente C001485,PF,Varejo,Olinda,PE,Loja Física,2023-10-10,61.4
+C001486,Cliente C001486,PJ,Varejo,Niterói,RJ,Loja Física,2025-04-09,39.1
+C001487,Cliente C001487,PF,Atacado,Florianópolis,SC,Loja Física,2024-11-24,53.2
+C001488,Cliente C001488,PF,Varejo,Caruaru,PE,Marketplace,2023-08-07,70.9
+C001489,Cliente C001489,PJ,Varejo,Juiz de Fora,MG,Online,2022-06-02,52.5
+C001490,Cliente C001490,PF,Varejo,Camaçari,BA,Loja Física,2024-08-12,96.0
+C001491,Cliente C001491,PF,Corporate,Campinas,SP,Online,2023-06-11,86.9
+C001492,Cliente C001492,PF,Varejo,Sorocaba,SP,Loja Física,2023-02-01,80.4
+C001493,Cliente C001493,PF,Varejo,Maracanaú,CE,Marketplace,2024-01-04,88.3
+C001494,Cliente C001494,PF,Premium,Uberlândia,MG,Online,2025-04-26,42.6
+C001495,Cliente C001495,PJ,Atacado,Taguatinga,DF,Loja Física,2023-01-21,78.9
+C001496,Cliente C001496,PF,Atacado,Recife,PE,Online,2022-12-12,71.5
+C001497,Cliente C001497,PF,Varejo,Salvador,BA,Loja Física,2021-06-10,81.3
+C001498,Cliente C001498,PF,Premium,Niterói,RJ,Online,2022-03-23,76.7
+C001499,Cliente C001499,PF,Varejo,Volta Redonda,RJ,Loja Física,2025-07-09,89.7
+C001500,Cliente C001500,PF,Varejo,Santos,SP,Loja Física,2023-12-22,89.4
